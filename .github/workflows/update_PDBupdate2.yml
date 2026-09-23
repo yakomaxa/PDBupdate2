@@ -37,11 +37,7 @@ jobs:
 
       - name: Generate PDB Summary
         run: |
-          python .github/scripts/generate_pdb_summary.py \
-            .github/scripts/template.html \
-            .github/scripts/modal_block.js \
-            yes \
-	    
+          python .github/scripts/generate_pdb_summary.py .github/scripts/template.html .github/scripts/modal_block.js yes	    
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
