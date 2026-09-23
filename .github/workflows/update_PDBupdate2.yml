@@ -42,6 +42,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html pdb_entries.tsv || true
+          git add docs/index.html entries.tsv || true
           git commit -m "Update PDB summary page (${{ env.RELEASE_DATE }})" || echo "No changes to commit"
           git push
