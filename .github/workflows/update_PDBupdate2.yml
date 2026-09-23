@@ -41,7 +41,6 @@ jobs:
             .github/scripts/template.html \
             .github/scripts/modal_block.js \
             yes \
-            "${{ env.RELEASE_DATE }}"
 	    
       - name: Commit and push changes
         run: |
