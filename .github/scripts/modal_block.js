@@ -8,6 +8,12 @@
       <button type="button" class="nav-btn next-btn" onclick="nextImage(); event.stopPropagation();" title="Next">&#10095;</button>
     </div>
 
+    <!-- ID and Title placed at the top -->
+    <div class="modal-details-top">
+      <h3 id="modalAcc"></h3>
+      <div class="modal-title" id="modalTitle"></div>
+    </div>
+
     <div class="modal-images">
       <div class="img-box">
         <h4>PDBj MolMil Render</h4>
@@ -38,14 +44,11 @@
       </div>
     </div>
 
-    <div class="modal-details">
-      <h3 id="modalAcc"></h3>
-      <div class="modal-title" id="modalTitle"></div>
-      <div class="modal-links">
-        <a id="linkPDBj" href="#" target="_blank" class="btn">View on PDBj</a>
-        <a id="linkRCSB" href="#" target="_blank" class="btn btn-secondary">View on RCSB</a>
-        <a id="linkPDBe" href="#" target="_blank" class="btn btn-secondary">View on PDBe</a>
-      </div>
+    <!-- Links at the bottom -->
+    <div class="modal-links">
+      <a id="linkPDBj" href="#" target="_blank" class="btn">View on PDBj</a>
+      <a id="linkRCSB" href="#" target="_blank" class="btn btn-secondary">View on RCSB</a>
+      <a id="linkPDBe" href="#" target="_blank" class="btn btn-secondary">View on PDBe</a>
     </div>
 
     <div id="modalIndex"></div>
@@ -63,7 +66,7 @@ function openModal(index) {
   currentIndex = index;
   updateModal();
   document.getElementById("modal").style.display = "flex";
-  document.body.style.overflow = "hidden"; // Disable background scrolling when modal is open
+  document.body.style.overflow = "hidden";
 }
 
 function updateModal() {
@@ -152,4 +155,3 @@ function handleSwipe() {
   }
 }
 </script>
-
