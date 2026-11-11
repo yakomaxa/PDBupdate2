@@ -1,932 +1,273 @@
-25xz	25XZ: Pseudomonas aeruginosa AchC1 (YfdX1) at pH 8.5	chajung@ewha.ac.kr
-22yn	22YN: Rotated 80S with A/A'-P/E tRNA	yuanshuai@wh.iov.cn
-25yb	25YB: Pseudomonas aeruginosa AchC1 (YfdX1) at pH 3.0	chajung@ewha.ac.kr
-26iw	26IW: Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (Ca2+ dataset, Local refinement of Core domain)	haru@pharm.kyoto-u.ac.jp
-27vf	27VF: smKCS6-smCER2 complex carrying the V434N mutation in smKCS6	yjcheng@mail.hzau.edu.cn
-29jv	29JV: Putative Polyurethane Degrading Esterase in Peptide Bound State	dao@inano.au.dk
-29qe	29QE: Putative Polyurethane Degrading Esterase Bound to Fragment VT00165	dao@inano.au.dk
-29wr	29WR: Structure of the amyloid-forming peptide LLQGLV from human secretin	perczel.andras@ttk.elte.hu
-9t44	9T44: Inward-open structure of a Zn2+-transporting P-type ATPase	pontus.gourdon@med.lu.se
-9z09	9Z09: Crystal structure of M. tuberculosis ProRS bound to 3-(4-bromobenzamido)pyrazine-2-carboxamide (compound 4e)	andrzejj@anl.gov
-9zvz	9ZVZ: SARS-CoV-2 S 2P with C-terminal 3X oP3h motif (RINEIER) - local refinement	dveesler@uw.edu
-9xgi	9XGI: First-generation 2N4R human tau filaments seeded by Alzheimer's disease tau	yshi22@zju.edu.cn
-9xhf	9XHF: ancestral sortase E 2	snakano@u-shizuoka-ken.ac.jp
-30ay	30AY: Structure of the soluble domain of chimeric Adenylyl cyclase 95 in complex with stimulatory G protein, ATPalphaS, and forskolin	volodymyr.korkhov@psi.ch
-30om	30OM: Putative Polyurethane Degrading Amidase Bound to Fragment VT00022	dao@inano.au.dk
-30qy	30QY: Putative Polyurethane Degrading Amidase Bound to Fragment VT00248	dao@inano.au.dk
-31op	31OP: CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State II	christos.gatsogiannis@uni-muenster.de
-33wp	33WP: Single protofilament with the Alzheimer tau fold and the V337M mutation from seeded primary murine neurons	mg@mrclmb.ac.uk
-36op	36OP: Cryo-EM structure of Fluc-Nte in complex with ADP-bound Fcap	stockbr@umich.edu
-37ii	37II: Crystal structure of human monoclonal antibody IFA002	cobarnes@stanford.edu
-37ut	37UT: Cryo-EM structure of human Fibroblast Activation Protein alpha in complex with huB12 IgG	tim.grant@wisc.edu
-39go	39GO: Crystal structure of a bacterial DOT1L methyl-transferase in complex with S-adenosyl homocysteine	alebus@pasteur.edu.uy
-15ev	15EV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005775	jaimefraser@gmail.com
-15rh	15RH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005602	jaimefraser@gmail.com
-26iu	26IU: Structure of recombinant RyR2 in the closed state (EGTA dataset, Local refinement of Core domain)	haru@pharm.kyoto-u.ac.jp
-32me	32ME: Cryo-EM structure of full-length molybdoenzyme ergothioneine synthase from Caldithrix abyssi	florian.seebeck@unibas.ch
-44dn	44DN: Cryo-EM Structure of Dimeric EcCaspase Filament in Apo State	xuxindl@dicp.ac.cn
-9wc7	9WC7: Cryo-EM structure of hACE2 in complex with antibodies F9-43 and F9-64	xiangxixi@ibp.ac.cn
-9yxs	9YXS: Crystal structure of M. tuberculosis ProRS bound to compound 5a	andrzejj@anl.gov
-15bp	15BP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000743	jaimefraser@gmail.com
-15dm	15DM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0006022	jaimefraser@gmail.com
-15ej	15EJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004364	jaimefraser@gmail.com
-15gq	15GQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004889	jaimefraser@gmail.com
-15iy	15IY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005068	jaimefraser@gmail.com
-15jw	15JW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005149	jaimefraser@gmail.com
-15lc	15LC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005235	jaimefraser@gmail.com
-15ls	15LS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005295	jaimefraser@gmail.com
-15pb	15PB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005697	jaimefraser@gmail.com
-15qb	15QB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005811	jaimefraser@gmail.com
-21ld	21LD: Crystal structure of the ester-hydrolyzing ribozyme (EHR)	huanglin36@mail.sysu.edu.cn
-25yd	25YD: Pseudomonas aeruginosa AchC2 (YfdX2) at pH 4.0	chajung@ewha.ac.kr
-29vr	29VR: Structure of the amyloid-forming peptide YLNSIL from human VIP	perczel.andras@ttk.elte.hu
-33ao	33AO: Kineococcus siccus GH5_7 Mannanase, Apo	yehudi.bloch@embl-hamburg.de
-37th	37TH: Minimal diadenylate cyclase from E. coli PanDA immune system - NO IEX	b.morehouse@uci.edu
-9ocz	9OCZ: Cryo-EM structure of the CIII2 without YlbA from Bacillus subtilis	jack.zhang@yale.edu
-9ocv	9OCV: Cryo-EM structure of the CIII2CIV1 respiratory supercomplex from Bacillus subtilis	jack.zhang@yale.edu
-9wbs	9WBS: Cryo-EM structure of hACE2 in complex with antibodies F9-12S and F9-64	xiangxixi@ibp.ac.cn
-9xeh	9XEH: PET hydrolase mutants V53A, C208K, C257S	454156870@qq.com
-9xf6	9XF6: Bacterial IgM-degrading enzyme	chengchen@tju.edu.cn
-9zxv	9ZXV: HHV6B gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - DII-DV local refinement	dveesler@uw.edu
-9zw1	9ZW1: SARS-CoV-2 S 2P with C-terminal 4X oP3h motif (RINAIET) - local refinement	dveesler@uw.edu
-15dh	15DH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004108	jaimefraser@gmail.com
-15hc	15HC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004906	jaimefraser@gmail.com
-15gm	15GM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004882	jaimefraser@gmail.com
-15ib	15IB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005012	jaimefraser@gmail.com
-15fk	15FK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004796	jaimefraser@gmail.com
-15dd	15DD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004060	jaimefraser@gmail.com
-15it	15IT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005045	jaimefraser@gmail.com
-15lu	15LU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005299	jaimefraser@gmail.com
-15la	15LA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005227	jaimefraser@gmail.com
-15ks	15KS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005202	jaimefraser@gmail.com
-15qy	15QY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004702	jaimefraser@gmail.com
-15pi	15PI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005526	jaimefraser@gmail.com
-15ng	15NG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005413	jaimefraser@gmail.com
-15nj	15NJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005417	jaimefraser@gmail.com
-29nw	29NW: Putative Polyurethane degrading esterase in p-nitrophenol bound state	dao@inano.au.dk
-30pl	30PL: Putative Polyurethane Degrading Amidase Bound to Fragment VT00136	dao@inano.au.dk
-36oo	36OO: Cryo-EM structure of Fluc-Nte in complex with cAMP-bound Fcap	stockbr@umich.edu
-37xo	37XO: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic-FHA, composite)	fsp8ux@virginia.edu
-9s2z	9S2Z: Crystal structure of Usp10 catalytic domain bound to Ub-PA	dikic@biochem2.uni-frankfurt.de
-9ihj	9IHJ: Recombinant spore-silk A-ENA fibers	han.remaut@vub.be
-9umi	9UMI: Crystal structure of the SARS-CoV-2 spike protein HR1 in complex with a designed peptide inhibitor dP-S2FI-22 at 1.95 angstrom resolution	yesheng@buaa.edu.cn
-9xer	9XER: Type IIb alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	yshi22@zju.edu.cn
-9xds	9XDS: Crystal Structure of Fructose-1,6-bisphosphatase Complexed with a Covalent Inhibitor	renyl@mail.ccnu.edu.cn
-9zuf	9ZUF: EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - Global refinement	dveesler@uw.edu
-15bc	15BC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000726	jaimefraser@gmail.com
-15dj	15DJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004193	jaimefraser@gmail.com
-15hk	15HK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004920	jaimefraser@gmail.com
-15ip	15IP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005032	jaimefraser@gmail.com
-15js	15JS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005141	jaimefraser@gmail.com
-15pp	15PP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005565	jaimefraser@gmail.com
-15nv	15NV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005461	jaimefraser@gmail.com
-15rc	15RC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004708	jaimefraser@gmail.com
-39pl	39PL: SARS-CoV-2 Main Protease with Secutrelvir	kovari@med.wayne.edu
-38fi	38FI: Bacteroides SusCD Unliganded - Open w/ Plug	nkoropat@umich.edu
-9xhv	9XHV: The cryo-EM structure of F-PI2620 bound Tau PHF fibril	tianyi-cao@sjtu.edu.cn
-9tjo	9TJO: Crystal structure of the apo CYP123 from Mycobacterium smegmatis	yi.jin@manchester.ac.uk
-9zer	9ZER: Germline-like TCR156 bound to single-chain NYESO-B2M-HLA-A*02	kcgarcia@stanford.edu
-9rrw	9RRW: Anti FIXa VHH of inno8 in complex with truncated FIXa (catalytic and EGF2 domains)	evjh@novonordisk.com
-9xhx	9XHX: The cryo-EM structure of PBB3 bound Tau PHF fibril	tianyi-cao@sjtu.edu.cn
-9zes	9ZES: Germline-like TCR156 bound to single-chain poly-Ala-B2M-HLA-A*02	kcgarcia@stanford.edu
-29qc	29QC: Putative Polyurethane Degrading Esterase Bound to Fragment VT00085	dao@inano.au.dk
-26iy	26IY: Co-crystal structure of PHBDD variant L163G-T234A-R166M-E259L with N-(2-hydroxyethyl)-4-methylbenzamide	jun_yang96@163.com
-37xq	37XQ: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic, composite)	fsp8ux@virginia.edu
-9r14	9R14: Bovine complex I at pH 9.2 in the active state	jh480@cam.ac.uk
-9t16	9T16: Crystal structure of human BRD4-BD1 bromodomain in complex with compound 960	bruno.correia@epfl.ch
-9xhk	9XHK: Cryo-EM structure of the native ARC-bound 70S ribosome from stationary-phase Methanolobus	wenfeili@sdu.edu.cn
-9xhe	9XHE: The cryo-EM structure of Congored bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-9squ	9SQU: Structure of trans-basal conformer of human CBS encompassing 16-18 dimer repeating units (in absence of substrate and allosteric ligand)- by Helical approach	inayathulla.mohammed@epfl.ch
-33cn	33CN: Streptomyces sp. TLI_171 GH5_7 Mannanase, E337Q, mannan bound	yehudi.bloch@embl-hamburg.de
-9zwc	9ZWC: HSV1 gB dimer of prefusion-1 trimer and prefusion-2 trimer with "deliD" mutations	dveesler@uw.edu
-32ye	32YE: Kineococcus siccus GH5_7 Mannanase, AMPD bound	yehudi.bloch@embl-hamburg.de
-9urx	9URX: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to ATP	huanglin36@mail.sysu.edu.cn
-9zw0	9ZW0: SARS-CoV-2 S 2P with C-terminal 4X oP3h motif (RINAIET)	dveesler@uw.edu
-30op	30OP: Putative Polyurethane Degrading Amidase Bound to Fragment VT00048	dao@inano.au.dk
-9tgx	9TGX: Guanidine prenyltransferase NosH in complex with guanidine	jesko.koehnke@lci.uni-hannover.de
-15gp	15GP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004887	jaimefraser@gmail.com
-15ez	15EZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005781	jaimefraser@gmail.com
-30qp	30QP: Putative Polyurethane Degrading Amidase Bound to Fragment VT00235	dao@inano.au.dk
-38fh	38FH: Bacteroides SusCD Unliganded - Closed w/o Plug	nkoropat@umich.edu
-9uiw	9UIW: Plasmodium vivax cytoplasmic Phenylalanyl-tRNA synthetase in complex with Phenylalanine in space group P21212 at 2.60 A	amit.icgeb@gmail.com
-9xm1	9XM1: Crystal structure of glucooligosaccharide oxidase from Hapsidospora chrysogenum in complex with glucose	aquarius@mail.ecc.u-tokyo.ac.jp
-9yyw	9YYW: Crystal structure of antibody HKU1-2	wilson@scripps.edu
-21rx	21RX: insect ALKA channel	zhang.ss@phytovent.com
-29nv	29NV: Putative Polyurethane Degrading Esterase in cleavage product of DUE-TDA bound state	dao@inano.au.dk
-33bu	33BU: Streptomyces sp. TLI_171 GH5_7 Mannanase, WT, product bound	yehudi.bloch@embl-hamburg.de
-9zw2	9ZW2: HSV1 gB prefusion-2 trimers with "deliD" mutations	dveesler@uw.edu
-9zxo	9ZXO: EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - DII-DV local refinement	dveesler@uw.edu
-15qw	15QW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004698	jaimefraser@gmail.com
-15pe	15PE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005517	jaimefraser@gmail.com
-15ah	15AH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000549	jaimefraser@gmail.com
-15be	15BE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000680	jaimefraser@gmail.com
-15cw	15CW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003869	jaimefraser@gmail.com
-15fw	15FW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004822	jaimefraser@gmail.com
-15fr	15FR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004809	jaimefraser@gmail.com
-15hm	15HM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004938	jaimefraser@gmail.com
-15hn	15HN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004945	jaimefraser@gmail.com
-15iu	15IU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005049	jaimefraser@gmail.com
-15ju	15JU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005144	jaimefraser@gmail.com
-15lw	15LW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005301	jaimefraser@gmail.com
-15nb	15NB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005401	jaimefraser@gmail.com
-15ns	15NS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005159	jaimefraser@gmail.com
-15qn	15QN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005829	jaimefraser@gmail.com
-15pr	15PR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005575	jaimefraser@gmail.com
-25nz	25NZ: Solution structure of the DNA-binding domain of Escherichia coli H-NS in complex with DNA	binxia@pku.edu.cn
-9oct	9OCT: Cryo-EM structure of the cytochrome bc complex (CIII2) from Bacillus subtilis	jack.zhang@yale.edu
-9sz8	9SZ8: Crystal structure of the human METTL3-METTL14 in complex with COD_ME_26	caflisch@bioc.uzh.ch
-9xgf	9XGF: Type B 2N4R human tau filaments induced by heparan sulfate with a single-protofilament fold	yshi22@zju.edu.cn
-9ywb	9YWB: Hypomethylated nucleoplasmic pre-60S intermediate containing Nog2 at Rsa4-arrested 5S post-rotation state	hong.li@vai.org
-9s2y	9S2Y: Crystal structure of Usp10 catalytic domain (apo state)	dikic@biochem2.uni-frankfurt.de
-9xdo	9XDO: Cryo-EM structure of the H3K64ac nucleosome	kurumizaka@iqb.u-tokyo.ac.jp
-9xgj	9XGJ: Second-generation 2N4R human tau filaments seeded by Alzheimer's disease tau in the presence of heparan sulfate	yshi22@zju.edu.cn
-15lt	15LT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005298	jaimefraser@gmail.com
-37us	37US: Cryo-EM structure of human Fibroblast Activation Protein alpha in complex with H4 VNAR	tim.grant@wisc.edu
-15ad	15AD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000412	jaimefraser@gmail.com
-15aw	15AW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000678	jaimefraser@gmail.com
-15cb	15CB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001499	jaimefraser@gmail.com
-15ee	15EE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004271	jaimefraser@gmail.com
-15fx	15FX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004823	jaimefraser@gmail.com
-15kc	15KC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005449	jaimefraser@gmail.com
-15kt	15KT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005210	jaimefraser@gmail.com
-15nu	15NU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005460	jaimefraser@gmail.com
-15od	15OD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005481	jaimefraser@gmail.com
-21oj	21OJ: Crystal Structure of the second bromodomain of human BRD4 BD2 in complex with the covalent inhibitor	zhangzm@jnu.edu.cn
-26it	26IT: Structure of recombinant RyR2 in the open state (Ca2+ dataset, Local refinement of Core domain)	haru@pharm.kyoto-u.ac.jp
-9ntd	9NTD: Cryo-EM structure of UL5/UL8/UL52 from Herpes Simplex Virus 1 in the presence of ATP-gamma-S	williamsrs@niehs.nih.gov
-9sz2	9SZ2: Crystal structure of the human METTL3-METTL14 in complex with COD_ME_01	caflisch@bioc.uzh.ch
-9umy	9UMY: Cryo-EM structure of hemagglutinin from the A/California/04/2009 (H1N1) influenza virus with stabilizing mutations	jieoh@postech.ac.kr
-9m75	9M75: Cryo-EM structure of human UHRF1 bound to mononucleosome with hemimethylated DNA at superhelical location -6.2.	andreas.naschberger@kaust.edu.sa
-37uu	37UU: Cryo-EM structure of human Fibroblast Activation Protein alpha in complex with F7 VHH	tim.grant@wisc.edu
-21zw	21ZW: Cdc48-Ufd1-Npl4 complex processing polyUbEOS in the presence of ubx2	panman@sjtu.edu.cn
-30nx	30NX: Cryo-EM structure of Acinetobacter baumannii LolDF bound to abaucin with lipoprotein	haohaodong@scu.edu.cn
-9ptt	9PTT: Protein Complex(local refinement)	xiaochun.li@utsouthwestern.edu
-9suw	9SUW: S-Adenosylmethionine synthetase of Escherichia coli I103A in complex with (S,R)-SAM and PNP	wulf.blankenfeldt@helmholtz-hzi.de
-9tc7	9TC7: Inactive-state structure of GPR55 in complex with BI-6229	dietmar.weichert@boehringer-ingelheim.com
-9yyt	9YYT: Crystal structure of M. tuberculosis ProRS bound to compound 4c	andrzejj@anl.gov
-9yzx	9YZX: Crystal structure of M. tuberculosis ProRS bound to compound 4d	andrzejj@anl.gov
-9xib	9XIB: SARS-CoV-2 Omicron LP.8.1 spike trimer (S-6P) in complex with 3 ZL58 Fabs and 3 ZL525 Fabs	xiong_xiaoli@gibh.ac.cn
-10sv	10SV: Solution structure of the surface domain of the Borrelia burgdorferi outer surface lipoprotein BBA36	garry.buchko@pnnl.gov
-12sx	12SX: Cryo-EM structure of Vibrio cholerae divisome complex FtsWIQLB (periplasmic conformation 1)	seok-yong.lee@duke.edu
-12sy	12SY: Cryo-EM structure of Vibrio cholerae divisome complex FtsWIQLB (periplasmic conformation 2)	seok-yong.lee@duke.edu
-15af	15AF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000556	jaimefraser@gmail.com
-15ax	15AX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000718	jaimefraser@gmail.com
-15au	15AU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000676	jaimefraser@gmail.com
-15ay	15AY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000721	jaimefraser@gmail.com
-15bg	15BG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000730	jaimefraser@gmail.com
-15bl	15BL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000741	jaimefraser@gmail.com
-15cc	15CC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001502	jaimefraser@gmail.com
-15bv	15BV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000732	jaimefraser@gmail.com
-15ce	15CE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001509	jaimefraser@gmail.com
-15cs	15CS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003620	jaimefraser@gmail.com
-15cy	15CY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004059	jaimefraser@gmail.com
-15da	15DA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004095	jaimefraser@gmail.com
-15et	15ET: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0006004	jaimefraser@gmail.com
-15fl	15FL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004797	jaimefraser@gmail.com
-25yc	25YC: Pseudomonas aeruginosa AchC2 (YfdX2) at pH 7.0	chajung@ewha.ac.kr
-26hn	26HN: Crystal structure of PaALDH variant	jun_yang96@163.com
-28jb	28JB: Structure of DarM methyltransferase in complex with SAH	jesko.koehnke@lci.uni-hannover.de
-29jy	29JY: Putative Polyurethane Degrading Esterase in PMS bound state	dao@inano.au.dk
-29rs	29RS: Putative Polyurethane Degrading Esterase Bound to Fragment VT00401	dao@inano.au.dk
-45ma	45MA: Crystal structure of Nicotiana tabacum protoporphyrinogen oxidase (NtPPO2) in complex with compound 6a	luodingfeng@hunaas.cn
-9urq	9URQ: Crystal structure of Ade1301 DNA aptamer (two strands) bound to adenosine at 1.38 angstrom	huanglin36@mail.sysu.edu.cn
-9zvp	9ZVP: EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - DI-DV local refinement	dveesler@uw.edu
-9xgt	9XGT: Structure of the EpHTT from Echinacea purpurea	dan-tang@foxmail.com
-30az	30AZ: Structure of the occluded-state soluble domain of human Adenylyl cyclase 9 in complex with stimulatory G protein, ATPalphaS, and forskolin	volodymyr.korkhov@psi.ch
-30po	30PO: Apo Structure of a TrkB Agonist	Neil.McDonald@crick.ac.uk
-30un	30UN: Crystal structure of Homoserine O-succinyltransferase from Cupriavidus Necator	s.schmidt@rug.nl
-31ss	31SS: Crystal structure of Cysteine Desulfurase domain of Molybdopterin-dependent Ergothioneine Synthase	florian.seebeck@unibas.ch
-36ck	36CK: Crystal structure of human Argonaute2 in complex with a fully modified siRNA with a 5' methyl phosphate	macrae@scripps.edu
-37qc	37QC: Human beta-cardiac myosin S1 motor domain carrying the E525K mutation with the essential light chain in the pre-powerstroke state	raul.padron@umassmed.edu
-38bh	38BH: Gallus gallus lysozyme in space group P43212 determined to 1.15 A resolution.	mjunop@uwo.ca
-15bo	15BO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000711	jaimefraser@gmail.com
-15rs	15RS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005784	jaimefraser@gmail.com
-29zk	29ZK: Putative Polyurethane Degrading Amidase in Ligand Free State in Crystal Form 1	dao@inano.au.dk
-39qw	39QW: SaPIbov1 Rep:dsDNA component 1 frame 0	price@uchicago.edu
-9xgu	9XGU: The cryo-EM structure of F-BF227 bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-9zet	9ZET: TCR AS4.2 bound to single-chain PRPF3-B2M-HLA-B*27:05	kcgarcia@stanford.edu
-15bs	15BS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000686	jaimefraser@gmail.com
-15ep	15EP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005992	jaimefraser@gmail.com
-15hy	15HY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004975	jaimefraser@gmail.com
-15jv	15JV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005148	jaimefraser@gmail.com
-15lm	15LM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005274	jaimefraser@gmail.com
-15mw	15MW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005387	jaimefraser@gmail.com
-15ri	15RI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005609	jaimefraser@gmail.com
-27dn	27DN: Cryo-EM Structure of Hybrid NRPS-PKS Enzyme CorA from the myxobacterium Corallococcus exiguus	zhang_wei@sdu.edu.cn
-30xn	30XN: Human DTX4 RING-DTC domains	jon.elkins@cmd.ox.ac.uk
-37xx	37XX: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (FHA, composite)	fsp8ux@virginia.edu
-9tup	9TUP: Pseudomonas aeruginosa T6SS effector Tne3 in complex with its cognate immunity protein Tni3	davidalbesa@gmail.com
-9xfn	9XFN: Structure of QARRN peptide	barnwal@pu.ac.in
-9yua	9YUA: Pyrin PYD filament	wu@crystal.harvard.edu
-15hi	15HI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004923	jaimefraser@gmail.com
-15gu	15GU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004893	jaimefraser@gmail.com
-15ha	15HA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004904	jaimefraser@gmail.com
-15em	15EM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005437	jaimefraser@gmail.com
-15ka	15KA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005443	jaimefraser@gmail.com
-15kl	15KL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005588	jaimefraser@gmail.com
-15qv	15QV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005842	jaimefraser@gmail.com
-15rb	15RB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004707	jaimefraser@gmail.com
-15na	15NA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005399	jaimefraser@gmail.com
-29kx	29KX: Putative Polyurethane Degrading Esterase in 4,4-MDA bound state	dao@inano.au.dk
-22iq	22IQ: Cryo-EM Structure of Dimer-of-Dimers EcCaspase Bound to N7-cADPR	xuxindl@dicp.ac.cn
-39rb	39RB: SaPIbov1 Rep:dsDNA component 2 frame 9	price@uchicago.edu
-9o5y	9O5Y: VAR2CSA in complex with V2C.015 Fab	andrew@scripps.edu
-9v2e	9V2E: CTP synthase dDON-condition state 4	liujl3@shanghaitech.edu.cn
-9un0	9UN0: Cryo-EM structure of hemagglutinin from the A/Malaysia/1706215/2007 (H1N1) influenza virus with stabilizing mutations	jieoh@postech.ac.kr
-9xie	9XIE: Crystal structure of Macrobrachium rosenbergii lipocalin (apo form)	gzhao@cau.edu.cn
-15dp	15DP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004118	jaimefraser@gmail.com
-15io	15IO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005028	jaimefraser@gmail.com
-15no	15NO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005439	jaimefraser@gmail.com
-27vi	27VI: smKCS-smCER2 in complex with C22-CoA and MCoA	yjcheng@mail.hzau.edu.cn
-44ds	44DS: Cryo-EM Structure of Tetrameric EcCaspase Filament Bound to N7-cADPR	xuxindl@dicp.ac.cn
-9xen	9XEN: Type Ia alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	yshi22@zju.edu.cn
-29qs	29QS: Putative Polyurethane Degrading Esterase Bound to Fragment VT00227	dao@inano.au.dk
-9t15	9T15: Crystal structure of human BRD4-BD1 bromodomain in complex with compound 662	bruno.correia@epfl.ch
-9zev	9ZEV: Germline-like A3A bound to single-chain Titin-B2M-HLA*A01	kcgarcia@stanford.edu
-28mf	28MF: Cryo-EM structure of Acinetobacter baylyi endogenous LolDF with lipoprotein	haohaodong@scu.edu.cn
-9r24	9R24: Cryo-EM structure of Acinetobacter baumannii LolDF bound abaucin (narrow cavity)	haohaodong@scu.edu.cn
-9xgz	9XGZ: The cryo-EM structure of PBB3 bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-9yye	9YYE: Crystal structure of M. tuberculosis ProRS bound to compound 4a	andrzejj@anl.gov
-9suz	9SUZ: gamma carbonic anhydrase LreCA from Limosilactobacillus reuteri in space group P212121	andrea.angeli@unifi.it
-32ut	32UT: Crystal structure of iodoplatin/B-DNA adduct	antonello.merlino@unina.it
-9yyp	9YYP: Motif1-Motif2-3T left-right hybrid G-quadruplex dimer in the P1211 space group	lyatsun1@swarthmore.edu
-36yz	36YZ: Crystal structure of DUF190 bound to Mg2+	stockbr@umich.edu
-9xgp	9XGP: Acinetobacter baumannii MoaD-MoaE Complex	Yurong.Wen@xjtu.edu.cn
-30hf	30HF: Putative Polyurethane Degrading Amidase DUE-TDA Bound State	dao@inano.au.dk
-9tzf	9TZF: Vibrio cholerae DnaB-DciA open ring complex	earias@cib.csic.es
-9xha	9XHA: Cryo-EM structure of unnatural-base aptamer AptD2 with DENV2 NS1	nureki@bs.s.u-tokyo.ac.jp
-9xhs	9XHS: Crystal structure of Macrobrachium rosenbergii lipocalin in complex with astaxanthin and phosphatidylethanolamine	gzhao@cau.edu.cn
-30va	30VA: Putative Polyurethane Degrading Esterase Bound to TDA Transition Stata Analogue	sth@mbg.au.dk
-9zqn	9ZQN: EBV gB trimer with "deli" mutations (postfusion conformation)	dveesler@uw.edu
-15ny	15NY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005467	jaimefraser@gmail.com
-9xcl	9XCL: Crystal structure of 3-deoxy-8-phosphooctulonate synthase from Acinetobacter baumannii	tmoonday@163.com
-15bb	15BB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000679	jaimefraser@gmail.com
-15ew	15EW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005776	jaimefraser@gmail.com
-15gk	15GK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004879	jaimefraser@gmail.com
-15id	15ID: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005014	jaimefraser@gmail.com
-15jz	15JZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005154	jaimefraser@gmail.com
-15my	15MY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005395	jaimefraser@gmail.com
-15oc	15OC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005479	jaimefraser@gmail.com
-15pv	15PV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005799	jaimefraser@gmail.com
-38yk	38YK: Cryo-EM structure of pSTAT1 bound to importin alpha 5 (2:1 assembly)	gcingola@uab.edu
-9xev	9XEV: Type II alpha-synuclein filament amplified from EV extraction buffer as a blank control for One-Spin RT-QuIC	yshi22@zju.edu.cn
-23ar	23AR: Rotated 80S with A/P-P/E tRNA	yuanshuai@wh.iov.cn
-9xdn	9XDN: Cryo-EM structure of the H3K56ac nucleosome	kurumizaka@iqb.u-tokyo.ac.jp
-15cv	15CV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003864	jaimefraser@gmail.com
-9xh8	9XH8: Cryo-EM structure of unnatural-base aptamer AptD1c with DENV1 NS1 tetramer	nureki@bs.s.u-tokyo.ac.jp
-15ao	15AO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000716	jaimefraser@gmail.com
-15ed	15ED: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004270	jaimefraser@gmail.com
-15iv	15IV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005053	jaimefraser@gmail.com
-15mh	15MH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005330	jaimefraser@gmail.com
-15ow	15OW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005684	jaimefraser@gmail.com
-15rx	15RX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005796	jaimefraser@gmail.com
-9ocx	9OCX: Cryo-EM structure of the CIII2 featuring FES in b-position from Bacillus subtilis	jack.zhang@yale.edu
-9sz6	9SZ6: Crystal structure of the human METTL3-METTL14 in complex with COD_ME_05	caflisch@bioc.uzh.ch
-9ts7	9TS7: Structure of the Plant mitochondrial initiation complex, (SSU, LSU, initiator tRNA, mRNA)	philippe.giege@ibmp-cnrs.unistra.fr
-31or	31OR: CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State IV	christos.gatsogiannis@uni-muenster.de
-9r12	9R12: Bovine complex I at pH 6.0 in the active state	jh480@cam.ac.uk
-9tg1	9TG1: Structure of endogenous human ncBAF bound to nucleosome	papai@igbmc.fr
-9mvn	9MVN: MCRred1-silent	sragsdal@umich.edu
-11lz	11LZ: Crystal structure of Interferon alpha2 bound to IFA001 Fab	cobarnes@stanford.edu
-15ag	15AG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000537	jaimefraser@gmail.com
-15an	15AN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000663	jaimefraser@gmail.com
-15bh	15BH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000740	jaimefraser@gmail.com
-15bt	15BT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000690	jaimefraser@gmail.com
-15ca	15CA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001496	jaimefraser@gmail.com
-15ck	15CK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001494	jaimefraser@gmail.com
-15dn	15DN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004109	jaimefraser@gmail.com
-15dq	15DQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004202	jaimefraser@gmail.com
-15eb	15EB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004266	jaimefraser@gmail.com
-15eh	15EH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004334	jaimefraser@gmail.com
-15fg	15FG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005771	jaimefraser@gmail.com
-15ft	15FT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004817	jaimefraser@gmail.com
-15lk	15LK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005269	jaimefraser@gmail.com
-15ht	15HT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004960	jaimefraser@gmail.com
-15ji	15JI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005097	jaimefraser@gmail.com
-15jk	15JK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005105	jaimefraser@gmail.com
-15kr	15KR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005201	jaimefraser@gmail.com
-15ko	15KO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005193	jaimefraser@gmail.com
-15kz	15KZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005226	jaimefraser@gmail.com
-15mn	15MN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005344	jaimefraser@gmail.com
-15mb	15MB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005317	jaimefraser@gmail.com
-15mu	15MU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005374	jaimefraser@gmail.com
-15nn	15NN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005428	jaimefraser@gmail.com
-15ou	15OU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005677	jaimefraser@gmail.com
-15qr	15QR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005836	jaimefraser@gmail.com
-15po	15PO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005562	jaimefraser@gmail.com
-15qe	15QE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005815	jaimefraser@gmail.com
-15rf	15RF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005123	jaimefraser@gmail.com
-15ry	15RY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005797	jaimefraser@gmail.com
-22xr	22XR: structure of full permease	zhangjr@fudan.edu.cn
-22xq	22XQ: structure of a permease	zhangjr@fudan.edu.dn
-9ocn	9OCN: PC68_L31_570 Fab in complex with HIV-1 Env BG505 SOSIP.664 and RM20A3 Fab	andrew@scripps.edu
-9nx8	9NX8: Cryo-EM structure of UL5/UL52 heterodimer from Herpes Simplex Virus 1 in complex with Pritelivir and ssDNA	williamsrs@niehs.nih.gov
-23ea	23EA: Non-rotated 80S with eRF1(AAQ) and P/P tRNA	yuanshuai@wh.iov.cn
-26iv	26IV: Structure of recombinant RyR2 in complex with Ryanozole in the open conformation (Ca2+ dataset, Local refinement of Core domain)	haru@pharm.kyoto-u.ac.jp
-26jd	26JD: Cryo-EM ternary structure of CD1c presenting a mycobacterial lipid to a T cell receptor	adam.shahine@monash.edu
-26iq	26IQ: Structure of recombinant RyR2 in complex with Ryanozole in the open conformation (Ca2+ dataset)	haru@pharm.kyoto-u.ac.jp
-9oqc	9OQC: Methyl-coenzyme M Reductase red1/red1-silent ensemble cryo-capillary	sragsdal@umich.edu
-9os3	9OS3: Human DHODH in complex with ligand H3D2856	cristy@fcfrp.usp.br
-28oo	28OO: Cryo-EM structure of the RESC1-RESC2 complex bound to KREH2	kowalinski@embl.fr
-29eb	29EB: Cryo-EM structure of Acinetobacter baylyi LolA bound LolDF with lipoprotein	haohaodong@scu.edu.cn
-29ma	29MA: Inhibitor of GTP-Bound KRASG12C	Phil.Day@astx.com
-29mf	29MF: Inhibitor of GTP-Bound KRASG12C	Phil.Day@astx.com
-29oj	29OJ: Putative Polyurethane Degrading Esterase in Complex with DUE-TDA Fragment	dao@inano.au.dk
-29mg	29MG: Inhibitor of GTP-Bound KRASG12C	Phil.Day@astx.com
-29oo	29OO: Putative Polyurethane Degrading Esterase in 2,6-TDI Polypropylene Glycol bound state	dao@inano.au.dk
-29qx	29QX: Putative Polyurethane Degrading Esterase Bound to Fragment VT00167	dao@inano.au.dk
-29ru	29RU: Putative Polyurethane Degrading Esterase Bound to Fragment VT00446	dao@inano.au.dk
-29rw	29RW: Putative Polyurethane Degrading Esterase Bound to VT00424	dao@inano.au.dk
-29rv	29RV: Putative Polyurethane Degrading Esterase Bound to Fragment VT00246	dao@inano.au.dk
-29vs	29VS: Structure of the amyloid-forming peptide YLESLM from human PHM	perczel.andras@ttk.elte.hu
-9r20	9R20: Cryo-EM structure of Acinetobacter baumannii LolDF bound abaucin (wide cavity)	haohaodong@scu.edu.cn
-9sj4	9SJ4: Structure of a circMbl 48S translation initiation complex in the scanning state	ramak@mrc-lmb.cam.ac.uk
-9tml	9TML: Structure of TCR-B targeting GPC3 [FLAELAYDL] peptide bound to HLA-A*02:01	jacinto.lopez.sagaseta@navarra.es
-9uk0	9UK0: Structure of a substrate binding protein HatA in complex with trans-4-hydroxy-L-proline	wangyan313347@163.com
-9v2c	9V2C: CTP synthase dDON-condition state 2	liujl3@shanghaitech.edu.cn
-9v2h	9V2H: CTP synthase dDON-condition state 7	liujl3@shanghaitech.edu.cn
-9z5s	9Z5S: Cryo-EM of the sarco(endo)plasmic reticulum calcium ATPase (SERCA) in presence of calcium and CDN1163	hyoung@ualberta.ca
-9zlx	9ZLX: Thioesterase Domain of Human Fatty Acid Synthase (FASN-TE) in apo form	ncosford@sbpdiscovery.org
-9zup	9ZUP: EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - I5350A2h local refinement	dveesler@uw.edu
-9zvw	9ZVW: VZV gB trimer with "deliD" mutations	dveesler@uw.edu
-9wce	9WCE: Cryo-EM structure of hACE2 in complex with antibodies F9-26 and F9-8S	xiangxixi@ibp.ac.cn
-9xfp	9XFP: Cryo-EM structure of Retron-ATPaseHNH	hu_dbs@nus.edu.sg
-9xga	9XGA: Structure of the Complex between Non-Heme Iron and Alpha-Ketoglutarate-Dependent Halogenase SyrB2 and Carrier Protein SyrB1	jy.huang1@siat.ac.cn
-9xgg	9XGG: Type B 2N4R human tau filaments induced by heparan sulfate with a double-protofilament fold	yshi22@zju.edu.cn
-9xhj	9XHJ: Cryo-EM structure of deep sight fluorescence protein dsFP11	caolongxing@westlake.edu.cn
-9xhd	9XHD: The cryo-EM structure of pFTAA bound type1 amyloid beta 43 fibril	tianyi-cao@sjtu.edu.cn
-9xhl	9XHL: Enzyme directed charge redistribution of substrate underlies regioselectivity in CO2 fixation by salicylic acid decarboxylase	xuesong@dlut.edu.cn
-9xhu	9XHU: The cryo-EM structure of ThS bound Tau PHF fibril	tianyi-cao@sjtu.edu.cn
-30dc	30DC: T2R-TTL-compound 40 complex	andrea.prota@psi.ch
-30ob	30OB: Putative Polyurethane Degrading Amidase Bound to Fragment VT00167	dao@inano.au.dk
-30nq	30NQ: Putative Polyurethane Degrading Amidase MUE-TDA Bound State	dao@inano.au.dk
-30pp	30PP: Structure of a TrkB agonist bound to its TrkB epitope	Neil.McDonald@crick.ac.uk
-30qo	30QO: Putative Polyurethane Degrading Amidase Bound to Fragment VT00232	dao@inano.au.dk
-30pu	30PU: Structure of a TrkB:BDNF complex	david.briggs@crick.ac.uk
-30sd	30SD: Putative Polyurethane Degrading Amidase in Ligand Free State in Crystal Form 2	dao@inano.au.dk
-30tv	30TV: Putative Polyurethane Degrading Esterase Bound to MDA Transition State Analogue	sth@mbg.au.dk
-31hd	31HD: Crystal structure of S. aureus HMG-CoA synthase covalently bound to inhibitor	z.w.b.armstrong@lic.leidenuniv.nl
-31oq	31OQ: CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State III	christos.gatsogiannis@uni-muenster.de
-31ol	31OL: CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and Delta-N-FAF1	christos.gatsogiannis@uni-muenster.de
-32dw	32DW: RAD52 N-terminal domain in complex with compound FORX-12-027	nibocquet@gmail.com
-32md	32MD: Cryo-EM structure of the persulfide-bound metallopterin-binding domain of molybdoenzyme ergothioneine synthase from Caldithrix abyssi	florian.seebeck@unibas.ch
-33wm	33WM: Paired helical filament with the V337M mutation from seeded primary murine neurons	mg@mrclmb.ac.uk
-33zj	33ZJ: The crystal structure of the polymorphic toxin PT9 and its cognate immunity PIM9 complex	Netanel.Tzarum@mail.huji.ac.il
-34fs	34FS: Pseudo-merohedral twinning crystal form of putative amidase	dao@mbg.au.dk
-36or	36OR: Room-temperature multiconformer model of HRas-GMPPNP	doeke_hekstra@harvard.edu
-36yy	36YY: Crystal structure of DUF190 bound to ATP	stockbr@umich.edu
-37fk	37FK: Cryo-EM structure of the human mitochondrial transcription initiation complex on HSP with TFAM	yg60@rice.edu
-37ir	37IR: Crystal structure of Interferon alpha8 bound to IFA003 ScFv	cobarnes@stanford.edu
-37tf	37TF: Apo VnOptE Beta-barrel receptor domain from Vibrio navarrensis Panoptes defense system	b.morehouse@uci.edu
-37tg	37TG: Minimal diadenylate cyclase from E. coli PanDA immune system - IEX	b.morehouse@uci.edu
-37xv	37XV: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic, composite)	fsp8ux@virginia.edu
-38bl	38BL: Arabidopsis H2AXa containing nucleosome, Canonical	rpanigrahi@mun.ca
-38dc	38DC: X-ray Structure of the FAB Fragment of a GluA2-specific Murine Monoclonal Antibody 15F1	gouauxe@ohsu.edu
-39qz	39QZ: SaPIbov1 Rep:dsDNA component 1 frame 9	price@uchicago.edu
-39cb	39CB: perdeuterated M379A tyrosine phenol lyase apoenzyme	plp@uga.edu
-39jp	39JP: Crystal structure of aminopeptidase P from Lactococcus lactis in complex with phosphate at 1.83 angstrom resolution	shx089@usask.ca
-39jn	39JN: Crystal structure of aminopeptidase P from Lactococcus lactis with a dinuclear manganese active site at 2.73 angstrom resolution	takuji.tanaka@usask.ca
-15mp	15MP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005352	jaimefraser@gmail.com
-15nt	15NT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005458	jaimefraser@gmail.com
-15rq	15RQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004988	jaimefraser@gmail.com
-22xp	22XP: structure of a permease	zhangjr@fudan.edu.cn
-22xs	22XS: structure of a permease	zhangjr@fudan.edu.cn
-24uj	24UJ: Zn(II)-bound SLA3 dimer (H86/H90/C96)	choitaesu@korea.ac.kr
-26is	26IS: Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (EGTA dataset)	haru@pharm.kyoto-u.ac.jp
-29vq	29VQ: Structure of the amyloid-forming peptide YLAAVL from human PACAP, polymorph B	perczel.andras@ttk.elte.hu
-32uu	32UU: Crystal structure of carboplatin/B-DNA adduct	antonello.merlino@unina.it
-32xb	32XB: Cupin protein GloB from Pseudomonas aeruginosa	pauline.macheboeuf@ibs.fr
-35cf	35CF: MurJ (MviN) extracellular domain	rafael_msilva@alumni.usp.br
-37ob	37OB: PLK4-T170D (inactive) in complex with Cpd34	jemurray@exelixis.com
-39rg	39RG: Crystal structure of a formate acetyltransferase (PFL) from Amygdalobacter indicium (CoA complex)	swlovell@ku.edu
-9o5r	9O5R: VAR2CSA in complex with V2C.044 Fab	andrew@scripps.edu
-9urs	9URS: Crystal structure of Ade1301 DNA aptamer (one strand) bound to adenosine	huanglin36@mail.sysu.edu.cn
-9url	9URL: Cryo-EM structure of SKF-83566 bound dopamine receptor DRD1-Gs signaling complex.	pengxiao@sdu.edu.cn
-9xh3	9XH3: The cryo-EM structure of F-FDDNP bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-9yue	9YUE: 14-3-3E homodimer in the Pyrin inhibited complex	wu@crystal.harvard.edu
-9zvq	9ZVQ: EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - I5350A2hN local refinement	dveesler@uw.edu
-30pj	30PJ: Putative Polyurethane Degrading Amidase Bound to Fragment VT00079	dao@inano.au.dk
-11oe	11OE: Germline-like DMF5 bound to single-chain MART1-B2M-HLA-A*02	kcgarcia@stanford.edu
-15as	15AS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000672	jaimefraser@gmail.com
-15br	15BR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000685	jaimefraser@gmail.com
-15co	15CO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003636	jaimefraser@gmail.com
-15cq	15CQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003694	jaimefraser@gmail.com
-15do	15DO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004116	jaimefraser@gmail.com
-15dy	15DY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004263	jaimefraser@gmail.com
-15ea	15EA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004265	jaimefraser@gmail.com
-15fb	15FB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004682	jaimefraser@gmail.com
-15ff	15FF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005770	jaimefraser@gmail.com
-15fn	15FN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004800	jaimefraser@gmail.com
-15gg	15GG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004865	jaimefraser@gmail.com
-15ig	15IG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005016	jaimefraser@gmail.com
-15is	15IS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005042	jaimefraser@gmail.com
-15ix	15IX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005066	jaimefraser@gmail.com
-15ja	15JA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005071	jaimefraser@gmail.com
-15je	15JE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005096	jaimefraser@gmail.com
-15kb	15KB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005445	jaimefraser@gmail.com
-15kk	15KK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005188	jaimefraser@gmail.com
-15km	15KM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005190	jaimefraser@gmail.com
-15li	15LI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005253	jaimefraser@gmail.com
-15lp	15LP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005284	jaimefraser@gmail.com
-15lv	15LV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005300	jaimefraser@gmail.com
-15mv	15MV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005377	jaimefraser@gmail.com
-15mo	15MO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005349	jaimefraser@gmail.com
-15np	15NP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005133	jaimefraser@gmail.com
-15pd	15PD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004724	jaimefraser@gmail.com
-15pj	15PJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005531	jaimefraser@gmail.com
-15pw	15PW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005810	jaimefraser@gmail.com
-15qt	15QT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005838	jaimefraser@gmail.com
-15qu	15QU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005840	jaimefraser@gmail.com
-15rj	15RJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005611	jaimefraser@gmail.com
-22ir	22IR: Cryo-EM Structure of Dimeric EcCaspase Bound to N7-cADPR	xuxindl@dicp.ac.cn
-26io	26IO: Structure of recombinant RyR2 in the open state (Ca2+ dataset)	haru@pharm.kyoto-u.ac.jp
-26ip	26IP: Structure of recombinant RyR2 in the closed state (EGTA dataset)	haru@pharm.kyoto-u.ac.jp
-29vt	29VT: Structure of the amyloid-forming peptide Ac-YLESLM-OH from human PHM	perczel.andras@ttk.elte.hu
-29vo	29VO: Structure of the amyloid-forming peptide Ac-YLAAVL-OH from human PACAP	perczel.andras@ttk.elte.hu
-29vp	29VP: Structure of the amyloid-forming peptide YLAAVL from human PACAP, polymorph A	perczel.andras@ttk.elte.hu
-29vu	29VU: Structure of the amyloid-forming peptide Ac-LLQDIM-NH2 from human GHRH	perczel.andras@ttk.elte.hu
-31rf	31RF: POLQ-Taq chimera	taianah@gmail.com
-36pu	36PU: Cryo-EM Structure of RSV Polymerase (L:P) Bound to Tr3-mimic RNA (TrC12-4U-Tr3), Unreacted Tr3-mimic Form B	bo.liang@emory.edu
-37xl	37XL: Nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3	fsp8ux@virginia.edu
-37xp	37XP: Nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4	fsp8ux@virginia.edu
-39jo	39JO: X-ray crystallographic structure model of Lactococcus lactis prolidase mutant Del101	takuji.tanaka@usask.ca
-44dl	44DL: Cryo-EM Structure of Tetrameric EcCaspase Filament in Apo State	xuxindl@dicp.ac.cn
-9nrl	9NRL: Cryo-EM structure of UL52 catalytic core in complex with UL8 subunit from Herpes Simplex Virus 1	williamsrs@niehs.nih.gov
-9syy	9SYY: Crystal structure of PD-2019 bound METTL3-METTL14 complex	evzen.boura@uochb.cas.cz
-9th3	9TH3: Guanidine prenyltransferase NosH in complex with FSPP, guanidine and Mg2+	jesko.koehnke@lci.uni-hannover.de
-9trp	9TRP: Crystal structure of Borrelia burgdorferi BB0795 (BamA) POTRA domains 1-2	kalvis@biomed.lu.lv
-9uiv	9UIV: Plasmodium vivax cytoplasmic Phenylalanyl-tRNA synthetase in complex with Phenylalanine in space group P21212 at 2.19 A	amit.icgeb@gmail.com
-9uix	9UIX: Plasmodium vivax cytoplasmic Phenylalanyl-tRNA synthetase in complex with Phenylalanine in space group P212121	amit.icgeb@gmail.com
-9urr	9URR: Crystal structure of Ade1301 DNA aptamer (two strands) bound to AMP	huanglin36@mail.sysu.edu.cn
-9xem	9XEM: PET hydrolase mutant	454156870@qq.com
-9xeo	9XEO: Type Ib alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	yshi22@zju.edu.cn
-9xfz	9XFZ: HBV capsid in complex with Matrix Domain of HBsAg PreS	chenlei2016@pku.edu.cn
-9xgq	9XGQ: IgM-degrading enzyme	yuegu@ahmu.edu.cn
-9xh1	9XH1: Cup s 7 NMR structure	kumeta@pharm.hokudai.ac.jp
-9xh0	9XH0: IgM-degrading enzyme	yuegu@ahmu.edu.cn
-9yyl	9YYL: Open state of D-ornithine 4,5-aminomutase from Fervidobacterium nodosum	sltian@purdue.edu
-15bi	15BI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000698	jaimefraser@gmail.com
-15eu	15EU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005768	jaimefraser@gmail.com
-15fm	15FM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004798	jaimefraser@gmail.com
-15bf	15BF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000728	jaimefraser@gmail.com
-15dx	15DX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004225	jaimefraser@gmail.com
-15es	15ES: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005999	jaimefraser@gmail.com
-15gz	15GZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004903	jaimefraser@gmail.com
-15fp	15FP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004804	jaimefraser@gmail.com
-15df	15DF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0006023	jaimefraser@gmail.com
-15eq	15EQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0006003	jaimefraser@gmail.com
-15fy	15FY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004825	jaimefraser@gmail.com
-15ey	15EY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005779	jaimefraser@gmail.com
-15gy	15GY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004901	jaimefraser@gmail.com
-15gn	15GN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004883	jaimefraser@gmail.com
-15gw	15GW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004896	jaimefraser@gmail.com
-15hj	15HJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004930	jaimefraser@gmail.com
-15go	15GO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004884	jaimefraser@gmail.com
-15hf	15HF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004913	jaimefraser@gmail.com
-15cm	15CM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003723	jaimefraser@gmail.com
-15jr	15JR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005139	jaimefraser@gmail.com
-15kp	15KP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005194	jaimefraser@gmail.com
-15ml	15ML: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005337	jaimefraser@gmail.com
-15md	15MD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005321	jaimefraser@gmail.com
-15px	15PX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005803	jaimefraser@gmail.com
-15pm	15PM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005548	jaimefraser@gmail.com
-15pl	15PL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005544	jaimefraser@gmail.com
-15og	15OG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005494	jaimefraser@gmail.com
-15ni	15NI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005416	jaimefraser@gmail.com
-15me	15ME: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005324	jaimefraser@gmail.com
-15pg	15PG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005524	jaimefraser@gmail.com
-15mx	15MX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005389	jaimefraser@gmail.com
-15mg	15MG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005326	jaimefraser@gmail.com
-15on	15ON: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005659	jaimefraser@gmail.com
-15ql	15QL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005824	jaimefraser@gmail.com
-15ru	15RU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005790	jaimefraser@gmail.com
-21zv	21ZV: Cdc48-Ufd1-Npl4 complex processing Ub6 in the presence of ubx2	panman@sjtu.edu.cn
-15ps	15PS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005576	jaimefraser@gmail.com
-15re	15RE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005587	jaimefraser@gmail.com
-35vu	35VU: Crystal structure of apo DUF190	stockbr@umich.edu
-39qx	39QX: SaPIbov1 Rep:dsDNA component 2 frame 0	price@uchicago.edu
-9syx	9SYX: Crystal structure of PD-2018 bound METTL3-METTL14 complex	evzen.boura@uochb.cas.cz
-9trq	9TRQ: Crystal structure of Borrelia burgdorferi BB0795 (BamA) POTRA domains 2-3	kalvis@biomed.lu.lv
-9xgd	9XGD: Crystal structure of dKeima570 at pH 4.0	structure@kookmin.ac.kr
-15ct	15CT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003766	jaimefraser@gmail.com
-15ik	15IK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005010	jaimefraser@gmail.com
-15ms	15MS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005372	jaimefraser@gmail.com
-27vh	27VH: smKCS-smCER2 in complex with MCoA	yjcheng@mail.hzau.edu.cn
-9t1t	9T1T: Crystal Structure of the correct enantiomer bound to the PH domain of Btk	mh256@cam.ac.uk
-9trt	9TRT: Structure of the Plant mitochondrial pre-initiation complex 3, (SSU,mtIF3,mRNA,tRNA)	hsoufari@gmail.com
-29qa	29QA: Putative Polyurethane Degrading Esterase Bound to Fragment VT00083	dao@inano.au.dk
-22yp	22YP: Rotated 80S with A/A-P/E tRNA	yuanshuai@wh.iov.cn
-37xw	37XW: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic-FHA, composite)	fsp8ux@virginia.edu
-9xeb	9XEB: Cryo-EM structure of Saccharomyces cerevisiae Mitochondrial Respiratory Complex II in YF241131B-bound state	lzw@mails.ccnu.edu.cn
-9yy6	9YY6: Crystal structure of Mycobacterium tuberculosis Prolyl-tRNA synthetase in complex with prolyl-adenylate	andrzejj@anl.gov
-9zvo	9ZVO: EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - DIII-DV local refinement	dveesler@uw.edu
-9urp	9URP: Crystal structure of the new adenosine and ATP-binding 1301 DNA aptamer(two strands) with ADO	huanglin36@mail.sysu.edu.cn
-9zwh	9ZWH: HSV1 gB prefusion-1 trimers with "deliD" mutations	dveesler@uw.edu
-9tgz	9TGZ: Guanidine prenyltransferase NosH in complex with FSPP and Mg2+	jesko.koehnke@lci.uni-hannover.de
-30oc	30OC: Putative Polyurethane Degrading Amidase Bound to Fragment VT00019	dao@inano.au.dk
-9un1	9UN1: Cryo-EM structure of hemagglutinin from the A/swine/Hong Kong/2106/98 (H9N2) influenza virus with stabilizing mutations	jieoh@postech.ac.kr
-9zxs	9ZXS: 3A3 and 3A5 plus EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - 3A5 local refinement	dveesler@uw.edu
-9xfm	9XFM: Crystal structure of Kasokero virus cap-snatching endonuclease in complex with B02	wangml@wh.iov.cn
-15ia	15IA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005011	jaimefraser@gmail.com
-15nx	15NX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005463	jaimefraser@gmail.com
-15av	15AV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000677	jaimefraser@gmail.com
-15er	15ER: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005995	jaimefraser@gmail.com
-15gt	15GT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004892	jaimefraser@gmail.com
-15jm	15JM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005120	jaimefraser@gmail.com
-15mf	15MF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005325	jaimefraser@gmail.com
-15oz	15OZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005695	jaimefraser@gmail.com
-36ou	36OU: Room-temperature multiconformer model of PSD-95 PDZ3-CRIPT	doeke_hekstra@harvard.edu
-9yv2	9YV2: Crystal structure of the human DCAF1 WDR domain in complex with OICR-40151	l.halabelian@utoronto.ca
-37xt	37XT: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (FHA, composite)	fsp8ux@virginia.edu
-9xh9	9XH9: The cryo-EM structure of ThS bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-39qy	39QY: Crystal structure of a formate acetyltransferase (PFL) from Amygdalobacter indicium (CoA and bromide complex)	swlovell@ku.edu
-15cr	15CR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003612	jaimefraser@gmail.com
-15hv	15HV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004962	jaimefraser@gmail.com
-15le	15LE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005241	jaimefraser@gmail.com
-15py	15PY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005805	jaimefraser@gmail.com
-38aq	38AQ: Bacteroides SusCD Unliganded - Closed w/ Plug Domain	nkoropat@umich.edu
-9v2b	9V2B: CTP synthase dDON-condition state 1	liujl3@shanghaitech.edu.cn
-9yyf	9YYF: Crystal structure of M. tuberculosis ProRS bound to compound 4b	andrzejj@anl.gov
-9r13	9R13: Bovine complex I at pH 6.0 in the deactive state (consensus)	jh480@cam.ac.uk
-9tmm	9TMM: Structure of the TCR-A targeting GPC3 [FLAELAYDL] peptide bound to HLA-A*02:01	jacinto.lopez.sagaseta@navarra.es
-38fe	38FE: Bacteroides SusCD + Maltoheptaose - Closed w/ Plug Domain	nkoropat@umich.edu
-15ac	15AC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000409	jaimefraser@gmail.com
-15ba	15BA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000723	jaimefraser@gmail.com
-15bx	15BX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000695	jaimefraser@gmail.com
-15bu	15BU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000692	jaimefraser@gmail.com
-15ch	15CH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003363	jaimefraser@gmail.com
-15cx	15CX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004053	jaimefraser@gmail.com
-15ds	15DS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004205	jaimefraser@gmail.com
-15eo	15EO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0006026	jaimefraser@gmail.com
-15hu	15HU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004961	jaimefraser@gmail.com
-15gd	15GD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004842	jaimefraser@gmail.com
-15hd	15HD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004911	jaimefraser@gmail.com
-15hw	15HW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004966	jaimefraser@gmail.com
-15im	15IM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005664	jaimefraser@gmail.com
-15jl	15JL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005112	jaimefraser@gmail.com
-15jx	15JX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005151	jaimefraser@gmail.com
-15ly	15LY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005305	jaimefraser@gmail.com
-15lo	15LO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005282	jaimefraser@gmail.com
-15mi	15MI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005331	jaimefraser@gmail.com
-15pf	15PF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005522	jaimefraser@gmail.com
-15oh	15OH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005500	jaimefraser@gmail.com
-15ol	15OL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005513	jaimefraser@gmail.com
-15qp	15QP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005833	jaimefraser@gmail.com
-15rl	15RL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005614	jaimefraser@gmail.com
-23jl	23JL: Complex structure of a permease	zhangjr@fudan.edu.cn
-30hl	30HL: Structure of inhibitor bound PriA	Reinhard.Sterner@biologie.uni-regensburg.de
-33ag	33AG: Cryo-EM structure of the L. pneumophila Ceg14 effector in complex with AnkJ	a.belyy@rug.nl
-9q82	9Q82: Recombinant spore-silk A-ENA-1 fibers	han.remaut@vub.be
-9tgv	9TGV: Guanidine prenyltransferase NosH apo structure	jesko.koehnke@lci.uni-hannover.de
-9xhw	9XHW: The cryo-EM structure of CongoRed bound Tau PHF fibril	tianyi-cao@sjtu.edu.cn
-15bk	15BK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000704	jaimefraser@gmail.com
-15fv	15FV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004820	jaimefraser@gmail.com
-15kh	15KH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005180	jaimefraser@gmail.com
-15qz	15QZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004705	jaimefraser@gmail.com
-27vg	27VG: smKCS-smCER2 in complex with C22-CoA	yjcheng@mail.hzau.edu.cn
-9xgr	9XGR: crystal structure of STING-CTD complex with small molecule 09-B11	yibei.xiao@cpu.edu.cn
-9xd8	9XD8: Open-Sate Cleavage complex of human Topoisomerase IIA-Beta with oligonucleotide	2494066849@qq.com
-9yt1	9YT1: Model Structure of Liraglutide Monomer in Buffer	gliu@nexomics.com
-45iz	45IZ: Crystal structure of N-terminally truncated caseinolytic protease proteolytic subunit ClpP from Pseudomonas syringae pv. actinidiae	xyli@gzu.edu.cn
-35yu	35YU: Protein Complex(local refinement)	xiaochun.li@utsouthwestern.edu
-9sr3	9SR3: Structure of stacked allo-activated CBS conformer by allosteric SAM - by Helical approach	inayathulla.mohammed@epfl.ch
-9yuc	9YUC: 14-3-3 heterodimer bound to phosphorylated Pyrin linkers	wu@crystal.harvard.edu
-9zxr	9ZXR: 3A3 and 3A5 plus EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - 3A3 local refinement	dveesler@uw.edu
-32uv	32UV: Crystal structure of oxaliplatin/B-DNA adduct	antonello.merlino@unina.it
-9zuc	9ZUC: EBV gB trimer with "delta" mutations (intermediate-2 conformation)	dveesler@uw.edu
-39qs	39QS: SaPIbov1 Rep:dsDNA consensus	price@uchicago.edu
-15qi	15QI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005821	jaimefraser@gmail.com
-30rg	30RG: Putative Polyurethane Degrading Amidase Bound to 2,4-TDA	sth@mbg.au.dk
-9xh4	9XH4: Cryo-EM structure of unnatural-base aptamer AptD1 with DENV1 NS1 hexamer	nureki@bs.s.u-tokyo.ac.jp
-29pz	29PZ: Putative Polyurethane Degrading Esterase Bound to Fragment VT00162	dao@inano.au.dk
-32xl	32XL: Kineococcus siccus GH5_7 Mannanase, product bound	yehudi.bloch@embl-hamburg.de
-15hx	15HX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004971	jaimefraser@gmail.com
-15pk	15PK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005540	jaimefraser@gmail.com
-15aj	15AJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000572	jaimefraser@gmail.com
-15ei	15EI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004337	jaimefraser@gmail.com
-15gb	15GB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004835	jaimefraser@gmail.com
-15ii	15II: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004999	jaimefraser@gmail.com
-15ku	15KU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005213	jaimefraser@gmail.com
-15nm	15NM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005425	jaimefraser@gmail.com
-15qm	15QM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005828	jaimefraser@gmail.com
-26ix	26IX: Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (EGTA dataset, Local refinement of Core domain)	haru@pharm.kyoto-u.ac.jp
-9xep	9XEP: Type Ic alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	yshi22@zju.edu.cn
-23ez	23EZ: semi-rotated 80S with A/A-P/P tRNA	yuanshuai@wh.iov.cn
-9xdp	9XDP: Cryo-EM structure of H3K122ac nucleosome	kurumizaka@iqb.u-tokyo.ac.jp
-15pn	15PN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005558	jaimefraser@gmail.com
-9yyy	9YYY: Cryo-EM structure of HKU1 spike with antibody HKU1-2 (conformation 1)	andrew@scripps.edu
-15ef	15EF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004277	jaimefraser@gmail.com
-15ih	15IH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005652	jaimefraser@gmail.com
-15nd	15ND: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005405	jaimefraser@gmail.com
-15qj	15QJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005822	jaimefraser@gmail.com
-37py	37PY: Human beta-cardiac myosin S1 motor domain with the essential light chain in the pre-powerstroke state	raul.padron@umassmed.edu
-9sz4	9SZ4: Crystal structure of the human METTL3-METTL14 in complex with COD_ME_04	caflisch@bioc.uzh.ch
-9xhg	9XHG: Crystal structure of human STING in complex with F8W	2321955098@qq.com
-30dd	30DD: T2R-TTL-compound 63 complex	andrea.prota@psi.ch
-9r15	9R15: Bovine complex I at pH 9.2 in the deactive state (consensus)	jh480@cam.ac.uk
-9xh7	9XH7: The cryo-EM structure of PiB bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-9z5r	9Z5R: Cryo-EM of the sarco(endo)plasmic reticulum calcium ATPase (SERCA) in presence of calcium and compound UM-52 (unbound)	hyoung@ualberta.ca
-12lg	12LG: Mtb GuaB2 dCBS in complex with inhibitor G9	sethh@gene.com
-15ak	15AK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000560	jaimefraser@gmail.com
-15at	15AT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000673	jaimefraser@gmail.com
-15bj	15BJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000699	jaimefraser@gmail.com
-15cf	15CF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003572	jaimefraser@gmail.com
-15cn	15CN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003729	jaimefraser@gmail.com
-15dv	15DV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004291	jaimefraser@gmail.com
-15dz	15DZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004264	jaimefraser@gmail.com
-15el	15EL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004368	jaimefraser@gmail.com
-15fh	15FH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004790	jaimefraser@gmail.com
-15fz	15FZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004833	jaimefraser@gmail.com
-15gj	15GJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004874	jaimefraser@gmail.com
-15hp	15HP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004949	jaimefraser@gmail.com
-15jb	15JB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005072	jaimefraser@gmail.com
-15jn	15JN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005126	jaimefraser@gmail.com
-15kd	15KD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005162	jaimefraser@gmail.com
-15ke	15KE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005451	jaimefraser@gmail.com
-15lj	15LJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005264	jaimefraser@gmail.com
-15lx	15LX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005302	jaimefraser@gmail.com
-15mr	15MR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005365	jaimefraser@gmail.com
-15oy	15OY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005689	jaimefraser@gmail.com
-15oe	15OE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005489	jaimefraser@gmail.com
-15ph	15PH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005525	jaimefraser@gmail.com
-15pa	15PA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005696	jaimefraser@gmail.com
-15qs	15QS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005837	jaimefraser@gmail.com
-15rg	15RG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005597	jaimefraser@gmail.com
-27ve	27VE: smKCS-smCER2 complex in Apo state	yjcheng@mail.hzau.edu.cn
-24ui	24UI: Cu(II)-bound SLA1 dimer (H67/H71/C96)	tezcan@ucsd.edu
-30tu	30TU: Putative Polyurethane Amidase Bound to TDA Transition State Analogue	dao@inano.au.dk
-32mc	32MC: Cryo-EM structure of the native metallopterin-binding domain of molybdoenzyme ergothioneine synthase from Caldithrix abyssi	florian.seebeck@unibas.ch
-31ka	31KA: Guanidine prenyltransferase mutant NosHRP in complex L-arginine	jesko.koehnke@lci.uni-hannover.de
-9o5x	9O5X: VAR2CSA in complex with V2C.014 Fab	andrew@scripps.edu
-39qu	39QU: SaPIbov1 Rep:dsDNA component 0 frame 9	price@uchicago.edu
-9ocu	9OCU: High-resolution cryo-EM structure of the cytochrome bc complex (CIII2) from Bacillus subtilis (composite)	jack.zhang@yale.edu
-9rrv	9RRV: Anti FX-AP VHH of inno8 in complex with FX-AP 31-37	evjh@novonordisk.com
-9t0q	9T0Q: Expanded Coxsackievirus B1 (CVB1) virus-like particle delta-PALXA	sarah.butcher@helsinki.fi
-9xes	9XES: Type III alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	yshi22@zju.edu.cn
-9xg6	9XG6: Apg mutant enzyme D448N of acarbose hydrolase from human gut flora K. grimontii TD1, complex with maltotetraose	jy.huang1@siat.ac.cn
-9v2f	9V2F: CTP synthase dDON-condition state 5	liujl3@shanghaitech.edu.cn
-9yym	9YYM: Closed state of D-ornithine 4,5-aminomutase from Fervidobacterium nodosum	sltian@purdue.edu
-9yyz	9YYZ: Cryo-EM structure of HKU1 spike with antibody HKU1-2 (conformation 2)	andrew@scripps.edu
-15am	15AM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000662	jaimefraser@gmail.com
-15dr	15DR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004203	jaimefraser@gmail.com
-15fo	15FO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004803	jaimefraser@gmail.com
-15en	15EN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0006025	jaimefraser@gmail.com
-15jg	15JG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005095	jaimefraser@gmail.com
-15jp	15JP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005130	jaimefraser@gmail.com
-15lb	15LB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005228	jaimefraser@gmail.com
-15ok	15OK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005511	jaimefraser@gmail.com
-15qg	15QG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005818	jaimefraser@gmail.com
-15rp	15RP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005645	jaimefraser@gmail.com
-15rd	15RD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004715	jaimefraser@gmail.com
-31js	31JS: Oxidized E.coli aerotaxis receptor in MH-cap bound state	bc69@cornell.edu
-9o5z	9O5Z: VAR2CSA in complex with V2C.041 Fab	andrew@scripps.edu
-9uiy	9UIY: PLASMODIUM VIVAX PHENYLALANYL-TRNA SYNTHETASE IN COMPLEX WITH L-PHE IN SPACE GROUP P43212	amit.icgeb@gmail.com
-9xeu	9XEU: Type I alpha-synuclein filament amplified from EV extraction buffer as a blank control for One-Spin RT-QuIC	yshi22@zju.edu.cn
-9zdf	9ZDF: factor VIIa-tissue factor-factor X-ixolaris complex in calcium ion-containing buffer	jandersen@niaid.nih.gov
-9zeq	9ZEQ: Germline-like TCR156 bound to single-chain MART1-B2M-HLA-A*02	kcgarcia@stanford.edu
-37xu	37XU: Nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5	fsp8ux@virginia.edu
-12dm	12DM: AHA hibernation factor bound to the 70S ribosome of Haloferax volcanii	jhdavis@mit.edu
-33ah	33AH: Cryo-EM structure of the L. pneumophila Ceg14 effector in complex with G-actin and AnkJ	a.belyy@rug.nl
-9zeu	9ZEU: Germline-like TCR A3A bound to single-chain MAGE-A3-B2M-HLA*A01	kcgarcia@stanford.edu
-9zep	9ZEP: Germline-like TCR156 bound to single-chain PAP-B2M-HLA-A*02	kcgarcia@stanford.edu
-37xs	37XS: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic-FHA, composite)	fsp8ux@virginia.edu
-9z0o	9Z0O: Calpain-5 (CAPN5) Protease Core (PC) mutant - G267S	vinit.mahajan@stanford.edu
-37oc	37OC: PLK4-T170D (inactive) in complex with Cpd15	jemurray@exelixis.com
-37xn	37XN: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (FHA, composite)	fsp8ux@virginia.edu
-37xm	37XM: Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic, composite)	fsp8ux@virginia.edu
-9sdr	9SDR: CryoEM structure of human 20S proteasome in complex with proteasome inhibitor Carmaphycin B	jan.silhan@uochb.cas.cz
-9tc9	9TC9: Active-state structure of the GPR55-N171Q mutant in complex with G13 and BI-6229	dietmar.weichert@boehringer-ingelheim.com
-9xgh	9XGH: 2N4R human tau filaments induced by heparin	yshi22@zju.edu.cn
-9xh6	9XH6: The cryo-EM structure of F-PI2620 bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-9zcx	9ZCX: factor VIIa-tissue factor-factor X-ixolaris complex	jandersen@niaid.nih.gov
-9z5o	9Z5O: Cryo-EM of the sarco(endo)plasmic reticulum calcium ATPase (SERCA) in presence of calcium and compound UM-52 (bound)	hyoung@ualberta.ca
-32jr	32JR: Cryo-EM structure of full-length plasminogen variant R561A	xpinkas@gmail.com
-9xg8	9XG8: Apg mutant enzyme D336A of acarbose hydrolase from human gut flora K. grimontii TD1, complex with maltotetraose,a product of Maltopentose	jy.huang1@siat.ac.cn
-9zxt	9ZXT: CMV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation)	dveesler@uw.edu
-30fo	30FO: Putative Polyurethane Degrading Amidase in PMS Bound State	dao@inano.au.dk
-30ge	30GE: Putative Polyurethane Degrading Amidase Bound to MDA Based Transition State Inhibitor in Pose 1	dao@inano.au.dk
-32yh	32YH: Streptomyces sp. TLI_171 GH5_7 Mannanase, Apo	yehudi.bloch@embl-hamburg.de
-9uru	9URU: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to adenosine	huanglin36@mail.sysu.edu.cn
-9zvy	9ZVY: SARS-CoV-2 S 2P with C-terminal 3X oP3h motif (RINEIER)	dveesler@uw.edu
-9zud	9ZUD: EBV gB trimer with "deD" mutations (intermediate-1 conformation)	dveesler@uw.edu
-13cy	13CY: Crystal structure of DUF190 bound to cAMP	stockbr@umich.edu
-39qt	39QT: SaPIbov1 Rep:dsDNA component 0 frame 0	price@uchicago.edu
-9t0p	9T0P: Compact Coxsackievirus B1 (CVB1) virus-like particle delta-PALXA	sarah.butcher@helsinki.fi
-15cz	15CZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003767	jaimefraser@gmail.com
-15rw	15RW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005792	jaimefraser@gmail.com
-30gv	30GV: Putative Polyurethane Degrading Amidase Bound to MDA Based Transition State Inhibitor in Pose 2	dao@inano.au.dk
-30hg	30HG: Putative Polyurethane Degrading Amidase 2,4-TDA Carbamic Acid Fragment Bound State	dao@inano.au.dk
-30qw	30QW: Putative Polyurethane Degrading Amidase Bound to 2,4-TDI	dao@inano.au.dk
-9uiz	9UIZ: PLASMODIUM VIVAX PHENYLALANYL-TRNA SYNTHETASE IN COMPLEX WITH PHE-AMS IN SPACE GROUP P21	amit.icgeb@gmail.com
-9x5e	9X5E: Crystal structure of sperm whale myoglobin mutant F46C with aniline	yuanhong119@163.com
-9xe8	9XE8: Crystal structure of HrmI in complex with the diferric iron and oxygen molecule	raoyijian@jiangnan.edu.cn
-9tjp	9TJP: X-ray structure of CYP123 from Mycobacterium smegmatis with bound polyethylene glycol (PEG)	yi.jin@manchester.ac.uk
-44yd	44YD: Crystal structure of D-lactate dehydrogenase from Lacticaseibacillus rhamnosus in its apoform	kmb@inbi.ras.ru
-29qu	29QU: Putative Polyurethane Degrading Esterase Bound to Fragment VT00217	dao@inano.dk
-29kj	29KJ: Putative Polyurethane Degrading Esterase in Triple Liganded State	dao@inano.au.dk
-29pw	29PW: Putative Polyurethane Degrading Esterase Bound to Fragment VT00155	dao@inano.au.dk
-9ocs	9OCS: High-resolution cryo-EM structure of the CIII2CIV1 respiratory supercomplex from Bacillus subtilis (composite)	jack.zhang@yale.edu
-9wch	9WCH: Cryo-EM structure of hACE2 in complex with antibodies F9-3S and F9-21	xiangxixi@ibp.ac.cn
-9y5c	9Y5C: Chimeric antibody 2C7 Fab fragment against gonococcal lipooligosaccharide bound to octasaccharide antigen	peter.beernink@ucsf.edu
-9zxq	9ZXQ: EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - DII-DV local refinement	dveesler@uw.edu
-15iq	15IQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005038	jaimefraser@gmail.com
-15kw	15KW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005217	jaimefraser@gmail.com
-38ht	38HT: Cryo-EM structure of apo-pSTAT1	gcingola@uab.edu
-36pt	36PT: Cryo-EM Structure of RSV Polymerase (L:P) Bound to Tr3-mimic RNA (TrC12-4U-Tr3), Unreacted Tr3-mimic Form A	bo.liang@emory.edu
-12tb	12TB: Borrelia burgdorferi BBQ03 in complex with Factor H CCP6 at 1.5A	aashnas@ksu.edu
-15ar	15AR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000671	jaimefraser@gmail.com
-15bz	15BZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001497	jaimefraser@gmail.com
-15cg	15CG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003361	jaimefraser@gmail.com
-15db	15DB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004098	jaimefraser@gmail.com
-15fc	15FC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004687	jaimefraser@gmail.com
-15ga	15GA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004834	jaimefraser@gmail.com
-15gf	15GF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004857	jaimefraser@gmail.com
-15hb	15HB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004905	jaimefraser@gmail.com
-15hr	15HR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004955	jaimefraser@gmail.com
-15ie	15IE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005600	jaimefraser@gmail.com
-15jf	15JF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004979	jaimefraser@gmail.com
-15ki	15KI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005183	jaimefraser@gmail.com
-15lh	15LH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005252	jaimefraser@gmail.com
-15lg	15LG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005250	jaimefraser@gmail.com
-15mm	15MM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005342	jaimefraser@gmail.com
-15oi	15OI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005502	jaimefraser@gmail.com
-15oo	15OO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005661	jaimefraser@gmail.com
-15or	15OR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005666	jaimefraser@gmail.com
-15pu	15PU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005582	jaimefraser@gmail.com
-15qh	15QH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005820	jaimefraser@gmail.com
-15rr	15RR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005783	jaimefraser@gmail.com
-37fj	37FJ: Cryo-EM structure of the human mitochondrial transcription initiation complex on HSP without TFAM	yg60@rice.edu
-9syz	9SYZ: Crystal structure of PD-2020 bound METTL3-METTL14 complex	evzen.boura@uochb.cas.cz
-9um0	9UM0: Crystal structure of the SARS-CoV-2 spike protein HR1 in complex with a designed peptide inhibitor dP-S2FI-01 at 2.2 angstrom resolution	yesheng@buaa.edu.cn
-9xet	9XET: Alpha-synuclein filament amplified from preformed fibrils as a positive control for One-Spin RT-QuIC	yshi22@zju.edu.cn
-9ywt	9YWT: Structure of E04 Fab in complex with B/Lee40/1940 influenza B virus hemagglutinin	xxd159@case.edu
-9xge	9XGE: Type A 2N4R human tau filaments induced by heparan sulfate with a double-protofilament fold	yshi22@zju.edu.cn
-12sz	12SZ: Cryo-EM structure of Vibrio cholerae divisome complex FtsWIQLB (consensus)	seok-yong.lee@duke.edu
-34rf	34RF: Paired helical filament from Alzheimer's disease brain (AD seed)	scheres@mrclmb.ac.uk
-9trs	9TRS: Structure of the Plant mitochondrial pre-initiation complex 2, (SSU,mtIF3,mRNA)	hsoufari@gmail.com
-9trv	9TRV: Structure of the Plant mitochondrial pre-initiation complex 1, (SSU,mtIF3)	hsoufari@gmail.com
-9xdm	9XDM: Cryo-EM structure of the 198 bp human nucleosome containing H3.2 C110A mutant	kurumizaka@iqb.u-tokyo.ac.jp
-30ba	30BA: Structure of the ATPalphaS-bound soluble domain of human Adenylyl cyclase 9 in complex with stimulatory G protein, ATPalphaS, and forskolin	volodymyr.korkhov@psi.ch
-15gc	15GC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004838	jaimefraser@gmail.com
-15hq	15HQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004954	jaimefraser@gmail.com
-9qz8	9QZ8: Crystal structure of sulfoacetaldehyde acetyltransferase in complex with ATP and inactive cofactor 3-deaza-ThDP	michael.zahn@biozentrum.uni-halle.de
-9sz1	9SZ1: Crystal structure of the human METTL3-METTL14 in complex with COD_122	caflisch@bioc.uzh.ch
-9yyx	9YYX: Cryo-EM structure of HKU1 spike with antibody HKU1-11 (local refinement of CTD, NTD, and Fab variable domain)	andrew@scripps.edu
-15al	15AL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000558	jaimefraser@gmail.com
-15bq	15BQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000684	jaimefraser@gmail.com
-15ci	15CI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003576	jaimefraser@gmail.com
-15dl	15DL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0006021	jaimefraser@gmail.com
-15fd	15FD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004684	jaimefraser@gmail.com
-15gr	15GR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004890	jaimefraser@gmail.com
-15gv	15GV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004894	jaimefraser@gmail.com
-15jd	15JD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005089	jaimefraser@gmail.com
-15jt	15JT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005143	jaimefraser@gmail.com
-15kj	15KJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005184	jaimefraser@gmail.com
-15lz	15LZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005312	jaimefraser@gmail.com
-15nr	15NR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005157	jaimefraser@gmail.com
-15nz	15NZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005469	jaimefraser@gmail.com
-15pt	15PT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005578	jaimefraser@gmail.com
-15qf	15QF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005816	jaimefraser@gmail.com
-15ra	15RA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004706	jaimefraser@gmail.com
-23jk	23JK: Complex structure of a permease	zhangjr@fudan.edu.cn
-26ir	26IR: Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (Ca2+ dataset)	otori.yuya.85w@st.kyoto-u.ac.jp
-29mh	29MH: Inhibitor of GTP-Bound KRASG12C	Phil.Day@astx.com
-9ocr	9OCR: Cryo-EM structure of the CIII2 featuring FES in c-position from Bacillus subtilis	jack.zhang@yale.edu
-9ocy	9OCY: Cryo-EM structure of the CIII2 with YlbA from Bacillus subtilis	jack.zhang@yale.edu
-9od0	9OD0: Cryo-EM structure of the cytochrome bc complex (CIII2) from Bacillus subtilis with multiple Qi site menaquinone binding	jack.zhang@yale.edu
-9v2d	9V2D: CTP synthase dDON-condition state 3	liujl3@shanghaitech.edu.cn
-9v2g	9V2G: CTP synthase dDON-condition state 6	liujl3@shanghaitech.edu.cn
-9v2i	9V2I: CTP synthase dDON-condition state 8	liujl3@shanghaitech.edu.cn
-9wcf	9WCF: Cryo-EM structure of hACE2 in complex with NeoCoV RBD_MU3 and antibodies F9-63 and F9-64	xiangxi@ibp.ac.cn
-9yyo	9YYO: Crystal structure of Mycobacterium tuberculosis Prolyl-tRNA synthetase in complex with ProAMS	andrzejj@anl.gov
-9ywp	9YWP: Structure of CD84 IgV domain bound to 8A5 Fab	jcwilliams@coh.org
-37ri	37RI: Multi-parameter optimization of a novel anti-TROP2 MMAE Antibody-Drug-Conjugate for solid tumor therapy	jill.chrencik@merck.com
-37oa	37OA: Cryo-EM structure of human beta-cardiac myosin carrying the E525K mutation in the Interacting-Heads Motif state	raul.padron@umassmed.edu
-9dy6	9DY6: Structure of PmHMGR bound to mevalonate, CoA and NAD 4 minutes after reaction initiation at pH 9	cstauffa@purdue.edu
-9r29	9R29: Cryo-EM structure of Acinetobacter baylyi LolDF bound AMP-PNP (closed NBDs)	haohaodong@scu.edu.cn
-9sj3	9SJ3: Structure of a circMbl 48S translation initiation complex in the AUG recognition state	ramak@mrc-lmb.cam.ac.uk
-9tg2	9TG2: Structure of endogenous human ncBAF bound to nucleosome	papai@igbmc.fr
-9tc8	9TC8: Inactive-state structure of GPR55 in complex with BI-8310	dietmar.weichert@boehringer-ingelheim.com
-9x9y	9X9Y: Cryo-EM Structure of the SCRIB-PP1 Complex	stefan.arold@kaust.edu.sa
-9xhq	9XHQ: Crystal structure of bovine carbonic anhydrase II in complex with the inhibitor 5-[2-(morpholine-4-carbonyl)1,3-oxazol-5-yl)]thiophene-2-sulfonammide	stomayar98@gmail.com
-9oc9	9OC9: Human DHODH in complex with ligand H3D3181	cristy@fcfrp.usp.br
-9oca	9OCA: Human DHODH in complex with ligand H3D3186	cristy@fcfrp.usp.br
-11fa	11FA: Crystal structure of human Malonyl-CoA Decarboxylase	alisson.cardoso@lnbio.cnpem.br
-11jg	11JG: Cryo-EM structure of pSTAT1 bound to importin alpha 5 (4:2 assembly)	gcingola@uab.edu
-11ph	11PH: Cryo-EM structure of CAS:Ran-GTP:importin alpha 5 complex	gcingola@uab.edu
-15ai	15AI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000606	jaimefraser@gmail.com
-15ab	15AB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000408	jaimefraser@gmail.com
-15ae	15AE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000407	jaimefraser@gmail.com
-15ap	15AP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000665	jaimefraser@gmail.com
-15bm	15BM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000742	jaimefraser@gmail.com
-15aq	15AQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000667	jaimefraser@gmail.com
-15az	15AZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000722	jaimefraser@gmail.com
-15bd	15BD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000727	jaimefraser@gmail.com
-15bw	15BW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000693	jaimefraser@gmail.com
-15de	15DE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004129	jaimefraser@gmail.com
-15bn	15BN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000710	jaimefraser@gmail.com
-15cj	15CJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001491	jaimefraser@gmail.com
-15cd	15CD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0001505	jaimefraser@gmail.com
-15by	15BY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0000697	jaimefraser@gmail.com
-15dk	15DK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004207	jaimefraser@gmail.com
-15cl	15CL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003698	jaimefraser@gmail.com
-15cu	15CU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003579	jaimefraser@gmail.com
-15cp	15CP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003752	jaimefraser@gmail.com
-15dc	15DC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0003759	jaimefraser@gmail.com
-15di	15DI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004190	jaimefraser@gmail.com
-15dg	15DG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004112	jaimefraser@gmail.com
-15du	15DU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004282	jaimefraser@gmail.com
-15dt	15DT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004281	jaimefraser@gmail.com
-15dw	15DW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004223	jaimefraser@gmail.com
-15ek	15EK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004370	jaimefraser@gmail.com
-15ge	15GE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004853	jaimefraser@gmail.com
-15gx	15GX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004898	jaimefraser@gmail.com
-15hh	15HH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004916	jaimefraser@gmail.com
-15if	15IF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005015	jaimefraser@gmail.com
-15il	15IL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005022	jaimefraser@gmail.com
-15ky	15KY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005225	jaimefraser@gmail.com
-15jq	15JQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005189	jaimefraser@gmail.com
-15kx	15KX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005223	jaimefraser@gmail.com
-15ld	15LD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005236	jaimefraser@gmail.com
-15nl	15NL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005423	jaimefraser@gmail.com
-15mq	15MQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005355	jaimefraser@gmail.com
-15nh	15NH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005415	jaimefraser@gmail.com
-15nw	15NW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005462	jaimefraser@gmail.com
-15qd	15QD: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005814	jaimefraser@gmail.com
-15ox	15OX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005687	jaimefraser@gmail.com
-15pq	15PQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005570	jaimefraser@gmail.com
-15qq	15QQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005835	jaimefraser@gmail.com
-15ro	15RO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005639	jaimefraser@gmail.com
-15fj	15FJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004795	jaimefraser@gmail.com
-15ex	15EX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005778	jaimefraser@gmail.com
-15gi	15GI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004872	jaimefraser@gmail.com
-15gl	15GL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004881	jaimefraser@gmail.com
-15hl	15HL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004921	jaimefraser@gmail.com
-15ic	15IC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005596	jaimefraser@gmail.com
-15jj	15JJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005103	jaimefraser@gmail.com
-15kq	15KQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005197	jaimefraser@gmail.com
-15jo	15JO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005165	jaimefraser@gmail.com
-15kf	15KF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005175	jaimefraser@gmail.com
-15lq	15LQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005289	jaimefraser@gmail.com
-15mk	15MK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005336	jaimefraser@gmail.com
-15ot	15OT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005671	jaimefraser@gmail.com
-15nq	15NQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005155	jaimefraser@gmail.com
-15ne	15NE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005406	jaimefraser@gmail.com
-15oa	15OA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005473	jaimefraser@gmail.com
-15om	15OM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004991	jaimefraser@gmail.com
-15oq	15OQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005663	jaimefraser@gmail.com
-15pz	15PZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005807	jaimefraser@gmail.com
-15qo	15QO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005831	jaimefraser@gmail.com
-15rt	15RT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005786	jaimefraser@gmail.com
-15fq	15FQ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004808	jaimefraser@gmail.com
-15fe	15FE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005769	jaimefraser@gmail.com
-15fi	15FI: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004794	jaimefraser@gmail.com
-15gh	15GH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004870	jaimefraser@gmail.com
-15hg	15HG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004914	jaimefraser@gmail.com
-15ij	15IJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005008	jaimefraser@gmail.com
-15iz	15IZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005070	jaimefraser@gmail.com
-15kg	15KG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005179	jaimefraser@gmail.com
-15mc	15MC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005319	jaimefraser@gmail.com
-15ma	15MA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005316	jaimefraser@gmail.com
-15nk	15NK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005419	jaimefraser@gmail.com
-15op	15OP: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004993	jaimefraser@gmail.com
-15pc	15PC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005700	jaimefraser@gmail.com
-15qx	15QX: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004699	jaimefraser@gmail.com
-15rv	15RV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005791	jaimefraser@gmail.com
-15eg	15EG: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004278	jaimefraser@gmail.com
-15he	15HE: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004912	jaimefraser@gmail.com
-15fu	15FU: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004819	jaimefraser@gmail.com
-15lr	15LR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005292	jaimefraser@gmail.com
-15hs	15HS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004957	jaimefraser@gmail.com
-15in	15IN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005021	jaimefraser@gmail.com
-15iw	15IW: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005063	jaimefraser@gmail.com
-15kv	15KV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005214	jaimefraser@gmail.com
-15lf	15LF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005242	jaimefraser@gmail.com
-15ln	15LN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005281	jaimefraser@gmail.com
-15mt	15MT: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005373	jaimefraser@gmail.com
-15mz	15MZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005396	jaimefraser@gmail.com
-15ob	15OB: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005474	jaimefraser@gmail.com
-15os	15OS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005669	jaimefraser@gmail.com
-15qc	15QC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005812	jaimefraser@gmail.com
-15rk	15RK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005613	jaimefraser@gmail.com
-15rn	15RN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005634	jaimefraser@gmail.com
-15ec	15EC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004267	jaimefraser@gmail.com
-15fa	15FA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004635	jaimefraser@gmail.com
-15fs	15FS: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004813	jaimefraser@gmail.com
-15hz	15HZ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004978	jaimefraser@gmail.com
-15ho	15HO: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004946	jaimefraser@gmail.com
-15ir	15IR: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005041	jaimefraser@gmail.com
-15jc	15JC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005083	jaimefraser@gmail.com
-15jh	15JH: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0004981	jaimefraser@gmail.com
-15jy	15JY: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005152	jaimefraser@gmail.com
-15kn	15KN: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005192	jaimefraser@gmail.com
-15ll	15LL: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005270	jaimefraser@gmail.com
-15nf	15NF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005409	jaimefraser@gmail.com
-15mj	15MJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005332	jaimefraser@gmail.com
-15nc	15NC: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005402	jaimefraser@gmail.com
-15of	15OF: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005490	jaimefraser@gmail.com
-15oj	15OJ: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005506	jaimefraser@gmail.com
-15ov	15OV: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005681	jaimefraser@gmail.com
-15qa	15QA: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005808	jaimefraser@gmail.com
-15qk	15QK: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005823	jaimefraser@gmail.com
-15rm	15RM: PanDDA analysis group deposition -- Crystal structure of SARS-CoV-2 NSP3 macrodomain in complex with AVI-0005619	jaimefraser@gmail.com
+24rn	24RN: Structure of human CD38 collected by Laue diffraction	zn0437@connect.hku.hk
+24rk	24RK: Structure of CaSTS from single-crystal white beam Laue diffraction	haoquan@ihep.ac.cn
+9tib	9TIB: Cryo-EM structure of the y LAT1/CD98hc heteromeric complex bound to L-glutamine	manuel.palacin@irbbarcelona.org
+9z2g	9Z2G: Structure of Liraglutide Monomer	gliu@nexomics.com
+12ce	12CE: Head-on RNAP-RNAP Collision: 26 bp distance	galushin@rockefeller.edu
+12gr	12GR: HDAC1-MTA1 in complex with TICA (5-(Thiophen-2-yl)Isoxazole-3-Carboxylic Acid), the hydrolysis product of WNA1 by HDAC1	joe.zhou@novartis.com
+28sq	28SQ: Crystal structure of the Norovirus GII.4 P domain in complex with Lacto-N-fucopentaose III (LNFP III)	annabelle.varrot@cermav.cnrs.fr
+31li	31LI: Yersinia entomophaga holotoxin in its prepore state	Stefan.Raunser@mpi-dortmund.mpg.de
+37lw	37LW: KomA in complex with inosine monophosphate (IMP)	xcheng5@mdanderson.org
+44ja	44JA: KIR2DS1 bound to HLA-C*05:01 presenting the P2-AV peptide	jamie.rossjohn@monash.edu
+9t3w	9T3W: Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a benzoic acid inhibitor	sasi.conte@kcl.ac.uk
+9xik	9XIK: Crystal structure of Streptavidin-2 (Sav2) complexed with acidomycin from Streptomyces avidinii	dlwu@sdu.edu.cn
+9xiu	9XIU: Structural evidence of thioacetate reduction by fluorescent protein mRuby-( mRuby-thioacetate structure1 )	dongjianshu08@mails.ucas.ac.cn
+9z14	9Z14: GH95 from Blautia faecis	redinbo@unc.edu
+9z17	9Z17: GH29 from Akkermansia muciniphila	redinbo@unc.edu
+9z5a	9Z5A: Crystal structure of MPXV-A35 in complex with antibody A35-Ab9gr1	wilson@scripps.edu
+21bx	21BX: Cryo-EM structure of Orb2 amyloid from 30-day-old Drosophila (4Hb)	ruhm@hku.hk
+43wo	43WO: Cryo-EM structure of the E. coli ArnA hexamer	bilee@ncc.re.kr
+9xj3	9XJ3: Colanic acid polysaccharide related protein structures	972374576@QQ.com
+31qh	31QH: Photorhabdus luminescens TcdA1 inverted pore state	Stefan.Raunser@mpi-dortmund.mpg.de
+32vc	32VC: Structure of the RND transporter MexB in complex with the reference inhibitor phenylalanine-arginine beta-naphthylamide.	isabelle.broutin@u-paris.fr
+43ic	43IC: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H) and Zn2+	k612002k@mails.cc.ehime-u.ac.jp
+9t3v	9T3V: Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with an N-benzylpiperidine-based inhibitor	sasi.conte@kcl.ac.uk
+11cw	11CW: Crystal structure of mouse IgG2a Fc in complex with mouse Fc gamma receptor IV	jzhang@cm.utexas.edu
+9xja	9XJA: In situ portimine A-bound human pre-60S ribosome from intact HEK293T cells	gaon@pku.edu.cn
+9us0	9US0: Crystal structure of Ade1304 DNA aptamer (Ade1304b) bound to AMP	huanglin36@mail.sysu.edu.cn
+9us1	9US1: Crystal structure of Ade1304 DNA aptamer (1304b11) bound to adenosine	huanglin36@mail.sysu.edu.cn
+26tf	26TF: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and malonate	k612002k@mails.cc.ehime-u.ac.jp
+13am	13AM: Crystal Structure of Human IGG1 FC Fragment (P33A, Orthorhombic P Form)	swlovell@ku.edu
+28ut	28UT: Crystal structure of the Norovirus GII.4 P domain in complex with Lacto-N-fucopentaose I (LNFP I)	annabelle.varrot@cermav.cnrs.fr
+30eh	30EH: 2-heptyl-4(1H)-quinolone synthase PqsBC in complex with compound 35	wulf.blankenfeldt@helmholtz-hzi.de
+28ti	28TI: TraI relaxase in its helicase state in complex with fork DNA (TraI-HEL)	a.ilangovan@qmul.ac.uk
+36xi	36XI: Cryo-EM structure of SLC6A19-ACE2 complex with Compound 20	Huixian.Wu@pfizer.com
+9xjh	9XJH: In situ 80S ribosome from intact HEK293T cells - consensus map of 60S region	gaon@pku.edu.cn
+44iw	44IW: KIR2DS4 bound to HLA-C*05:01 presenting the RecA peptide	jamie.rossjohn@monash.edu
+44jb	44JB: KIR2DS2 bound to HLA-C*05:01 presenting the RecA peptide	jamie.rossjohn@monash.edu
+30ar	30AR: Cryo-EM structure of human PRIMPOL bound to the CMG helicase	jyeeles@mrc-lmb.cam.ac.uk
+12cg	12CG: Head-on RNAP-RNAP Collision: 31 bp distance	galushin@rockefeller.edu
+9xil	9XIL: Crystal structure of L-tryptophan methyltransferase trpM	bxwu15@fudan.edu.cn
+21bw	21BW: Cryo-EM structure of Orb2 amyloid from 20-day-old Drosophila (2H)	ruhm@hku.hk
+21bu	21BU: Cryo-EM structure of Orb2 amyloid from 15-day-old Drosophila (post-3Ha)	ruhm@hku.hk
+21bv	21BV: Cryo-EM structure of Orb2 amyloid from 15-day-old Drosophila (post-3Hb)	ruhm@hku.hk
+29ag	29AG: Crystal structure of the Norovirus GII.17 P domain in complex with Lacto-N-fucopentaose I (LNFP I)	annabelle.varrot@cermav.cnrs.fr
+37lz	37LZ: Structure of KomA in complex with pentostatin	xcheng5@mdanderson.org
+32sj	32SJ: Crystal structure of YTHDF2 in complex with compound 22 (FE-709)	caflisch@bioc.uzh.ch
+21fs	21FS: Cryo-EM structure of human organic solute transporter OSTalpha/beta	todvince@mail.ustc.edu.cn
+34cj	34CJ: Crystal structure of human Cathepsin L in complex with 2-(benzimidazol-1-yl)-N-methylacetamide	alke.meents@desy.de
+32sh	32SH: Crystal structure of YTHDF2 in complex with compound 4 (FE-462)	caflisch@bioc.uzh.ch
+9vsb	9VSB: Small molecule LC-YD03 targeting YTHDC1	sjchen@pharm.ecnu.edu.cn
+9z19	9Z19: Crystal structure of the DNA preQ0 insertase DpdA bound to preQ0	mswairjo@sdsu.edu
+43yc	43YC: Cryo-EM structure of AGAP001487 in a nanodisc	oshima.atsunori.b9@f.mail.nagoya-u.ac.jp
+9z5f	9Z5F: Crystal structure of MPXV-B6-SCR1 in complex with antibody B6-Ab15gr2	wilson@scripps.edu
+44iz	44IZ: KIR2DS1 bound to HLA-C*05:01 presenting the RecA peptide	jamie.rossjohn@monash.edu
+44je	44JE: KIR2DS2 bound to HLA-C*07:02 presenting the RL9 peptide	jamie.rossjohn@monash.edu
+35fs	35FS: Crystal structure of human Histidine Triad Nucleotide-Binding Protein 1 in complex with N-(2-fluoroethyl)morpholino adenosine 6'-O-phosphate	katarzyna.jastrzebska@cbmm.lodz.pl
+34hf	34HF: Crystal structure of human MATCAP2 (TMCP2)	krzysztof.rogowski@igh.cnrs.fr
+36ki	36KI: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 19b	chris@sas.upenn.edu
+43wp	43WP: Glycerol dehydrogenase	bilee@ncc.re.kr
+43wq	43WQ: GTP cyclohydrolase I	bilee@ncc.re.kr
+28vk	28VK: Cryo-EM structure of mosquito OPN3 in complex with the Gi heterotrimer	moransb@weizmann.ac.il
+27ev	27EV: Human Leucocyte Antigen HLA-A2 with bound BHA(543-551) peptide	jamie.rossjohn@monash.edu
+36kw	36KW: Tri-complex of Compound 42, KRas G12D, and CypA	jyano@revmed.com
+36jm	36JM: Tri-complex of Compound 1, KRas Q61H, and CypA	jyano@revmed.com
+36jr	36JR: Tri-complex of Compound 12, KRas Q61H, and CypA	jyano@revmed.com
+36kq	36KQ: Tri-complex of Compound 23, KRas G12D, and CypA	jyano@revmed.com
+11cx	11CX: Crystal structure of mouse Fc gamma receptor IV	jzhang@cm.utexas.edu
+9z48	9Z48: Crystal structure of H3N2 in complex with a o-carboxy-phenyl-substituted glucuronyl triazole ligand	m.vonitzstein@griffith.edu.au
+12cd	12CD: RNAP-EcoRI* Collision	galushin@rockefeller.edu
+9z58	9Z58: Crystal structure of MPXV-A35 in complex with antibody A35-Ab9	wilson@scripps.edu
+24rl	24RL: Structure of CaSTS from multi-crystal white beam Laue diffraction	haoquan@ihep.ac.cn
+9t3n	9T3N: Type III polyketide synthase from Hypoxylon argillaceum CBS527.63	lili.zhang@rug.nl
+25ci	25CI: Structure of hTRPC3 T561A mutant with C2 symmetry	chenlei2016@pku.edu.cn
+27mx	27MX: Cryo-EM structure of the ATOM complex from Trypanosoma brucei	long_li@pku.edu.cn
+44iy	44IY: KIR2DS4 bound to HLA-C*05:01 presenting the HECTD1 peptide	jamie.rossjohn@monash.edu
+9tgr	9TGR: Cryo-EM structure of tail-fully-disengaged TamAB complex	haohaodong@scu.edu.cn
+9xjq	9XJQ: Crystal structure of human WDR5 in complex with KMS01	baifang@shanghaitech.edu.cn
+9zvt	9ZVT: CYP226A31 in complex with dehydroabietic acid	stephen.bell@adelaide.edu.au
+44ix	44IX: KIR2DS4 bound to HLA-C*05:01 presenting the TM9SF4 peptide	jamie.rossjohn@monash.edu
+32sa	32SA: Crystal structure of YTHDF2 in complex with compound 5 (ZA780)	caflisch@bioc.uzh.ch
+47gc	47GC: Crystal structure of HAase	fenghao2@bloomagebiotech.com
+34cm	34CM: Crystal structure of human Cathepsin L in complex with 8-hydroxy-2,6-diazaspiro[3.5]nonan-5-one	alke.meents@desy.de
+37ly	37LY: Structure of KomA in complex with pentostatin-5'-monophosphate	xcheng5@mdanderson.org
+26mw	26MW: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, and Mn2+	k612002k@mails.cc.ehime-u.ac.jp
+24va	24VA: Cryo-EM structure of recombinant Botulinum neurotoxin A	yang.wu@claruvis.com
+9oz3	9OZ3: Structure of a red shifted PSI monomer from 6803	ymazor@asu.edu
+46qw	46QW: S. cerevisiae CYP51 complexed with Ravuconazole	matthias.fellner@otago.ac.nz
+9z56	9Z56: Crystal structure of VACV-A33 in complex with antibody A35-Ab1gr1	wilson@scripps.edu
+43dz	43DZ: The complex structure of RBD and KXD-I42	gjwsdu@163.com
+43yg	43YG: Cryo-EM structure of an N-terminal deletion mutant of AGAP001487 in a nanodisc	oshima.atsunori.b9@f.mail.nagoya-u.ac.jp
+26tg	26TG: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and malonate (covalently bound form of malonate to coenzyme)	k612002k@mails.cc.ehime-u.ac.jp
+9ois	9OIS: Crystal structure of glycosyltransferase family 61 from Sorghum bicolor	jhpereira@lbl.gov
+21by	21BY: Cryo-EM structure of Orb2 amyloid from 30-day-old Drosophila (4Ha)	ruhm@hku.hk
+9tgs	9TGS: Cryo-EM structure of TamA	haohaodong@scu.edu.cn
+12gt	12GT: HDAC1-MTA1 in complex with WNA0 (7-(dimethylamino)-1-(5-(thiophen-2-yl)isoxazol-3-yl)heptan-1-one), a nonhydrolyzable analog of WNA1	joe.zhou@novartis.com
+9ow0	9OW0: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and Dihydroresveratrol	k.nettles@ufl.edu
+46qq	46QQ: S. cerevisiae CYP51 complexed with Ravuconazole-tetrazole	matthias.fellner@otago.ac.nz
+36km	36KM: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 15	chris@sas.upenn.edu
+44hq	44HQ: Crystal structure of human glutaminyl cyclase in complex with Inhibitor 5	czyhnzk@163.com
+34cl	34CL: Crystal structure of human Cathepsin L in complex with 3-(4-bromophenyl)-2-methylpropanamide	alke.meents@desy.de
+36jp	36JP: Tri-complex of Compound 9, KRas Q61H, and CypA	jyano@revmed.com
+36kp	36KP: Tri-complex of Compound 15 N-acyl adduct, KRAS G12D, and CypA	jyano@revmed.com
+9z47	9Z47: Crystal structure of H3N2 in complex with a m-carboxy-phenyl-substituted glucuronyl triazole ligand	m.vonitzstein@griffith.edu.au
+11lu	11LU: Structure of a tau(297-407)-4D filament grown in potassium citrate buffer for 4 days (polymorph 1)	Jason.Gestwicki@ucsf.edu
+9tv4	9TV4: Endoplasmic reticulum glucose Transferase	mrccri@ibmb.csic.es
+35fr	35FR: Crystal structure of human Histidine Triad Nucleotide-Binding Protein 1 in complex with N-(2-hydroxyethyl)morpholino adenosine 6'-O-phosphate	katarzyna.jastrzebska@cbmm.lodz.pl
+31ly	31LY: Yersinia entomophaga holotoxin in its lollipop pore state	Stefan.Raunser@mpi-dortmund.mpg.de
+9urv	9URV: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to AMP	huanglin36@mail.sysu.edu.cn
+9ury	9URY: Crystal structure of Ade1304 DNA aptamer (Ade1304b) bound to adenosine	huanglin36@mail.sysu.edu.cn
+9xls	9XLS: crystal structrue of a Caspase mutant-C131A	forest66318@163.com
+9z59	9Z59: Crystal structure of MPXV-A35 in complex with antibody A35-Ab10	wilson@scripps.edu
+9rzw	9RZW: Crystal structure of PNGase A from Bifidobacterium bifidum LMG13195	l.i.crouch@bham.ac.uk
+11zn	11ZN: Structure of peptide segment KLVFFA from amyloid-beta determined by MicroED under cryogenic temperatures	jrodriguez@mbi.ucla.edu
+12cf	12CF: Head-on RNAP-RNAP Collision: 29 bp distance	galushin@rockefeller.edu
+12lu	12LU: LSD1-CoREST in complex with GSK-LSD1 and peptide PRSALV	andrea.mattevi@unipv.it
+21dv	21DV: Crystal structure of de novo designed type-I cupredoxin AZ83647	602024240120@smail.nju.edu.cn
+24oj	24OJ: SIRT2 structure in complex with H3K18myr peptide collected by Laue diffraction	zn0437@connect.hku.hk
+46aq	46AQ: Crystal structure of the diaminopimelate dehydrogenase from Pyrococcus sp. in its apo form	kmb@inbi.ras.ru
+26xz	26XZ: Crystal structure of the anti-PEG Fab in complex with PEG fragment OEG13	yang_zhenlin@fudan.edu.cn
+36kh	36KH: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 13	chris@sas.upenn.edu
+34lu	34LU: Trp-5-Hal - Consensus designed artificial tryptophan-5-halogenase	allister.crow@warwick.ac.uk
+9urw	9URW: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to ADP	huanglin36@mail.sysu.edu.cn
+33qg	33QG: Cytochrome P450 reductase in complex with NADPH from Mycosarcoma maydis	opperdj@ufs.ac.za
+37lx	37LX: Crystal structure of apo KomA from the bacterial Kongming phage-defense system	xcheng5@mdanderson.org
+39ri	39RI: Crystal Structure of the Europium-bound Lanmodulin from Ancylobacter novellus	olaf.nachtigall@uah.edu
+38fp	38FP: hnRNPA2 low complexity domain fibril structure determined by cryo-EM with alternate N and C-termini	Lukasz.Joachimiak@UTSouthwestern.edu
+45ww	45WW: Thermotoga maritima ferritin mutant-S73G	gzhao@cau.edu.cn
+44ib	44IB: Crystal structure of human glutaminyl cyclase in complex with Inhibitor LL1260	czyhnzk@163.com
+9pmi	9PMI: Structure of a bifunctional ulvan active enzymes	boraston@uvic.ca
+9tgp	9TGP: Cryo-EM structure of TamAB-tail-engaged intermediate	haohaodong@scu.edu.cn
+9urt	9URT: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to adenosine with barium ions	huanglin36@mail.sysu.edu.cn
+9vs9	9VS9: Small molecule 3-127 targeting YTHDC1	sjchen@pharm.ecnu.edu.cn
+9xij	9XIJ: Crystal structure of Macrobrachium rosenbergii lipocalin in complex with canthaxanthin	gzhao@cau.edu.cn
+9xis	9XIS: Structural evidence of thioacetate reduction by fluorescent protein mRuby-( mRuby-thioacetate structure3 )	dongjianshu08@mails.ucas.ac.cn
+9xkf	9XKF: Crystal structure of Odorant Binding Protein 11 from Locusta migratoria (LmigOBP11) with Phenylacetonitrile(PAN).	1036983523@qq.com
+9xkc	9XKC: Crystal structure of Odorant Binding Protein 11 from Locusta migratoria (LmigOBP11) with acetate	jye@hbu.edu.cn
+9xkr	9XKR: Structure of CsoS1D from Halothiobacillius neapolitanus	lbr1771023823@mail.ustc.edu.cn
+9xkp	9XKP: Tepidibacillus decaturensis alpha-glucan 4(6)-alpha-glucosyltransferase E666Q in apo-form	saburiw@agr.hokudai.ac.jp
+9z46	9Z46: Crystal structure of H3N2 in complex with a phenyl-substituted glucuronyl triazole ligand	m.vonitzstein@griffith.edu.au
+9z5k	9Z5K: Crystal structure of UFC1 at pH 5.5	brian.mahon@bms.com
+9z3l	9Z3L: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
+9z5g	9Z5G: Crystal structure of MPXV-B6-SCR4 in complex with antibody B6-Ab9	wilson@scripps.edu
+13al	13AL: Crystal Structure of Human IGG1 FC Fragment (WT, Orthorhombic P Form)	swlovell@ku.edu
+31od	31OD: Yersinia entomophaga holotoxin in its inverted pore state	Stefan.Raunser@mpi-dortmund.mpg.de
+31oi	31OI: Yersinia entomophaga holotoxin in its conventional pore state	Stefan.Raunser@mpi-dortmund.mpg.de
+9z57	9Z57: Crystal structure of VACV-A33 in complex with antibody A35-Ab4	wilson@scripps.edu
+43ia	43IA: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+,and malonate	k612002k@mails.cc.ehime-u.ac.jp
+9xjb	9XJB: CRM197 mutant-P226E, R458P,G510D (Named CRM197-Mut3)	yurui1102@139.com
+9z3m	9Z3M: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
+9z16	9Z16: GH29A alpha-fucosidase from Bacteroides fragilis in complex with deoxyfuconojirimycin	redinbo@unc.edu
+9z1f	9Z1F: Crystal structure of NJ receptor binding domain in complex with human ACE2	wilson@scripps.edu
+25ch	25CH: Structure of hTRPC3 T561A mutant in the partially open state with C4 symmetry	chenlei2016@pku.edu.cn
+26jc	26JC: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H) and Zn2+	k612002k@mails.cc.ehime-u.ac.jp
+37ev	37EV: Small Molecule Inhibitors of Cholesterol Sulfotransferase as Immunomodulatory Agents	snair@illinois.edu
+36kk	36KK: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 14	chris@sas.upenn.edu
+44hw	44HW: Crystal structure of human glutaminyl cyclase in complex with Inhibitor	czyhnzk@163.com
+37zc	37ZC: Tri-complex of Compound 2, KRas WT, and CypA	jyano@revmed.com
+9xkn	9XKN: Tepidibacillus decaturensis alpha-glucan 4(6)-alpha-glucosyltransferase E666Q in complex with acarbose	saburiw@agr.hokudai.ac.jp
+9z0i	9Z0I: E2 Refolding into Soluble Protein after Dissociation from Viral Membrane and E1 during Sindbis Virus Fusion	aocheng@northwestern.edu
+31on	31ON: CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1-State I	christos.gatsogiannis@uni-muenster.de
+9xjj	9XJJ: The cryo-EM structure of F-BF227 bound Tau PHF fibril	tianyi-cao@sjtu.edu.cn
+9z5d	9Z5D: Crystal structure of MPXV-B6-SCR1 in complex with antibody B6-Ab15	wilson@scripps.edu
+13an	13AN: Crystal Structure of Human IGG1 FC Fragment (P33A, Orthorhombic C Form)	swlovell@ku.edu
+28wr	28WR: Crystal structure of the Norovirus GII.17 P domain in complex with Lacto-N-difucohexaose I	annabelle.varrot@cermav.cnrs.fr
+28ze	28ZE: Crystal structure of the Norovirus GII.17 P domain in complex with Difucosyllactose	annabelle.varrot@cermav.cnrs.fr
+9z1g	9Z1G: Crystal structure of NJ receptor binding domain in complex with antibody CC25.4	wilson@scripps.edu
+21de	21DE: MsSzR methanogenic Schizorhodopsin	nureki@bs.s.u-tokyo.ac.jp
+9i4y	9I4Y: Toxoplasma gondii cytochrome c oxidase from the respiratory supercomplex III2-IV	alexander.muhleip@helsinki.fi
+9uti	9UTI: Tetrahymena Ribozyme L-16 complex with small molecule inhibitor ZPT-005	zsulab2019@gmail.com
+26th	26TH: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and cyclopropane-1,1-dicarboxylic acid	k612002k@mails.cc.ehime-u.ac.jp
+44cf	44CF: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and malonate	k612002k@mails.cc.ehime-u.ac.jp
+9z2e	9Z2E: Crystal structure of beta-glucosidase Bgl1 from Rhizobium sp. C1	chelsea.vickers@waikato.ac.nz
+9zvs	9ZVS: CYP226A31 in complex with abietic acid	stephen.bell@adelaide.edu.au
+9xii	9XII: Crystal structure of Macrobrachium rosenbergii lipocalin Y57F mutant in complex with astaxanthin	gzhao@cau.edu.cn
+28np	28NP: Crystal structure of the Norovirus GII.4 P domain in complex with 3 sialyl fucosyllactose	annabelle.varrot@cermav.cnrs.fr
+9z3n	9Z3N: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
+44ic	44IC: Crystal structure of human glutaminyl cyclase in complex with Inhibitor 1258	czyhnzk@163.com
+9z3o	9Z3O: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
+9vra	9VRA: Small molecule 2-60 targeting YTHDC1	sjchen@pharm.ecnu.edu.cn
+9xlv	9XLV: Cryo-EM structure of a PSI supercomplex in the leaves of Hevea brasiliensis	wdwang@ibcas.ac.cn
+39kl	39KL: SARS-CoV-2 Main Protease with Zevotrelvir	kovari@med.wayne.edu
+46ip	46IP: Bacillus subtilis topoisomerase IV ParC-ParE complex	chenyun0927@zju.edu.cn
+35fp	35FP: Crystal structure of human Histidine Triad Nucleotide-Binding Protein 1 in complex with morpholino adenosine 6'-O-phosphate	katarzyna.jastrzebska@cbmm.lodz.pl
+9oxy	9OXY: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and 7-(4-hydroxyphenethyl)-2,2-dimethylchroman-5-ol	k.nettles@ufl.edu
+25cg	25CG: Structure of hTRPC3 E603A/V637A/K607A mutant	chenlei2016@pku.edu.cn
+21hr	21HR: CryoEM structural of taurocholic acid bound OST alpha/beta transporter	todvince@mail.ustc.edu.cn
+36xf	36XF: Cryo-EM structure of SLC6A19-ACE2 complex with CB3	Huixian.Wu@pfizer.com
+9xj6	9XJ6: Portimine A-bound human translating ribosome - P/P-E/E State	gaon@pku.edu.cn
+36kv	36KV: Tri-complex of Compound 37, KRas G12D, and CypA	jyano@revmed.com
+44iv	44IV: KIR2DS4 bound to HLA-C*05:01 presenting the P2-AW peptide	jamie.rossjohn@monash.edu
+9t3i	9T3I: CRYO-EM STRUCTURE OF EKVX HUMAN CANCER CELL LINE RIBOSOME : CLASS 4	Ada.Yonath@weizmann.ac.il
+44jc	44JC: KIR2DS2 bound to HLA-C*05:01 presenting the P2-AV peptide	jamie.rossjohn@monash.edu
+9z5e	9Z5E: Crystal structure of MPXV-B6-SCR1 in complex with antibody B6-Ab15gr1	wilson@scripps.edu
+12ch	12CH: Head-on RNAP-RNAP Collision: RNA hairpin	galushin@rockefeller.edu
+9z4p	9Z4P: Crystal structure of VACV-A33 in complex with antibody A35-Ab1	wilson@scripps.edu
+37ic	37IC: Doc2b-Munc13 complex with designed binder	Jose.Rizo-Rey@utsouthwestern.edu
+9tgq	9TGQ: Cryo-EM structure of tail-engaged TamAB complex	haohaodong@scu.edu.cn
+29bs	29BS: Crystal structure of the Norovirus GII.17 P domain in complex with Lacto-N-fucopentaose II (LNFP II)	annabelle.varrot@cermav.cnrs.fr
+34lt	34LT: Trp-7-Hal - Consensus designed artificial tryptophan-7-halogenase	allister.crow@warwick.ac.uk
+9xit	9XIT: Structural evidence of thioacetate reduction by fluorescent protein mRuby-( mRuby-thioacetate structure2 )	dongjianshu08@mails.ucas.ac.cn
+9xjc	9XJC: The cryo-EM structure of ThT bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
+9xj4	9XJ4: Soluble expression of CRM197 in Escherichia coli(Named CRM197-OA)	xujunjie@sina.com
+28th	28TH: Two TraI relaxases in their asymmetric homodimer state in complex with fork DNA (TraI-AHD)	a.ilangovan@qmul.ac.uk
+9xjo	9XJO: Human Keratin 19 tail domain with phospho-tyrosine (phosphorylated Y391) Q387-L400 in solution	jinhaekim@dgist.ac.kr
+9weq	9WEQ: Crystal structure of Tx7335, an unusual three-finger toxin with altered disulfide pairing	shioi.narumi.ks@teikyo-u.ac.jp
+9z13	9Z13: GH95 alpha-fucosidase from Bacteroides fragilis	redinbo@unc.edu
+22nc	22NC: Cryo-EM structure of Orb2 amyloid from 30-day-old Drosophila (4Hc)	ruhm@hku.hk
+9t3k	9T3K: Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to m-CF3 cinnamic acid	jurgen.brem@ubbcluj.ro
+21df	21DF: MtSzR methanogenic Schizorhodopsin	nureki@bs.s.u-tokyo.ac.jp
+27bn	27BN: Crystal structure of sulfolactate sulfolyase, SuyAB from Caballeronia jiangsuensis strain McCoy	mihwa.lee@unimelb.edu.au
+9z15	9Z15: GH29B alpha-fucosidase from Faecalibacterium prausnitzii	redinbo@unc.edu
+31jf	31JF: Human holo aromatic L-amino acid decarboxylase (AADC) D15G variant native structure	mita.bertoldi@univr.it
+32rd	32RD: Crystal structure of YTHDF2 in complex with compound 3 (FE468)	caflisch@bioc.uzh.ch
+32qy	32QY: Crystal structure of YTHDF2 in complex with compound 24 (FE-593)	caflisch@bioc.uzh.ch
+33wj	33WJ: Structural and functional evaluation of the classical RND efflux pumps inhibitor PAbN, a systematic study.	isabelle.broutin@u-pariscite.fr
+27wl	27WL: H9 Haemagglutinin in Complex with Sulfated 3'SLN	gaof@im.ac.cn
+33qj	33QJ: Cytochrome P450 Reductases in complex with NADPH from Candida albicans	opperdj@ufs.ac.za
+36kj	36KJ: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 20b	chris@sas.upenn.edu
+9oj0	9OJ0: Crystal structure of uropathogenic Escherichia coli transcriptional regulator MprA bound to double-stranded DNA	m.schembri@uq.edu.au
+9sl2	9SL2: Cryo-EM structure of proIAPP(1-48)	michal.maj@kemi.uu.se
+9xjv	9XJV: Crystal structure of murine EMAP-II	jianglg@fzu.edu.cn
+9xkq	9XKQ: Apg mutant enzyme Y295F of acarbose hydrolase from human gut flora K. grimontii TD1, complex with glucose, a product of maltose	jy.huang1@siat.ac.cn
+9z0r	9Z0R: ATP phosphoribosyltransferase regulatory subunit (HisZ) from Staphylococcus aureus	emily.parker@vuw.ac.nz
+9t3u	9T3U: Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a TPPU-6-chlorotacrine hybrid	sasi.conte@kcl.ac.uk
+12lq	12LQ: LSD1-CoREST in complex with Alkyne probe and peptide PRCALVKSK	andrea.mattevi@unipv.it
+11pi	11PI: Crystal structure of UFC1 variant Y42F	brian.mahon@bms.com
+32th	32TH: Crystal structure of YTHDF2 in complex with compound 20 (ZA801)	caflisch@bioc.uzh.ch
+37ew	37EW: Small Molecule Inhibitors of Cholesterol Sulfotransferase as Immunomodulatory Agents	snair@illinois.edu
+9oxt	9OXT: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and 5-(4-hydroxyphenethyl)-2,2-dimethylchroman-7-ol	k.nettles@ufl.edu
+38fn	38FN: hnRNPA2 low complexity domain fibril structure determined by cryo-EM	Lukasz.Joachimiak@UTSouthwestern.edu
+9oud	9OUD: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in complex with NCOA2 peptide and (E)-5-(4-hydroxystyryl)-4,6-bis(3-methylbut-2-en-1-yl)benzene-1,3-diol	k.nettles@ufl.edu
+9xjt	9XJT: Crystal structure of human WDR5 in complex with Tasisulam	baifang@shanghaitech.edu.cn
+9xjz	9XJZ: Crystal Structure of Nur77 LBD in complex with HTPA	twlin@xmu.edu.cn
+43yh	43YH: Cryo-EM structure of enterohemorrhagic Escherichia coli CdiA-CT:Tu(GTP):Ts:tRNA complex	kozo-tomita@edu.k.u-tokyo.ac.jp
+9xkv	9XKV: The cryo-EM structure of apo Tau PHF fibril	tianyi-cao@sjtu.edu.cn
+30eg	30EG: 2-heptyl-4(1H)-quinolone synthase PqsBC in complex with D3	wulf.blankenfeldt@helmholtz-hzi.de
+44jd	44JD: KIR2DS1 bound to HLA-C*06:02 presenting the SV9 peptide	jamie.rossjohn@monash.edu
+11lv	11LV: Structure of a tau(297-407)-4D filament grown in potassium citrate buffer for 42 days (polymorph 2)	Jason.Gestwicki@ucsf.edu
+11lw	11LW: Structure of a tau(297-407)-4D filament grown in potassium citrate buffer for 42 days (polymorph 3)	Jason.Gestwicki@ucsf.edu
+9t3h	9T3H: Cryo-EM structure of a human KEOPS sub-complex bound to tRNA	herman.van-tilbeurgh@i2bc.paris-saclay.fr
+11ct	11CT: Crystal structure of mouse IgG2a-Fc	jzhang@cm.utexas.edu
+47ss	47SS: The structure of hemagglutinin T160A mutant (H3 numbering) from H9N2 influenza virus (A/chicken/Tianjin/CAS/2007) in complex with avian receptor analog 3'SLNLN	gaof@im.ac.cn
+36kl	36KL: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 20a	chris@sas.upenn.edu
+9ovg	9OVG: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in complex with NCOA2 peptide and (E)-7-(4-hydroxystyryl)-2,2-dimethyl-6-(3-methylbut-2-en-1-yl)chroman-5-ol	k.nettles@ufl.edu
+9oxr	9OXR: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and 5-(4-hydroxyphenethyl)-4-(3-methylbut-2-en-1-yl)benzene-1,3-diol	k.nettles@ufl.edu
+47vf	47VF: The structure of hemagglutinin T160A mutant (H3 numbering) from H9N2 influenza virus (A/chicken/Tianjin/CAS/2007) in complex with human receptor analog 6'SLNLN	gaof@im.ac.cn
+9z52	9Z52: Crystal structure of UFC1 in complex with N-cyclohexyl-2-hydroxyl-3-aminopropanesulfonic acid (CAPS)	brian.mahon@bms.com
+9xkk	9XKK: Cryo-EM structure of a PSI supercomplex in the leaves of Hevea brasiliensis	xcwang@gzu.edu.cn
+9t45	9T45: Crystal Structure of the NlpC/P60 Peptidase YkfC C200A Mutant from Bacillus subtilis with Bound Pentapeptide	thilo.stehle@uni-tuebingen.de
+34ck	34CK: Crystal structure of human Cathepsin L in complex with 5,8-dimethoxy-1,2,3,4-tetrahydroisoquinolin-4-ol	alke.meents@desy.de
+27eu	27EU: Human Leucocyte Antigen HLA-A2 with bound PB1(413-421) peptide	jamie.rossjohn@monash.edu
+9z5c	9Z5C: Crystal structure of VACV-A33 in complex with antibody A35-Ab17	wilson@scripps.edu
+9z5h	9Z5H: Crystal structure of MPXV-B6-Stalk in complex with antibody B6-Ab6	wilson@scripps.edu
+30ej	30EJ: 2-heptyl-4(1H)-quinolone synthase PqsBC in complex with compound 33	wulf.blankenfeldt@helmholtz-hzi.de
+36xc	36XC: NNVL bound to inhibitor compound 112 (YT-IV-239B)	jan.erzberger@utsouthwestern.edu
+36xe	36XE: Cryo-EM structure of SLC6A19-ACE2 complex with cinromide	Huixian.Wu@pfizer.com
+9oy9	9OY9: Structure of a red shifted PSI monomer from 6803	ymazor@asu.edu
+9t4s	9T4S: Human Carbonic Anhydrase II in complex with 4-(4-(5-(allylthio)-1,3,4-oxadiazol-2-yl)-5-amino-1H-pyrazol-1-yl)benzenesulfonamide	andrea.angeli@unifi.it
+36jn	36JN: Tri-complex of Compound 2, KRas Q61H, and CypA	jyano@revmed.com
+36jo	36JO: Tri-complex of Compound 3, KRas Q61H, and CypA	jyano@revmed.com
+36jq	36JQ: Tri-complex of Compound 11, KRas Q61H, and CypA	jyano@revmed.com
+36js	36JS: Tri-complex of RMC-0708, KRas Q61H, and CypA	jyano@revmed.com
+36ko	36KO: Tri-complex of Compound 15 O-acyl adduct, KRAS G12D, and CypA	jyano@revmed.com
+36ks	36KS: Tri-complex of Compound 25, KRas G12D, and CypA	jyano@revmed.com
+36kr	36KR: Tri-complex of Compound 24, KRas G12D, and CypA	jyano@revmed.com
+36kt	36KT: Tri-complex of Compound 27, KRas G12D, and CypA	jyano@revmed.com
+36ku	36KU: Tri-complex of Compound 30, KRAS G12D, and CypA	jyano@revmed.com
+36xh	36XH: Cryo-EM structure of SLC6A19-ACE2 complex with Compound 6	Huixian.Wu@pfizer.com
+9z45	9Z45: Crystal structure of H3N2 in complex with Neu5Ac2en	m.vonitzstein@griffith.edu.au
+47uf	47UF: The structure of hemagglutinin H9 hemagglutinin from A/chicken/Jiangsu/C4258/2012 in complex with avian receptor analog 3'SLNLN	gaof@im.ac.cn
+9z5b	9Z5B: Crystal structure of MPXV-A35 in complex with antibody A35-Ab9gr2	wilson@scripps.edu
+29ds	29DS: Cryo-EM structure of dimeric human UGGT1	mrccri@ibmb.csic.es
+30bb	30BB: Structure of the occluded-state soluble domain of human Adenylyl cyclase 9 in complex with stimulatory G protein	volodymyr.korkhov@psi.ch
+9z8n	9Z8N: Crystal structure of RNF14 RING2 domain bound to K6/K48 branched tri-ubiquitin	lechtenberg.b@wehi.edu.au
