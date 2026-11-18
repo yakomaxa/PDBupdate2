@@ -1,273 +1,373 @@
-24rn	24RN: Structure of human CD38 collected by Laue diffraction	zn0437@connect.hku.hk
-24rk	24RK: Structure of CaSTS from single-crystal white beam Laue diffraction	haoquan@ihep.ac.cn
-9tib	9TIB: Cryo-EM structure of the y LAT1/CD98hc heteromeric complex bound to L-glutamine	manuel.palacin@irbbarcelona.org
-9z2g	9Z2G: Structure of Liraglutide Monomer	gliu@nexomics.com
-12ce	12CE: Head-on RNAP-RNAP Collision: 26 bp distance	galushin@rockefeller.edu
-12gr	12GR: HDAC1-MTA1 in complex with TICA (5-(Thiophen-2-yl)Isoxazole-3-Carboxylic Acid), the hydrolysis product of WNA1 by HDAC1	joe.zhou@novartis.com
-28sq	28SQ: Crystal structure of the Norovirus GII.4 P domain in complex with Lacto-N-fucopentaose III (LNFP III)	annabelle.varrot@cermav.cnrs.fr
-31li	31LI: Yersinia entomophaga holotoxin in its prepore state	Stefan.Raunser@mpi-dortmund.mpg.de
-37lw	37LW: KomA in complex with inosine monophosphate (IMP)	xcheng5@mdanderson.org
-44ja	44JA: KIR2DS1 bound to HLA-C*05:01 presenting the P2-AV peptide	jamie.rossjohn@monash.edu
-9t3w	9T3W: Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a benzoic acid inhibitor	sasi.conte@kcl.ac.uk
-9xik	9XIK: Crystal structure of Streptavidin-2 (Sav2) complexed with acidomycin from Streptomyces avidinii	dlwu@sdu.edu.cn
-9xiu	9XIU: Structural evidence of thioacetate reduction by fluorescent protein mRuby-( mRuby-thioacetate structure1 )	dongjianshu08@mails.ucas.ac.cn
-9z14	9Z14: GH95 from Blautia faecis	redinbo@unc.edu
-9z17	9Z17: GH29 from Akkermansia muciniphila	redinbo@unc.edu
-9z5a	9Z5A: Crystal structure of MPXV-A35 in complex with antibody A35-Ab9gr1	wilson@scripps.edu
-21bx	21BX: Cryo-EM structure of Orb2 amyloid from 30-day-old Drosophila (4Hb)	ruhm@hku.hk
-43wo	43WO: Cryo-EM structure of the E. coli ArnA hexamer	bilee@ncc.re.kr
-9xj3	9XJ3: Colanic acid polysaccharide related protein structures	972374576@QQ.com
-31qh	31QH: Photorhabdus luminescens TcdA1 inverted pore state	Stefan.Raunser@mpi-dortmund.mpg.de
-32vc	32VC: Structure of the RND transporter MexB in complex with the reference inhibitor phenylalanine-arginine beta-naphthylamide.	isabelle.broutin@u-paris.fr
-43ic	43IC: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H) and Zn2+	k612002k@mails.cc.ehime-u.ac.jp
-9t3v	9T3V: Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with an N-benzylpiperidine-based inhibitor	sasi.conte@kcl.ac.uk
-11cw	11CW: Crystal structure of mouse IgG2a Fc in complex with mouse Fc gamma receptor IV	jzhang@cm.utexas.edu
-9xja	9XJA: In situ portimine A-bound human pre-60S ribosome from intact HEK293T cells	gaon@pku.edu.cn
-9us0	9US0: Crystal structure of Ade1304 DNA aptamer (Ade1304b) bound to AMP	huanglin36@mail.sysu.edu.cn
-9us1	9US1: Crystal structure of Ade1304 DNA aptamer (1304b11) bound to adenosine	huanglin36@mail.sysu.edu.cn
-26tf	26TF: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and malonate	k612002k@mails.cc.ehime-u.ac.jp
-13am	13AM: Crystal Structure of Human IGG1 FC Fragment (P33A, Orthorhombic P Form)	swlovell@ku.edu
-28ut	28UT: Crystal structure of the Norovirus GII.4 P domain in complex with Lacto-N-fucopentaose I (LNFP I)	annabelle.varrot@cermav.cnrs.fr
-30eh	30EH: 2-heptyl-4(1H)-quinolone synthase PqsBC in complex with compound 35	wulf.blankenfeldt@helmholtz-hzi.de
-28ti	28TI: TraI relaxase in its helicase state in complex with fork DNA (TraI-HEL)	a.ilangovan@qmul.ac.uk
-36xi	36XI: Cryo-EM structure of SLC6A19-ACE2 complex with Compound 20	Huixian.Wu@pfizer.com
-9xjh	9XJH: In situ 80S ribosome from intact HEK293T cells - consensus map of 60S region	gaon@pku.edu.cn
-44iw	44IW: KIR2DS4 bound to HLA-C*05:01 presenting the RecA peptide	jamie.rossjohn@monash.edu
-44jb	44JB: KIR2DS2 bound to HLA-C*05:01 presenting the RecA peptide	jamie.rossjohn@monash.edu
-30ar	30AR: Cryo-EM structure of human PRIMPOL bound to the CMG helicase	jyeeles@mrc-lmb.cam.ac.uk
-12cg	12CG: Head-on RNAP-RNAP Collision: 31 bp distance	galushin@rockefeller.edu
-9xil	9XIL: Crystal structure of L-tryptophan methyltransferase trpM	bxwu15@fudan.edu.cn
-21bw	21BW: Cryo-EM structure of Orb2 amyloid from 20-day-old Drosophila (2H)	ruhm@hku.hk
-21bu	21BU: Cryo-EM structure of Orb2 amyloid from 15-day-old Drosophila (post-3Ha)	ruhm@hku.hk
-21bv	21BV: Cryo-EM structure of Orb2 amyloid from 15-day-old Drosophila (post-3Hb)	ruhm@hku.hk
-29ag	29AG: Crystal structure of the Norovirus GII.17 P domain in complex with Lacto-N-fucopentaose I (LNFP I)	annabelle.varrot@cermav.cnrs.fr
-37lz	37LZ: Structure of KomA in complex with pentostatin	xcheng5@mdanderson.org
-32sj	32SJ: Crystal structure of YTHDF2 in complex with compound 22 (FE-709)	caflisch@bioc.uzh.ch
-21fs	21FS: Cryo-EM structure of human organic solute transporter OSTalpha/beta	todvince@mail.ustc.edu.cn
-34cj	34CJ: Crystal structure of human Cathepsin L in complex with 2-(benzimidazol-1-yl)-N-methylacetamide	alke.meents@desy.de
-32sh	32SH: Crystal structure of YTHDF2 in complex with compound 4 (FE-462)	caflisch@bioc.uzh.ch
-9vsb	9VSB: Small molecule LC-YD03 targeting YTHDC1	sjchen@pharm.ecnu.edu.cn
-9z19	9Z19: Crystal structure of the DNA preQ0 insertase DpdA bound to preQ0	mswairjo@sdsu.edu
-43yc	43YC: Cryo-EM structure of AGAP001487 in a nanodisc	oshima.atsunori.b9@f.mail.nagoya-u.ac.jp
-9z5f	9Z5F: Crystal structure of MPXV-B6-SCR1 in complex with antibody B6-Ab15gr2	wilson@scripps.edu
-44iz	44IZ: KIR2DS1 bound to HLA-C*05:01 presenting the RecA peptide	jamie.rossjohn@monash.edu
-44je	44JE: KIR2DS2 bound to HLA-C*07:02 presenting the RL9 peptide	jamie.rossjohn@monash.edu
-35fs	35FS: Crystal structure of human Histidine Triad Nucleotide-Binding Protein 1 in complex with N-(2-fluoroethyl)morpholino adenosine 6'-O-phosphate	katarzyna.jastrzebska@cbmm.lodz.pl
-34hf	34HF: Crystal structure of human MATCAP2 (TMCP2)	krzysztof.rogowski@igh.cnrs.fr
-36ki	36KI: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 19b	chris@sas.upenn.edu
-43wp	43WP: Glycerol dehydrogenase	bilee@ncc.re.kr
-43wq	43WQ: GTP cyclohydrolase I	bilee@ncc.re.kr
-28vk	28VK: Cryo-EM structure of mosquito OPN3 in complex with the Gi heterotrimer	moransb@weizmann.ac.il
-27ev	27EV: Human Leucocyte Antigen HLA-A2 with bound BHA(543-551) peptide	jamie.rossjohn@monash.edu
-36kw	36KW: Tri-complex of Compound 42, KRas G12D, and CypA	jyano@revmed.com
-36jm	36JM: Tri-complex of Compound 1, KRas Q61H, and CypA	jyano@revmed.com
-36jr	36JR: Tri-complex of Compound 12, KRas Q61H, and CypA	jyano@revmed.com
-36kq	36KQ: Tri-complex of Compound 23, KRas G12D, and CypA	jyano@revmed.com
-11cx	11CX: Crystal structure of mouse Fc gamma receptor IV	jzhang@cm.utexas.edu
-9z48	9Z48: Crystal structure of H3N2 in complex with a o-carboxy-phenyl-substituted glucuronyl triazole ligand	m.vonitzstein@griffith.edu.au
-12cd	12CD: RNAP-EcoRI* Collision	galushin@rockefeller.edu
-9z58	9Z58: Crystal structure of MPXV-A35 in complex with antibody A35-Ab9	wilson@scripps.edu
-24rl	24RL: Structure of CaSTS from multi-crystal white beam Laue diffraction	haoquan@ihep.ac.cn
-9t3n	9T3N: Type III polyketide synthase from Hypoxylon argillaceum CBS527.63	lili.zhang@rug.nl
-25ci	25CI: Structure of hTRPC3 T561A mutant with C2 symmetry	chenlei2016@pku.edu.cn
-27mx	27MX: Cryo-EM structure of the ATOM complex from Trypanosoma brucei	long_li@pku.edu.cn
-44iy	44IY: KIR2DS4 bound to HLA-C*05:01 presenting the HECTD1 peptide	jamie.rossjohn@monash.edu
-9tgr	9TGR: Cryo-EM structure of tail-fully-disengaged TamAB complex	haohaodong@scu.edu.cn
-9xjq	9XJQ: Crystal structure of human WDR5 in complex with KMS01	baifang@shanghaitech.edu.cn
-9zvt	9ZVT: CYP226A31 in complex with dehydroabietic acid	stephen.bell@adelaide.edu.au
-44ix	44IX: KIR2DS4 bound to HLA-C*05:01 presenting the TM9SF4 peptide	jamie.rossjohn@monash.edu
-32sa	32SA: Crystal structure of YTHDF2 in complex with compound 5 (ZA780)	caflisch@bioc.uzh.ch
-47gc	47GC: Crystal structure of HAase	fenghao2@bloomagebiotech.com
-34cm	34CM: Crystal structure of human Cathepsin L in complex with 8-hydroxy-2,6-diazaspiro[3.5]nonan-5-one	alke.meents@desy.de
-37ly	37LY: Structure of KomA in complex with pentostatin-5'-monophosphate	xcheng5@mdanderson.org
-26mw	26MW: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, and Mn2+	k612002k@mails.cc.ehime-u.ac.jp
-24va	24VA: Cryo-EM structure of recombinant Botulinum neurotoxin A	yang.wu@claruvis.com
-9oz3	9OZ3: Structure of a red shifted PSI monomer from 6803	ymazor@asu.edu
-46qw	46QW: S. cerevisiae CYP51 complexed with Ravuconazole	matthias.fellner@otago.ac.nz
-9z56	9Z56: Crystal structure of VACV-A33 in complex with antibody A35-Ab1gr1	wilson@scripps.edu
-43dz	43DZ: The complex structure of RBD and KXD-I42	gjwsdu@163.com
-43yg	43YG: Cryo-EM structure of an N-terminal deletion mutant of AGAP001487 in a nanodisc	oshima.atsunori.b9@f.mail.nagoya-u.ac.jp
-26tg	26TG: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and malonate (covalently bound form of malonate to coenzyme)	k612002k@mails.cc.ehime-u.ac.jp
-9ois	9OIS: Crystal structure of glycosyltransferase family 61 from Sorghum bicolor	jhpereira@lbl.gov
-21by	21BY: Cryo-EM structure of Orb2 amyloid from 30-day-old Drosophila (4Ha)	ruhm@hku.hk
-9tgs	9TGS: Cryo-EM structure of TamA	haohaodong@scu.edu.cn
-12gt	12GT: HDAC1-MTA1 in complex with WNA0 (7-(dimethylamino)-1-(5-(thiophen-2-yl)isoxazol-3-yl)heptan-1-one), a nonhydrolyzable analog of WNA1	joe.zhou@novartis.com
-9ow0	9OW0: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and Dihydroresveratrol	k.nettles@ufl.edu
-46qq	46QQ: S. cerevisiae CYP51 complexed with Ravuconazole-tetrazole	matthias.fellner@otago.ac.nz
-36km	36KM: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 15	chris@sas.upenn.edu
-44hq	44HQ: Crystal structure of human glutaminyl cyclase in complex with Inhibitor 5	czyhnzk@163.com
-34cl	34CL: Crystal structure of human Cathepsin L in complex with 3-(4-bromophenyl)-2-methylpropanamide	alke.meents@desy.de
-36jp	36JP: Tri-complex of Compound 9, KRas Q61H, and CypA	jyano@revmed.com
-36kp	36KP: Tri-complex of Compound 15 N-acyl adduct, KRAS G12D, and CypA	jyano@revmed.com
-9z47	9Z47: Crystal structure of H3N2 in complex with a m-carboxy-phenyl-substituted glucuronyl triazole ligand	m.vonitzstein@griffith.edu.au
-11lu	11LU: Structure of a tau(297-407)-4D filament grown in potassium citrate buffer for 4 days (polymorph 1)	Jason.Gestwicki@ucsf.edu
-9tv4	9TV4: Endoplasmic reticulum glucose Transferase	mrccri@ibmb.csic.es
-35fr	35FR: Crystal structure of human Histidine Triad Nucleotide-Binding Protein 1 in complex with N-(2-hydroxyethyl)morpholino adenosine 6'-O-phosphate	katarzyna.jastrzebska@cbmm.lodz.pl
-31ly	31LY: Yersinia entomophaga holotoxin in its lollipop pore state	Stefan.Raunser@mpi-dortmund.mpg.de
-9urv	9URV: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to AMP	huanglin36@mail.sysu.edu.cn
-9ury	9URY: Crystal structure of Ade1304 DNA aptamer (Ade1304b) bound to adenosine	huanglin36@mail.sysu.edu.cn
-9xls	9XLS: crystal structrue of a Caspase mutant-C131A	forest66318@163.com
-9z59	9Z59: Crystal structure of MPXV-A35 in complex with antibody A35-Ab10	wilson@scripps.edu
-9rzw	9RZW: Crystal structure of PNGase A from Bifidobacterium bifidum LMG13195	l.i.crouch@bham.ac.uk
-11zn	11ZN: Structure of peptide segment KLVFFA from amyloid-beta determined by MicroED under cryogenic temperatures	jrodriguez@mbi.ucla.edu
-12cf	12CF: Head-on RNAP-RNAP Collision: 29 bp distance	galushin@rockefeller.edu
-12lu	12LU: LSD1-CoREST in complex with GSK-LSD1 and peptide PRSALV	andrea.mattevi@unipv.it
-21dv	21DV: Crystal structure of de novo designed type-I cupredoxin AZ83647	602024240120@smail.nju.edu.cn
-24oj	24OJ: SIRT2 structure in complex with H3K18myr peptide collected by Laue diffraction	zn0437@connect.hku.hk
-46aq	46AQ: Crystal structure of the diaminopimelate dehydrogenase from Pyrococcus sp. in its apo form	kmb@inbi.ras.ru
-26xz	26XZ: Crystal structure of the anti-PEG Fab in complex with PEG fragment OEG13	yang_zhenlin@fudan.edu.cn
-36kh	36KH: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 13	chris@sas.upenn.edu
-34lu	34LU: Trp-5-Hal - Consensus designed artificial tryptophan-5-halogenase	allister.crow@warwick.ac.uk
-9urw	9URW: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to ADP	huanglin36@mail.sysu.edu.cn
-33qg	33QG: Cytochrome P450 reductase in complex with NADPH from Mycosarcoma maydis	opperdj@ufs.ac.za
-37lx	37LX: Crystal structure of apo KomA from the bacterial Kongming phage-defense system	xcheng5@mdanderson.org
-39ri	39RI: Crystal Structure of the Europium-bound Lanmodulin from Ancylobacter novellus	olaf.nachtigall@uah.edu
-38fp	38FP: hnRNPA2 low complexity domain fibril structure determined by cryo-EM with alternate N and C-termini	Lukasz.Joachimiak@UTSouthwestern.edu
-45ww	45WW: Thermotoga maritima ferritin mutant-S73G	gzhao@cau.edu.cn
-44ib	44IB: Crystal structure of human glutaminyl cyclase in complex with Inhibitor LL1260	czyhnzk@163.com
-9pmi	9PMI: Structure of a bifunctional ulvan active enzymes	boraston@uvic.ca
-9tgp	9TGP: Cryo-EM structure of TamAB-tail-engaged intermediate	haohaodong@scu.edu.cn
-9urt	9URT: Crystal structure of Ade1304 DNA aptamer (1304b9) bound to adenosine with barium ions	huanglin36@mail.sysu.edu.cn
-9vs9	9VS9: Small molecule 3-127 targeting YTHDC1	sjchen@pharm.ecnu.edu.cn
-9xij	9XIJ: Crystal structure of Macrobrachium rosenbergii lipocalin in complex with canthaxanthin	gzhao@cau.edu.cn
-9xis	9XIS: Structural evidence of thioacetate reduction by fluorescent protein mRuby-( mRuby-thioacetate structure3 )	dongjianshu08@mails.ucas.ac.cn
-9xkf	9XKF: Crystal structure of Odorant Binding Protein 11 from Locusta migratoria (LmigOBP11) with Phenylacetonitrile(PAN).	1036983523@qq.com
-9xkc	9XKC: Crystal structure of Odorant Binding Protein 11 from Locusta migratoria (LmigOBP11) with acetate	jye@hbu.edu.cn
-9xkr	9XKR: Structure of CsoS1D from Halothiobacillius neapolitanus	lbr1771023823@mail.ustc.edu.cn
-9xkp	9XKP: Tepidibacillus decaturensis alpha-glucan 4(6)-alpha-glucosyltransferase E666Q in apo-form	saburiw@agr.hokudai.ac.jp
-9z46	9Z46: Crystal structure of H3N2 in complex with a phenyl-substituted glucuronyl triazole ligand	m.vonitzstein@griffith.edu.au
-9z5k	9Z5K: Crystal structure of UFC1 at pH 5.5	brian.mahon@bms.com
-9z3l	9Z3L: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
-9z5g	9Z5G: Crystal structure of MPXV-B6-SCR4 in complex with antibody B6-Ab9	wilson@scripps.edu
-13al	13AL: Crystal Structure of Human IGG1 FC Fragment (WT, Orthorhombic P Form)	swlovell@ku.edu
-31od	31OD: Yersinia entomophaga holotoxin in its inverted pore state	Stefan.Raunser@mpi-dortmund.mpg.de
-31oi	31OI: Yersinia entomophaga holotoxin in its conventional pore state	Stefan.Raunser@mpi-dortmund.mpg.de
-9z57	9Z57: Crystal structure of VACV-A33 in complex with antibody A35-Ab4	wilson@scripps.edu
-43ia	43IA: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+,and malonate	k612002k@mails.cc.ehime-u.ac.jp
-9xjb	9XJB: CRM197 mutant-P226E, R458P,G510D (Named CRM197-Mut3)	yurui1102@139.com
-9z3m	9Z3M: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
-9z16	9Z16: GH29A alpha-fucosidase from Bacteroides fragilis in complex with deoxyfuconojirimycin	redinbo@unc.edu
-9z1f	9Z1F: Crystal structure of NJ receptor binding domain in complex with human ACE2	wilson@scripps.edu
-25ch	25CH: Structure of hTRPC3 T561A mutant in the partially open state with C4 symmetry	chenlei2016@pku.edu.cn
-26jc	26JC: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H) and Zn2+	k612002k@mails.cc.ehime-u.ac.jp
-37ev	37EV: Small Molecule Inhibitors of Cholesterol Sulfotransferase as Immunomodulatory Agents	snair@illinois.edu
-36kk	36KK: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 14	chris@sas.upenn.edu
-44hw	44HW: Crystal structure of human glutaminyl cyclase in complex with Inhibitor	czyhnzk@163.com
-37zc	37ZC: Tri-complex of Compound 2, KRas WT, and CypA	jyano@revmed.com
-9xkn	9XKN: Tepidibacillus decaturensis alpha-glucan 4(6)-alpha-glucosyltransferase E666Q in complex with acarbose	saburiw@agr.hokudai.ac.jp
-9z0i	9Z0I: E2 Refolding into Soluble Protein after Dissociation from Viral Membrane and E1 during Sindbis Virus Fusion	aocheng@northwestern.edu
-31on	31ON: CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1-State I	christos.gatsogiannis@uni-muenster.de
-9xjj	9XJJ: The cryo-EM structure of F-BF227 bound Tau PHF fibril	tianyi-cao@sjtu.edu.cn
-9z5d	9Z5D: Crystal structure of MPXV-B6-SCR1 in complex with antibody B6-Ab15	wilson@scripps.edu
-13an	13AN: Crystal Structure of Human IGG1 FC Fragment (P33A, Orthorhombic C Form)	swlovell@ku.edu
-28wr	28WR: Crystal structure of the Norovirus GII.17 P domain in complex with Lacto-N-difucohexaose I	annabelle.varrot@cermav.cnrs.fr
-28ze	28ZE: Crystal structure of the Norovirus GII.17 P domain in complex with Difucosyllactose	annabelle.varrot@cermav.cnrs.fr
-9z1g	9Z1G: Crystal structure of NJ receptor binding domain in complex with antibody CC25.4	wilson@scripps.edu
-21de	21DE: MsSzR methanogenic Schizorhodopsin	nureki@bs.s.u-tokyo.ac.jp
-9i4y	9I4Y: Toxoplasma gondii cytochrome c oxidase from the respiratory supercomplex III2-IV	alexander.muhleip@helsinki.fi
-9uti	9UTI: Tetrahymena Ribozyme L-16 complex with small molecule inhibitor ZPT-005	zsulab2019@gmail.com
-26th	26TH: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and cyclopropane-1,1-dicarboxylic acid	k612002k@mails.cc.ehime-u.ac.jp
-44cf	44CF: Crystal structure of D-apionate oxidoisomerase from Aureimonas altamirensis in complex with NAD+(H), Zn2+, Mn2+, and malonate	k612002k@mails.cc.ehime-u.ac.jp
-9z2e	9Z2E: Crystal structure of beta-glucosidase Bgl1 from Rhizobium sp. C1	chelsea.vickers@waikato.ac.nz
-9zvs	9ZVS: CYP226A31 in complex with abietic acid	stephen.bell@adelaide.edu.au
-9xii	9XII: Crystal structure of Macrobrachium rosenbergii lipocalin Y57F mutant in complex with astaxanthin	gzhao@cau.edu.cn
-28np	28NP: Crystal structure of the Norovirus GII.4 P domain in complex with 3 sialyl fucosyllactose	annabelle.varrot@cermav.cnrs.fr
-9z3n	9Z3N: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
-44ic	44IC: Crystal structure of human glutaminyl cyclase in complex with Inhibitor 1258	czyhnzk@163.com
-9z3o	9Z3O: Complex of phosphorylated p38-alpha and MK2 with a molecular glue	jeff.bell@schrodinger.com
-9vra	9VRA: Small molecule 2-60 targeting YTHDC1	sjchen@pharm.ecnu.edu.cn
-9xlv	9XLV: Cryo-EM structure of a PSI supercomplex in the leaves of Hevea brasiliensis	wdwang@ibcas.ac.cn
-39kl	39KL: SARS-CoV-2 Main Protease with Zevotrelvir	kovari@med.wayne.edu
-46ip	46IP: Bacillus subtilis topoisomerase IV ParC-ParE complex	chenyun0927@zju.edu.cn
-35fp	35FP: Crystal structure of human Histidine Triad Nucleotide-Binding Protein 1 in complex with morpholino adenosine 6'-O-phosphate	katarzyna.jastrzebska@cbmm.lodz.pl
-9oxy	9OXY: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and 7-(4-hydroxyphenethyl)-2,2-dimethylchroman-5-ol	k.nettles@ufl.edu
-25cg	25CG: Structure of hTRPC3 E603A/V637A/K607A mutant	chenlei2016@pku.edu.cn
-21hr	21HR: CryoEM structural of taurocholic acid bound OST alpha/beta transporter	todvince@mail.ustc.edu.cn
-36xf	36XF: Cryo-EM structure of SLC6A19-ACE2 complex with CB3	Huixian.Wu@pfizer.com
-9xj6	9XJ6: Portimine A-bound human translating ribosome - P/P-E/E State	gaon@pku.edu.cn
-36kv	36KV: Tri-complex of Compound 37, KRas G12D, and CypA	jyano@revmed.com
-44iv	44IV: KIR2DS4 bound to HLA-C*05:01 presenting the P2-AW peptide	jamie.rossjohn@monash.edu
-9t3i	9T3I: CRYO-EM STRUCTURE OF EKVX HUMAN CANCER CELL LINE RIBOSOME : CLASS 4	Ada.Yonath@weizmann.ac.il
-44jc	44JC: KIR2DS2 bound to HLA-C*05:01 presenting the P2-AV peptide	jamie.rossjohn@monash.edu
-9z5e	9Z5E: Crystal structure of MPXV-B6-SCR1 in complex with antibody B6-Ab15gr1	wilson@scripps.edu
-12ch	12CH: Head-on RNAP-RNAP Collision: RNA hairpin	galushin@rockefeller.edu
-9z4p	9Z4P: Crystal structure of VACV-A33 in complex with antibody A35-Ab1	wilson@scripps.edu
-37ic	37IC: Doc2b-Munc13 complex with designed binder	Jose.Rizo-Rey@utsouthwestern.edu
-9tgq	9TGQ: Cryo-EM structure of tail-engaged TamAB complex	haohaodong@scu.edu.cn
-29bs	29BS: Crystal structure of the Norovirus GII.17 P domain in complex with Lacto-N-fucopentaose II (LNFP II)	annabelle.varrot@cermav.cnrs.fr
-34lt	34LT: Trp-7-Hal - Consensus designed artificial tryptophan-7-halogenase	allister.crow@warwick.ac.uk
-9xit	9XIT: Structural evidence of thioacetate reduction by fluorescent protein mRuby-( mRuby-thioacetate structure2 )	dongjianshu08@mails.ucas.ac.cn
-9xjc	9XJC: The cryo-EM structure of ThT bound type1 amyloid beta 42 fibril	tianyi-cao@sjtu.edu.cn
-9xj4	9XJ4: Soluble expression of CRM197 in Escherichia coli(Named CRM197-OA)	xujunjie@sina.com
-28th	28TH: Two TraI relaxases in their asymmetric homodimer state in complex with fork DNA (TraI-AHD)	a.ilangovan@qmul.ac.uk
-9xjo	9XJO: Human Keratin 19 tail domain with phospho-tyrosine (phosphorylated Y391) Q387-L400 in solution	jinhaekim@dgist.ac.kr
-9weq	9WEQ: Crystal structure of Tx7335, an unusual three-finger toxin with altered disulfide pairing	shioi.narumi.ks@teikyo-u.ac.jp
-9z13	9Z13: GH95 alpha-fucosidase from Bacteroides fragilis	redinbo@unc.edu
-22nc	22NC: Cryo-EM structure of Orb2 amyloid from 30-day-old Drosophila (4Hc)	ruhm@hku.hk
-9t3k	9T3K: Crystal Structure of Phenylalanine Ammonia Lyase (PAL) from Petroselinum crispum bound to m-CF3 cinnamic acid	jurgen.brem@ubbcluj.ro
-21df	21DF: MtSzR methanogenic Schizorhodopsin	nureki@bs.s.u-tokyo.ac.jp
-27bn	27BN: Crystal structure of sulfolactate sulfolyase, SuyAB from Caballeronia jiangsuensis strain McCoy	mihwa.lee@unimelb.edu.au
-9z15	9Z15: GH29B alpha-fucosidase from Faecalibacterium prausnitzii	redinbo@unc.edu
-31jf	31JF: Human holo aromatic L-amino acid decarboxylase (AADC) D15G variant native structure	mita.bertoldi@univr.it
-32rd	32RD: Crystal structure of YTHDF2 in complex with compound 3 (FE468)	caflisch@bioc.uzh.ch
-32qy	32QY: Crystal structure of YTHDF2 in complex with compound 24 (FE-593)	caflisch@bioc.uzh.ch
-33wj	33WJ: Structural and functional evaluation of the classical RND efflux pumps inhibitor PAbN, a systematic study.	isabelle.broutin@u-pariscite.fr
-27wl	27WL: H9 Haemagglutinin in Complex with Sulfated 3'SLN	gaof@im.ac.cn
-33qj	33QJ: Cytochrome P450 Reductases in complex with NADPH from Candida albicans	opperdj@ufs.ac.za
-36kj	36KJ: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 20b	chris@sas.upenn.edu
-9oj0	9OJ0: Crystal structure of uropathogenic Escherichia coli transcriptional regulator MprA bound to double-stranded DNA	m.schembri@uq.edu.au
-9sl2	9SL2: Cryo-EM structure of proIAPP(1-48)	michal.maj@kemi.uu.se
-9xjv	9XJV: Crystal structure of murine EMAP-II	jianglg@fzu.edu.cn
-9xkq	9XKQ: Apg mutant enzyme Y295F of acarbose hydrolase from human gut flora K. grimontii TD1, complex with glucose, a product of maltose	jy.huang1@siat.ac.cn
-9z0r	9Z0R: ATP phosphoribosyltransferase regulatory subunit (HisZ) from Staphylococcus aureus	emily.parker@vuw.ac.nz
-9t3u	9T3U: Crystal structure of human soluble epoxide hydrolase C-terminal domain in complex with a TPPU-6-chlorotacrine hybrid	sasi.conte@kcl.ac.uk
-12lq	12LQ: LSD1-CoREST in complex with Alkyne probe and peptide PRCALVKSK	andrea.mattevi@unipv.it
-11pi	11PI: Crystal structure of UFC1 variant Y42F	brian.mahon@bms.com
-32th	32TH: Crystal structure of YTHDF2 in complex with compound 20 (ZA801)	caflisch@bioc.uzh.ch
-37ew	37EW: Small Molecule Inhibitors of Cholesterol Sulfotransferase as Immunomodulatory Agents	snair@illinois.edu
-9oxt	9OXT: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and 5-(4-hydroxyphenethyl)-2,2-dimethylchroman-7-ol	k.nettles@ufl.edu
-38fn	38FN: hnRNPA2 low complexity domain fibril structure determined by cryo-EM	Lukasz.Joachimiak@UTSouthwestern.edu
-9oud	9OUD: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in complex with NCOA2 peptide and (E)-5-(4-hydroxystyryl)-4,6-bis(3-methylbut-2-en-1-yl)benzene-1,3-diol	k.nettles@ufl.edu
-9xjt	9XJT: Crystal structure of human WDR5 in complex with Tasisulam	baifang@shanghaitech.edu.cn
-9xjz	9XJZ: Crystal Structure of Nur77 LBD in complex with HTPA	twlin@xmu.edu.cn
-43yh	43YH: Cryo-EM structure of enterohemorrhagic Escherichia coli CdiA-CT:Tu(GTP):Ts:tRNA complex	kozo-tomita@edu.k.u-tokyo.ac.jp
-9xkv	9XKV: The cryo-EM structure of apo Tau PHF fibril	tianyi-cao@sjtu.edu.cn
-30eg	30EG: 2-heptyl-4(1H)-quinolone synthase PqsBC in complex with D3	wulf.blankenfeldt@helmholtz-hzi.de
-44jd	44JD: KIR2DS1 bound to HLA-C*06:02 presenting the SV9 peptide	jamie.rossjohn@monash.edu
-11lv	11LV: Structure of a tau(297-407)-4D filament grown in potassium citrate buffer for 42 days (polymorph 2)	Jason.Gestwicki@ucsf.edu
-11lw	11LW: Structure of a tau(297-407)-4D filament grown in potassium citrate buffer for 42 days (polymorph 3)	Jason.Gestwicki@ucsf.edu
-9t3h	9T3H: Cryo-EM structure of a human KEOPS sub-complex bound to tRNA	herman.van-tilbeurgh@i2bc.paris-saclay.fr
-11ct	11CT: Crystal structure of mouse IgG2a-Fc	jzhang@cm.utexas.edu
-47ss	47SS: The structure of hemagglutinin T160A mutant (H3 numbering) from H9N2 influenza virus (A/chicken/Tianjin/CAS/2007) in complex with avian receptor analog 3'SLNLN	gaof@im.ac.cn
-36kl	36KL: Crystal structure of Danio rerio histone deacetylase 6 catalytic domain 2 in complex with spirocyclic inhibitor 20a	chris@sas.upenn.edu
-9ovg	9OVG: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in complex with NCOA2 peptide and (E)-7-(4-hydroxystyryl)-2,2-dimethyl-6-(3-methylbut-2-en-1-yl)chroman-5-ol	k.nettles@ufl.edu
-9oxr	9OXR: Crystal Structure of Human Estrogen Receptor-alpha (Y537S) in Complex with NCOA2 Peptide and 5-(4-hydroxyphenethyl)-4-(3-methylbut-2-en-1-yl)benzene-1,3-diol	k.nettles@ufl.edu
-47vf	47VF: The structure of hemagglutinin T160A mutant (H3 numbering) from H9N2 influenza virus (A/chicken/Tianjin/CAS/2007) in complex with human receptor analog 6'SLNLN	gaof@im.ac.cn
-9z52	9Z52: Crystal structure of UFC1 in complex with N-cyclohexyl-2-hydroxyl-3-aminopropanesulfonic acid (CAPS)	brian.mahon@bms.com
-9xkk	9XKK: Cryo-EM structure of a PSI supercomplex in the leaves of Hevea brasiliensis	xcwang@gzu.edu.cn
-9t45	9T45: Crystal Structure of the NlpC/P60 Peptidase YkfC C200A Mutant from Bacillus subtilis with Bound Pentapeptide	thilo.stehle@uni-tuebingen.de
-34ck	34CK: Crystal structure of human Cathepsin L in complex with 5,8-dimethoxy-1,2,3,4-tetrahydroisoquinolin-4-ol	alke.meents@desy.de
-27eu	27EU: Human Leucocyte Antigen HLA-A2 with bound PB1(413-421) peptide	jamie.rossjohn@monash.edu
-9z5c	9Z5C: Crystal structure of VACV-A33 in complex with antibody A35-Ab17	wilson@scripps.edu
-9z5h	9Z5H: Crystal structure of MPXV-B6-Stalk in complex with antibody B6-Ab6	wilson@scripps.edu
-30ej	30EJ: 2-heptyl-4(1H)-quinolone synthase PqsBC in complex with compound 33	wulf.blankenfeldt@helmholtz-hzi.de
-36xc	36XC: NNVL bound to inhibitor compound 112 (YT-IV-239B)	jan.erzberger@utsouthwestern.edu
-36xe	36XE: Cryo-EM structure of SLC6A19-ACE2 complex with cinromide	Huixian.Wu@pfizer.com
-9oy9	9OY9: Structure of a red shifted PSI monomer from 6803	ymazor@asu.edu
-9t4s	9T4S: Human Carbonic Anhydrase II in complex with 4-(4-(5-(allylthio)-1,3,4-oxadiazol-2-yl)-5-amino-1H-pyrazol-1-yl)benzenesulfonamide	andrea.angeli@unifi.it
-36jn	36JN: Tri-complex of Compound 2, KRas Q61H, and CypA	jyano@revmed.com
-36jo	36JO: Tri-complex of Compound 3, KRas Q61H, and CypA	jyano@revmed.com
-36jq	36JQ: Tri-complex of Compound 11, KRas Q61H, and CypA	jyano@revmed.com
-36js	36JS: Tri-complex of RMC-0708, KRas Q61H, and CypA	jyano@revmed.com
-36ko	36KO: Tri-complex of Compound 15 O-acyl adduct, KRAS G12D, and CypA	jyano@revmed.com
-36ks	36KS: Tri-complex of Compound 25, KRas G12D, and CypA	jyano@revmed.com
-36kr	36KR: Tri-complex of Compound 24, KRas G12D, and CypA	jyano@revmed.com
-36kt	36KT: Tri-complex of Compound 27, KRas G12D, and CypA	jyano@revmed.com
-36ku	36KU: Tri-complex of Compound 30, KRAS G12D, and CypA	jyano@revmed.com
-36xh	36XH: Cryo-EM structure of SLC6A19-ACE2 complex with Compound 6	Huixian.Wu@pfizer.com
-9z45	9Z45: Crystal structure of H3N2 in complex with Neu5Ac2en	m.vonitzstein@griffith.edu.au
-47uf	47UF: The structure of hemagglutinin H9 hemagglutinin from A/chicken/Jiangsu/C4258/2012 in complex with avian receptor analog 3'SLNLN	gaof@im.ac.cn
-9z5b	9Z5B: Crystal structure of MPXV-A35 in complex with antibody A35-Ab9gr2	wilson@scripps.edu
-29ds	29DS: Cryo-EM structure of dimeric human UGGT1	mrccri@ibmb.csic.es
-30bb	30BB: Structure of the occluded-state soluble domain of human Adenylyl cyclase 9 in complex with stimulatory G protein	volodymyr.korkhov@psi.ch
-9z8n	9Z8N: Crystal structure of RNF14 RING2 domain bound to K6/K48 branched tri-ubiquitin	lechtenberg.b@wehi.edu.au
+9uui	9UUI: Crystal structure of the classical adenosine and ATP-binding aptamers(11bp) bound to AMP	huanglin36@mail.sysu.edu.cn
+31cw	31CW: NMR solution structure of Met[Oxi] cycloviolacin O37 (R configuration)	j.rosengren@uq.edu.au
+9xmp	9XMP: Base-Intercalated duplex with 6-thioguanine	j.kondo@sophia.ac.jp
+9z6f	9Z6F: Structure of Crambin at 0.80A determined on a home source	mmartyno@buffalo.edu
+9oo5	9OO5: Cryo-EM structure of the dimeric YrvO cysteine desulfurase	beatrice.golinelli@college-de-france.fr
+36dv	36DV: Borrelia Burgdorferi SwrD	bc69@cornell.edu
+9wa3	9WA3: Structure of Crimean-Congo hemorrhagic fever virus single-turn RNP	guoyu@nankai.edu.cn
+9zlb	9ZLB: NMR Structure of the PACS2 FBR	amg100@pitt.edu
+9t5i	9T5I: mechanosensitive channel MscS from Francisella tularensis, mutant W27A	bettina.boettcher@uni-wuerzburg.de
+9t7k	9T7K: Structure of the N-terminal domain of PilB from Myxococcus xanthus	elantak@imm.cnrs.fr
+31cx	31CX: NMR solution structure of Met[Oxi] cycloviolacin O37 (S configuration)	j.rosengren@uq.edu.au
+33gi	33GI: Human SARM1 after reconstitution by acetone extract of HEK293F cells	yarden.opatowsky@biu.ac.il
+35aw	35AW: Crystal structure of the THOR-1/SIF-1 complex	gang.dong@meduniwien.ac.at
+26xb	26XB: X-ray crystal structure of Eisenia fetida endo-beta-1,4-mannanase D316N mutant	tamada.taro@qst.go.jp
+47xu	47XU: Crystal structure of the de novo designed miniprotein binder against PDL1, Gpx41 in P 41 21 2 space group.	ravimakde@rrcat.gov.in
+24wd	24WD: Crystal structure of de novo designed human IL-4Ra mini-protein inhibitor	yubowen@sdsmu.edu.cn
+36du	36DU: IBV Nsp15 endoribonuclease	fraziermn@cofc.edu
+9xqt	9XQT: Planosporicin C	vpolsha@gmail.com
+36go	36GO: Myxococcus xanthus Family 2B Enc1 encapsulin with GeoA cargo in I	tgiessen@umich.edu
+24yf	24YF: 3-methyladenine DNA glycosylase bound to DNA/Hx (pre-excision state)	xiewei6@mail.sysu.edu.cn
+26pb	26PB: Cryo-EM structure of Sus scrofa S1P transporter MFSD2B	renruobing@fudan.edu.cn
+9xmc	9XMC: CryoEM structure of non-structural protein 1 dimer from zika virus complexed with protein binder ZNB6	honglihu@cuhk.edu.cn
+9r39	9R39: BoNT-NTNH complex from Bacillus toyonensis CH177	stenmark@dbb.su.se
+9q0l	9Q0L: Crystal structure of Fab AF6-88	dmargulies@niaid.nih.gov
+9yh2	9YH2: holo-carrier bound/unbound type II thioesterase	dene.littler@monash.edu
+12iq	12IQ: Horse liver alcohol dehydrogenase T178S in complex with NADH and N-cylcohexyl formamide	sboxer@stanford.edu
+12wo	12WO: De novo protein design, desHE2	possu@stanford.edu
+25dn	25DN: Cryo-EM structure of the large serine recombinase Dn29 in complex with attP and attB (attB-R focused)	nisimasu@g.ecc.u-tokyo.ac.jp
+36bg	36BG: CryoEM structure of wild-type nitrogenase MoFe-protein under turnover with propargyl alcohol	rebeccah.warmack@yale.edu
+37mp	37MP: Cryo-EM model of the major resting-state conformation of Cob(II)-bound Thermus filiformis cobalamin-dependent methionine synthase (MetH)	nozomi.ando@cornell.edu
+36ye	36YE: Structure of BcM60G in complex with alpha-2,6-monosialylated core 1-Ser	boraston@uvic.ca
+9rf8	9RF8: Hyaluronate lyase from Purpureocillium lilacinum	xjulia@iqfr.csic.es
+9zzn	9ZZN: Crystal structure of HLA-B*18:01 in complex with NECQQPEAY, an 9-mer epitope from Influenza C	S.Gras@latrobe.edu.au
+10bi	10BI: SARS-CoV-2 Spike in complex with PVI.V6-7 Fab	goran.bajic@mssm.edu
+13gg	13GG: High resolution cryo-EM structure of the Pseudomonas aeruginosa OprM Multidrug Efflux Pump	susan.buchanan2@nih.gov
+23ap	23AP: Structure of substrate-free VanA	caichenggu@caas.cn
+23bf	23BF: Structure of VanA mutant Q167A/D171A	caichenggu@caas.cn
+24nv	24NV: P-tRNA bound M. smegmatis 70S ribosome	jayati.iicb@csir.res.in
+24nw	24NW: tRNA bound M. smegmatis 70S ribosome in complex with EF-G1.	jayati.iicb@csir.res.in
+25df	25DF: RB43 ejected state capsid side vertex	sokolova_o@smbu.edu.cn
+25tz	25TZ: Crystal structure of SktA in complex with 5-bromo-L-tryptophan	guoreyting@gmail.com
+26fh	26FH: Cryo-EM structure of a Skd3 hexameric unit within a dodecameric assembly	changwook@korea.ac.kr
+28ko	28KO: Cryo-EM structure of B. bacteriovorus Bd1152 2C mutant (I112C, L238C) residues 155-276	t.j.knowles@bham.ac.uk
+30ot	30OT: W-formate dehydrogenase R441Q from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris)	mjr@fct.unl.pt
+31fj	31FJ: Crystal structure of carbonic anhydrase II with 4-{[2-(hydroxyimino)-2-phenylethyl]amino}benzenesulfonamide	lena@ibt.lt
+31fr	31FR: Crystal structure of carbonic anhydrase XIII with 4-[2-(ethylsulfanyl)-4-phenyl-1H-imidazol-1-yl]benzene-1-sulfonamide	lena@ibt.lt
+31ug	31UG: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 9mer (+3N)	l.brunsveld@tue.nl
+31uo	31UO: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 11mer (+5H) and molecular glue 78	l.brunsveld@tue.nl
+31up	31UP: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 13mer (+7V)	l.brunsveld@tue.nl
+31uw	31UW: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 14mer V263A mutant (+4A)	l.brunsveld@tue.nl
+31vc	31VC: 14-3-3sigma protein binding to KC1A pS218 phosphopeptide and molecular glue 22	l.brunsveld@tue.nl
+31vg	31VG: 14-3-3sigma protein binding to TAZ pS89 phosphopeptide and molecular glue 78	l.brunsveld@tue.nl
+32pd	32PD: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Acinetobacter baumannii with E-site tRNA and no bS21	reynald.gillet@univ-rennes.fr
+32yi	32YI: Human inosine monophosphate dehydrogenase 1 R429K LOF mutant after reconstitution by acetonitrile-methanol extract of HEK293F cells	yarden.opatowsky@biu.ac.il
+33zh	33ZH: E. coli bifunctional acetaldehyde-CoA/alcohol dehydrogenase (AdhE) after reconstitution by acetone extract of E. coli cells, the map focused on the ADH domain.	yarden.opatowsky@biu.ac.il
+34oc	34OC: Structure of human apo B0AT1-ACE2 complex	pn@mbg.au.dk
+34oh	34OH: Structure of occluded B0AT1-ACE2 complex bound to Tryptophan	pn@mbg.au.dk
+36dr	36DR: Bacillus subtilis SwrD	bc69@cornell.edu
+36zr	36ZR: KRAS G12V Mutant in Complex with GMPPNP and Compound 1	michael.didonato@novartis.com
+37km	37KM: 5MP1(eIF1S) 48S complex - open head conformation	andrei.korostelev@umassmed.edu
+38ty	38TY: KRAS G12D in complex with INCB161734	gfenalti@incyte.com
+46cz	46CZ: Cryo-EM structure of a stabilized HCMV pentameric complex (PC-Int1) bound to antibodies 2C12, 7I13, and 13H11 - locally refined gH/gL-13H11 Fab subcomplex	813552148@qq.com
+46db	46DB: Cryo-EM structure of a stabilized HCMV pentameric complex (PC-Int1) bound to antibodies 2C12, 7I13, and 13H11 - locally refined ULs-2C12-7I13 subcomplex	813552148@qq.com
+9oj9	9OJ9: CryoEM Structure of MHC-IGRP228 in Complex with FAb 1	sandra.gabelli@merck.com
+9okn	9OKN: Cryo-EM structure of the SARS-CoV-2 HR1HR2 fusion core complex	brunger@stanford.edu
+9oow	9OOW: Cryo-EM structure of the heterotetrameric complex formed by two subunits of YrvO and two subunits of MnmA bound to tRNA-Glu	beatrice.golinelli@college-de-france.fr
+9se1	9SE1: Structure of elongating E.coli 70S ribosome with Gm5CC mRNA codon in A-site , ternary complex of EF-Tu, GDP, Val-tRNA(Val) and P-site tRNA(fMet) in post-GTP hydrolysis state (GH)	niels.fischer@mpibpc.mpg.de
+9t7b	9T7B: cryo-EM structure of LARP1 TOS peptide bound to human mTOR complex 1	timm.maier@unibas.ch
+9tco	9TCO: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Klebsiella quasipneumoniae with E-site tRNA and no bS21	reynald.gillet@univ-rennes.fr
+9uw9	9UW9: The complex of human pMEK1 and ERK1 thio-pT202 (ANP)	huqi@westlake.edu.cn
+9wa4	9WA4: Structure of Crimean-Congo hemorrhagic fever virus RNP, 2xNP local reconstruction	guoyu@nankai.edu.cn
+9xnd	9XND: Cryo-EM Structure of CqDMDS in complex with FPP and Zn2+	jianqiangmshz@163.com
+9xnv	9XNV: Cryo-EM structure of a PSI supercomplex in the leaves of Hevea brasiliensis	wdwang@ibcas.ac.cn
+9xov	9XOV: Ultra-high resolution Crystal structure of N-terminal deletion mutant of Staphylococcal Thiol Peroxidase	sudipta@iitj.ac.in
+9xp5	9XP5: Cryo-EM structure of the 50S ribosomal subunit from stationary-phase Methanolobus	wenfeili@sdu.edu.cn
+9yuh	9YUH: human Siderocalin bound to 343HOPO-Er	rstrong@fredhutch.org
+9yui	9YUI: human Siderocalin bound to 343HOPO-Eu	rstrong@fredhutch.org
+9yvu	9YVU: human Siderocalin bound to 343HOPO-Tb	rstrong@fredhutch.org
+9yw1	9YW1: human Siderocalin bound to 343HOPO-Y	rstrong@fredhutch.org
+9z9n	9Z9N: Open-state T4825I mouse/rabbit RyR1 with activating ligands (Ca2+/ATP)	filip.vanpetegem@ubc.ca
+9z9r	9Z9R: Closed-state rabbit RyR1 with activating ligands (Ca2+/ATP)	filip.vanpetegem@ubc.ca
+9z9v	9Z9V: Open-state rabbit RyR1 with activating ligands (Ca2+/ATP) and S107	filip.vanpetegem@ubc.ca
+9zmo	9ZMO: Human PIKfyve-PIP4K2A chimera kinase domain covalently complexed with DUN'058	elayne.penebre@dunadtx.com
+30oy	30OY: W-formate dehydrogenase H193M from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris) - Formate reduced	mjr@fct.unl.pt
+21do	21DO: Crystal structure of the DUB domain of type V cytoplasmic incompatibility factor CndB from Rickettsia felis	zefangwang@tju.edu.cn
+40gr	40GR: Structure of the virus-like particles of malabaricus grouper nervous necrosis virus derived from low resolution cryoEM and AlphaFold prediction shows a novel domain organization resembling tombusviruses and noroviruses but not nodaviruses	liang.w.tang@gmail.com
+31fl	31FL: Crystal structure of carbonic anhydrase II with 4-[2-(ethylsulfanyl)-4-phenyl-1H-imidazol-1-yl]benzene-1-sulfonamide	lena@ibt.lt
+22bn	22BN: Crystal structure of ZNF384-r ZF3-4	guoyumeng@shsmu.edu.cn
+24yg	24YG: 3-methyladenine DNA glycosylase	xiewei6@mail.sysu.edu.cn
+25cv	25CV: RB43 pre-contraction neck interface subunit	sokolova_o@smbu.edu.cn
+25da	25DA: RB43 post-contraction tail subunit	sokolova_o@smbu.edu.cn
+27zw	27ZW: Atomic structure of the ASFV virus early transcription factor in PC state	yangyge@ibp.ac.cn
+47wm	47WM: The structure of hemagglutinin H9 hemagglutinin from A/chicken/Jiangsu/C4258/2012 in complex with human receptor analog 6'SLNLN	gaof@im.ac.cn
+36dq	36DQ: Bb SwrD Y17R	bc69@cornell.edu
+9z3p	9Z3P: IT4VAR22 CIDRa1.7 in complex with C50 and C7 fabs	andrew@scripps.edu
+25cy	25CY: RB43 post-contraction neck interface subunit	sokolova_o@smbu.edu.cn
+9xm8	9XM8: Crystal structure of TusE in SSH form	naoki-shigi@aist.go.jp
+9t5g	9T5G: Structure of a stalled E. coli 70S RNC-NuoK-86 in complex with the SecYEG translocon	beckmann@genzentrum.lmu.de
+31uq	31UQ: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 13mer (+7V) and molecular glue 22	l.brunsveld@tue.nl
+36dt	36DT: Bb SwrD P16H Y17H	bc69@cornell.edu
+38ed	38ED: Cryo-EM structure of dimeric AIFM1 with MIA40 (2-17) bound to TRX1 determined in the absence of NADH	bachovcd@mskcc.org
+44kc	44KC: Structure of Coxsackievirus A6 virus A-particle in complex with 5C5 Fab	shubo@wh.iov.cn
+9xms	9XMS: The capsid structure of AbP20	caosheng@wh.iov.cn
+34bh	34BH: Human SARM1 after reconstitution by acetone extract of HEK293F cells, map focused at the NAD binding site in monomer A.	yarden.opatowsky@biu.ac.il
+9zxz	9ZXZ: Anti-HCV Fab RM1-38 in complex with E2 HVR1 peptide	wilson@sscripps.edu
+11do	11DO: SARS-CoV-2 BA.2.86 RBD in complex with Fab BD55-1205	arvind.sharma@modernatx.com
+25dl	25DL: Cryo-EM structure of the large serine recombinase Dn29 in complex with attP and attB (attP-R focused)	nisimasu@g.ecc.u-tokyo.ac.jp
+36bs	36BS: De novo designed phosphatase, desB	possu@stanford.edu
+47lz	47LZ: Structure of the Human ROS1 Kinase Domain with the G2032R Solvent-Front Mutation in Complex with Lorlatinib	booox123@163.com
+10bh	10BH: SARS-CoV-2 Spike in complex with PVI.V5-6 Fab	goran.bajic@mssm.edu
+22cv	22CV: Cryo-EM structure of AcrIIA26-Cas9-sgRNA complex	huangzhiwei@hit.edu.cn
+24ns	24NS: M. smegmatis 50S ribosome in complex with RRF and EF-G1 (RRI IV)	jayati.iicb@csir.res.in
+25de	25DE: RB43 intact state capsid side vertex	sokolova_o@smbu.edu.cn
+25uf	25UF: Crystal structure of SktA in complex with L-tryptophan	guoreyting@gmail.com
+29xx	29XX: X-ray structure of human H-chain ferritin functionalized at the C-terminal tail with a peptide from S2 moiety of the S protein of SARS-CoV-2	giarita.ferraro@unina.it
+31fp	31FP: Crystal structure of carbonic anhydrase I with 4-[2-(ethylsulfanyl)-4-phenyl-1H-imidazol-1-yl]benzene-1-sulfonamide	lena@ibt.lt
+31um	31UM: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 11mer (+5H)	l.brunsveld@tue.nl
+31uv	31UV: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 14mer T260A mutant (+1A) and molecular glue 22	l.brunsveld@tue.nl
+31vd	31VD: 14-3-3sigma protein binding to p65 pS45 phosphopeptide and molecular glue 22	l.brunsveld@tue.nl
+32pe	32PE: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Enterobacter cloacae complex with E-site tRNA and no bS21	reynald.gillet@univ-rennes.fr
+34la	34LA: Cryo-EM Structure of Mavirus VLP - Major Capsid Protein MV18	jochen.reinstein@mr.mpg.de
+36bh	36BH: CryoEM structure of allyl alcohol bound nitrogenase a-Val70Ala MoFe-protein	rebeccah.warmack@yale.edu
+37ad	37AD: KRAS G12V Mutant in Complex with GMPPNP and Compound 12.	michael.didonato@novartis.com
+39jj	39JJ: Single-particle cryo-EM structure of mouse apoferritin at 1.13 Angstrom resolution with data collected at the UW-Madison Krios 5	erwright2@wisc.edu
+9ig0	9IG0: Low resolution structure of RAD51-G4 complex	lkrejci@chemi.muni.cz
+9oov	9OOV: Cryo-EM structure of the heterotrimeric complex formed by two subunits of YrvO and a subunit of MnmA bound to tRNA-Glu	beatrice.golinelli@college-de-france.fr
+9t6g	9T6G: Crystal Structure of Queuine Salvage Enzyme StQng1 in Complex with 3-Methylbenzohydrazid	reuterk@staff.uni-marburg.de
+9tcr	9TCR: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Klebsiella quasipneumoniae with bS21 and no E-site tRNA	reynald.gillet@univ-rennes.fr
+9xm7	9XM7: Crystal structure of TusE	naoki-shigi@aist.go.jp
+9xo7	9XO7: Cryo-EM structure of ABTS-1 in complex with HCO3 bound states	2528164803@qq.com
+9xpc	9XPC: Crystal structure of Ubl1 (residues 19-112) of MERS-CoV	leijian@scu.edu.cn
+9yul	9YUL: human Siderocalin bound to 343HOPO-La	rstrong@fredhutch.org
+9yw3	9YW3: human Siderocalin bound to 343HOPO-Yb	rstrong@fredhutch.org
+9z9t	9Z9T: Open-state rabbit RyR1 with activating ligands (Ca2+/ATP)	filip.vanpetegem@ubc.ca
+30ox	30OX: W-formate dehydrogenase H193M from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris)	mjr@fct.unl.pt
+31dj	31DJ: Structure of recombinantly assembled E83Q alpha-synuclein fibrils	henning.stahlberg@epfl.ch
+31ve	31VE: 14-3-3sigma protein binding to H31 pS29 phosphopeptide and molecular glue 22	l.brunsveld@tue.nl
+34zg	34ZG: Cryo-EM structure of a near-planar 13-mer ring formed by recombinant human parainfluenza virus type 2 nucleoprotein	kazazic@irb.hr
+36zt	36ZT: KRAS G12V Mutant in Complex with GMPPNP and Compound 11.	michael.didonato@novartis.com
+9xla	9XLA: Right-angle bent DNA with 6-thioguanine (P212121 form)	j.kondo@sophia.ac.jp
+9t7a	9T7A: cryo-EM structure of LARP1 TOS peptide bound to human mTOR complex 1, focused on RAPTOR	timm.maier@unibas.ch
+9xng	9XNG: Cryo-EM structure of CqDMDS in the apo state.	jianqiangmshz@163.com
+9xni	9XNI: Crystal structure of ASCT D62N mutant (modification by lysine succinylation) from Trypanosoma brucei.	danielken@nagasaki-u.ac.jp
+9xmb	9XMB: CryoEM structure of non-structural protein 1 dimer from dengue virus type 4 complexed with protein binder D4NB411	honglihu@cuhk.edu.cn
+9xmn	9XMN: Right-angle bent DNA with 6-thioguanine (C2 form)	j.kondo@sophia.ac.jp
+9xma	9XMA: CryoEM structure of non-structural protein 1 dimer from dengue virus type 4 complexed with protein binder D4NB4	honglihu@cuhk.edu.cn
+9xoa	9XOA: The crystal structure of RipG6 LRR domain	cggs@postech.ac.kr
+9xxa	9XXA: Structure of the heptameric late pre-pore state of alpha-hemolysin bound to PC in the presence of RAW264.7 cells	somnath@iisc.ac.in
+9r5m	9R5M: Structure of Leiurotoxin, a small conductance calcium-activated potassium channel (SK) blocker	amwanko@uliege.be
+43hq	43HQ: Structure of the C-terminal head domain of the Fowl Adenovirus serotype 4 (FAdV-4) fiber-2 protein	songyapeng0371@163.com
+9t7x	9T7X: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Enterobacter cloacae complex without E-site tRNA	reynald.gillet@univ-rennes.fr
+44kd	44KD: Structure of CVA6 empty capsid complexed with 5C5 Fab	shubo@wh.iov.cn
+25gd	25GD: RB43 intact state capsid top vertex subunit	sokolova_o@smbu.edu.cn
+38ea	38EA: Cryo-EM structure of dimeric AIFM1-MIA40(1-45) fusion bound to TRX1	bachovcd@mskcc.org
+28kt	28KT: Lipase from Geobacillus stearothermophilus T6 methanol and acid-stable variant H86Y/E251C/A269T/G332C/R374W	afishman@technion.ac.il
+32rt	32RT: Cryo-EM Structure of Mavirus VLP - Major Capsid Protein MV18 and Penton protein MV17	jochen.reinstein@mpimf-heidelberg.mpg.de
+38ca	38CA: Pseudomonas phage DEV gp71 vRNAP: Isolated RNAP Domain with PE1 promoter	gcingola@uab.edu
+25db	25DB: RB43 ejected state capsid top vertex subunit	sokolova_o@smbu.edu.cn
+46wf	46WF: Crystal structure of the Ph-BEACH domains of human LRBA	b.collins@imb.uq.edu.au
+9z5p	9Z5P: Calpain-5 (CAPN5) Protease Core (PC) mutant - R289W	vinit.mahajan@stanford.edu
+24yj	24YJ: 3-methyladenine DNA glycosylase mutant W204K	xiewei6@mail.sysu.edu.cn
+9z6j	9Z6J: cA4 signal molecule bound structure of Type III CRISPR-Associated, Membrane Pore-Forming Cap1 Effector.	pateld@mskcc.org
+9vda	9VDA: Solution structure of DRB5 dsRBD2	mvdesh@ccmb.res.in
+9t77	9T77: cryo-EM structure of human LARP1 bound to human mTOR complex 1	timm.maier@unibas.ch
+9rf9	9RF9: Hyaluronate lyase from Purpureocillium lilacinum in complex with hyaluronic acid disaccharide	xjulia@iqfr.csic.es
+11uk	11UK: Structure of SARS-CoV-2 variant LP.8.1 spike protein	Arvind.Sharma@modernatx.com
+12wm	12WM: De novo protein design, desDEH	possu@stanford.edu
+25do	25DO: Cryo-EM structure of the large serine recombinase Dn29 in complex with attP and attB	nisimasu@g.ecc.u-tokyo.ac.jp
+35zq	35ZQ: Structure of Photosystem I from Acaryochloris marina strain MU03	gisriel@wisc.edu
+36yi	36YI: Structure of BcM60G in complex with core 2-Thr	boraston@uvic.ca
+46bu	46BU: Single-chain Fv antibody of C6G	hanazono.str@tmd.ac.jp
+10bg	10BG: SARS-CoV-2 Spike in complex with PVI.V6-4 Fab	goran.bajic@mssm.edu
+9zz7	9ZZ7: Crystal structure of HLA-B*18:01 in complex with NENQNPRMF, an 9-mer epitope from Influenza A	S.Gras@latrobe.edu.au
+10bk	10BK: SARS-CoV-2 Spike in complex with PVI.V6-11 Fab	goran.bajic@mssm.edu
+11jh	11JH: Human MUTYH adenine glycosylase bound to DNA containing a transition state analog (1NBN) paired with d(8-oxo-G) and full Zn coordination	ssdavid@ucdavis.edu
+22eo	22EO: Crystal structure of the SLF1 BRCT domain in complex with a RPB2 peptide containing pS280	xiangsong@tmu.edu.cn
+24nn	24NN: E/E-tRNA bound M. smegmatis 70S ribosome in complex with RRF (RRI II)	jayati.iicb@csir.res.in
+25ce	25CE: RB43 intact state baseplate subunit	sokolova_o@smbu.edu.cn
+25cw	25CW: RB43 ejected state baseplate subunit	sokolova_o@smbu.edu.cn
+25ub	25UB: Crystal structure of SktA in complex with 7-bromo-L-tryptophan and Fe2+	guoreyting@gmail.com
+25ud	25UD: Crystal structure of SktA in complex with 5,7-dibromo-L-tryptophan and Fe2+	guoreyting@gmail.com
+29fb	29FB: CryoEM structure of NSUN2-C271S and the human Asp tRNA (GUC)	ana.casanal@fht.org
+29gx	29GX: Interaction of G4C2 repeat expansion in C9orf72 with ES9S of the 16S rRNA	klaholz@igbmc.fr
+31fk	31FK: Crystal structure of carbonic anhydrase II with 3,5-dichloro-4-{[2-(hydroxyimino)-2-phenylethyl]amino}benzenesulfonamide	lena@ibt.lt
+31fn	31FN: Crystal structure of carbonic anhydrase I with 4-{[2-(hydroxyimino)-2-phenylethyl]amino}benzenesulfonamide	lena@ibt.lt
+31ui	31UI: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 9mer (+3N) and molecular glue 78	l.brunsveld@tue.nl
+31uh	31UH: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 9mer (+3N) and molecular glue 22	l.brunsveld@tue.nl
+31uu	31UU: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 14mer T260A mutant (+1A)	l.brunsveld@tue.nl
+31ut	31UT: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 14mer (+8S) and molecular glue 78	l.brunsveld@tue.nl
+31uy	31UY: 14-3-3sigma protein binding to ARGH2 pS887 phosphopeptide	l.brunsveld@tue.nl
+31va	31VA: 14-3-3sigma protein binding to H31 pS29 phosphopeptide	l.brunsveld@tue.nl
+32pb	32PB: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Pseudomonas aeruginosa without bS21	reynald.gillet@univ-rennes.fr
+32pc	32PC: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Klebsiella quasipneumoniae with no E-site tRNA and no bS21	reynald.gillet@univ-rennes.fr
+32yk	32YK: CryoEM structure of NSUN2-C271S and the human tRNA Asp (GUC) - Non-crosslinked	ana.casanal@fht.org
+33sy	33SY: E. coli bifunctional acetaldehyde-CoA/alcohol dehydrogenase (AdhE) after reconstitution by acetone extract of E. coli cells	yarden.opatowsky@biu.ac.il
+36be	36BE: CryoEM structure of the nitrogenase a-Val70Ala MoFe-protein incubated with propargyl alcohol without turnover	rebeccah.warmack@yale.edu
+36bf	36BF: CryoEM structure of the nitrogenase a-Val70Ala MoFe-protein under proton turnover	rebeccah.warmack@yale.edu
+36bk	36BK: CryoEM structure of nitrogenase a-Val70Gly MoFe-protein under turnover with propargyl alcohol	rebeccah.warmack@yale.edu
+36eb	36EB: Structure of Staphylococcus aureus IsdH bound to the human hemoglobin:haptoglobin complex	rclubb@mbi.ucla.edu
+38ec	38EC: Cryo-EM structure of tetrameric AIFM1 with MIA40 (full-length) determined in the absence of NADH	bachovcd@mskcc.org
+38lx	38LX: Aspartate semi-aldehyde dependent dehydrogenase from Streptococcus pneumoniae with NADPH and agmatine bound	jsmcfarlane@fortlewis.edu
+40bg	40BG: MC4R co-expressed with a heterotrimeric Gs protein and the stabilizing antibody fragment scFv16, in complex with setmelanotide.	ccatalano@truecoursebio.com
+40cv	40CV: Cytochrome P450 enzymes 3A4 isoform	ccatalano@truecoursebio.com
+9ihm	9IHM: Low resolution structure of RAD51-G4 complex	lkrejci@chemi.muni.cz
+9ojc	9OJC: CryoEM Structure of MHC-IGRP228 in Complex with FAb 2	sandra.gabelli@merck.com
+9qes	9QES: Human pre-60S - State 2	beckmann@genzentrum.lmu.de
+9sr4	9SR4: Structure of stacked allo-activated CBS conformer by allosteric SAM - by single particle approach	inayathulla.mohammed@epfl.ch
+9t8u	9T8U: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Pseudomonas aeruginosa with bS21	reynald.gillet@univ-rennes.fr
+9tcq	9TCQ: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Klebsiella quasipneumoniae with bS21 and E-site tRNA	reynald.gillet@univ-rennes.fr
+9tzv	9TZV: 60S ribosome subunit from plasmaFIB milled S. cerevisiae as part of a damage study	stefan.raunser@mpi-dortmund.mpg.de
+9uw2	9UW2: The complex of human pMEK1 and thio-2pERK1 (ADP)	huqi@westlake.edu.cn
+9xmz	9XMZ: Cryo-EM structure of human CMG-ATP-DNA in a pausing state	alfredo.debiasio@kaust.edu.sa
+9xnf	9XNF: Cryo-EM Structure of CqDMDS in complex with FSPP and Mg2+.	jianqiangmshz@163.com
+9xoj	9XOJ: Crystal Structure of a Human Topoisomerase II-DNA Cleavage Complex Trapped in N-gate Dissociated State	2494066849@qq.com
+9xp4	9XP4: Cryo-EM structure of the 70S ribosome from stationary-phase Methanolobus in complex with P/E-tRNA	wenfeili@sdu.edu.cn
+9xw2	9XW2: Cryo-EM structure of PI3Kalpha E542K mutation in complex with RLY-2608	17862814619@163.com
+9yuj	9YUJ: human Siderocalin bound to 343HOPO-Gd	rstrong@fredhutch.org
+9yum	9YUM: human Siderocalin bound to 343HOPO-Lu	rstrong@fredhutch.org
+9yvq	9YVQ: human Siderocalin bound to 343HOPO-Tm	rstrong@fredhutch.org
+9z9m	9Z9M: Closed-state T4825I mouse/rabbit RyR1 under non-activating condition (5 mM EGTA)	filip.vanpetegem@ubc.ca
+9z9p	9Z9P: Skewed-state T4825I rabbit RyR1 with activating ligands (Ca2+/ATP) and S107	filip.vanpetegem@ubc.ca
+9z9u	9Z9U: Skewed-state rabbit RyR1 with activating ligands (Ca2+/ATP) and S107	filip.vanpetegem@ubc.ca
+30ov	30OV: W-formate dehydrogenase H193A from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris)	mjr@fct.unl.pt
+30pb	30PB: W-formate dehydrogenase Q409A from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris)	mjr@fct.unl.pt
+31dh	31DH: Pseudomonas Aeruginosa Lectin LecA complexed with 3-carboxy-5-hydroxyphenyl-beta-D-galactopyranoside at 1.02 A resolution	anne.imberty@cermav.cnrs.fr
+40gv	40GV: Crystal structure of a septum formation protein Maf from Coccidioides immitis	swlovell@ku.edu
+31fs	31FS: Crystal structure of carbonic anhydrase XII with 4-[2-(ethylsulfanyl)-4-phenyl-1H-imidazol-1-yl]benzene-1-sulfonamide	lena@ibt.lt
+23lr	23LR: Cryo-EM structure of SiTnpB in complex with reRNA	shequnxin@sdu.edu.cn
+24yi	24YI: 3-methyladenine DNA glycosylase bound to DNA/THF	xiewei6@mail.sysu.edu.cn
+36do	36DO: Bb SwrD Y17W	bc69@cornell.edu
+36fz	36FZ: Cryo-EM structure of AF6-88 Fab in complex with MHC-I (H2-Kb)	dmargulies@niaid.nih.gov
+36yk	36YK: Structure of BcM60G in complex with a glycopeptide	boraston@uvic.ca
+9t7c	9T7C: cryo-EM structure of Lipin1 TOS peptide bound to human mTOR complex 1, focused on RAPTOR	timm.maier@unibas.ch
+9xpb	9XPB: Crystal structure of Ubl1 (residues 19-112) of SARS-CoV	leijian@scu.edu.cn
+9xmt	9XMT: The self-assembled capsid protein of AbP20	caosheng@wh.iov.cn
+9xju	9XJU: Crystal structure of transglutaminase from Longimycelium turufanense	b.mikami.kyoto@gmail.com
+9xmx	9XMX: BTB domain of KEAP1 in complex with Chalcone	hudiewei18@163.com
+9t7e	9T7E: cryo-EM structure of Lipin1 TOS peptide bound to human mTOR complex 1	timm.maier@unibas.ch
+12fr	12FR: Cryo-EM structure of phospho-mimic Csx34 in complex with target DNA	strecker@molbio.mgh.harvard.edu
+36gu	36GU: Myxococcus xanthus Family 2B Enc1 closed 2-fold pore	tgiessen@umich.edu
+44kb	44KB: Structure of mature CVA6 virus complexed with 5C5 Fab	shubo@wh.iov.cn
+45sa	45SA: NMR structure of FgEC91	kumeta@pharm.hokudai.ac.jp
+27zu	27ZU: Atomic structure of the ASFV virus early transcription factor in DC state	yangyge@ibp.ac.cn
+9z6h	9Z6H: Apo Structure of the Type III CRISPR-Associated, Membrane Pore-Forming Cap1 Effector (Y75 side chain flipped-into pore)	pateld@mskcc.org
+37mq	37MQ: Cryo-EM model of the minor reactivation conformation of Cob(II)-bound Thermus filiformis cobalamin-dependent methionine synthase (MetH)	nozomi.ando@cornell.edu
+22ml	22ML: Sesquiterpene synthase - DnoCOS Lyase	liuyan@mail.kib.ac.cn
+26wz	26WZ: X-ray crystal structure of Eisenia fetida endo-beta-1,4-mannanase R318K mutant	tamada.taro@qst.go.jp
+36yf	36YF: Structure of BcM60G in complex with alpha-2,3-monosialylated core 1-Ser	boraston@uvic.ca
+9h2r	9H2R: The Cryo-EM structure of bacterial beta-1,3-glucan phosphorylase from family GH161 with glucose, phosphate, and laminaribiose bound	cioci@insa-toulouse.fr
+11ji	11JI: Human MUTYH adenine glycosylase bound to DNA containing a transition state analog (1N) paired with d(8-oxo-G) and full Zn coordination	ssdavid@ucdavis.edu
+24np	24NP: E/E-tRNA bound M. smegmatis 70S ribosome in complex with RRF (RRI III)	jayati.iicb@csir.res.in
+25dd	25DD: RB43 post-contraction/intermediate state neck subunit	sokolova_o@smbu.edu.cn
+25ua	25UA: Crystal structure of SktA in complex with 5-bromo-L-tryptophan and Fe2+	guoreyting@gmail.com
+26fi	26FI: Cryo-EM structure of the hexameric Skd3 Y229C	changwook@korea.ac.kr
+31cy	31CY: Transcription factors FLI1 and ERG bound to specific DNA	jussi.taipale@ki.se
+31fq	31FQ: Crystal structure of carbonic anhydrase XIII with 3,5-dichloro-4-{[2-(hydroxyimino)-2-phenylethyl]amino}benzenesulfonamide	lena@ibt.lt
+31un	31UN: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 11mer (+5H) and molecular glue 22	l.brunsveld@tue.nl
+31ux	31UX: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 14mer M265A (+6A) and molecular glue 22	l.brunsveld@tue.nl
+31vf	31VF: 14-3-3sigma protein binding to H31 pS29 phosphopeptide and molecular glue 78	l.brunsveld@tue.nl
+32yd	32YD: Human inosine monophosphate dehydrogenase 1 C331S mutant after reconstitution by acetonitrile-methanol extract of HEK293F cells	yarden.opatowsky@biu.ac.il
+34oa	34OA: Structure of the human apo B0AT1-collectrin complex	pn@mbg.au.dk
+36bj	36BJ: CryoEM structure of allyl alcohol bound nitrogenase a-Val70Ala/a-His195Gln MoFe-protein	rebeccah.warmack@yale.edu
+38cb	38CB: Pseudomonas phage DEV gp71 vRNAP: Recombinant C-Terminal Domain (CTD)	gcingola@uab.edu
+47go	47GO: Orphan nuclear receptor PXR	wangcaiyan@gzucm.edu.cn
+9ont	9ONT: Structure of a P-loop mutant PTP-like myo-inositol phosphatase from Selenomonas ruminantium in complex with myo-inositol hexakisphosphate	steven.mosimann@uleth.ca
+9sr6	9SR6: focused refined structure of SAM bound cis-basal CBS conformer - by single particle approach	inayathulla.mohammed@epfl.ch
+9ta1	9TA1: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Acinetobacter baumannii with bS21 and no E-site tRNA	reynald.gillet@univ-rennes.fr
+9xm0	9XM0: Crystal structure of beta-glucosidase Cba3 from Cellulomonas biazotea	structure@kookmin.ac.kr
+9xne	9XNE: Cryo-EM Structure of CqDMDS in complex with FPP and Mg2+.	jianqiangmshz@163.com
+9xod	9XOD: Crystal Structure of Hyaluronate lyase B from Staphylococcus aureus	kwok-yin.wong@polyu.edu.hk
+9yug	9YUG: human Siderocalin bound to 343HOPO-Dy	rstrong@fredhutch.org
+9yuo	9YUO: human Siderocalin bound to 343HOPO-Pr	rstrong@fredhutch.org
+9z9q	9Z9Q: Open-state T4825I rabbit RyR1 with activating ligands (Ca2+/ATP) and S107	filip.vanpetegem@ubc.ca
+30ow	30OW: W-formate dehydrogenase H193A from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris) - Formate reduced	mjr@fct.unl.pt
+30pa	30PA: W-formate dehydrogenase Q890A from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris) - Formate reduced	mjr@fct.unl.pt
+40ev	40EV: Cryo-EM structure of the immature HIV-1 CA-SP1 hexamer from Gag-Pol saturated virus-like particles	saffarian@physics.utah.edu
+32wq	32WQ: Human inosine monophosphate dehydrogenase 1 after reconstitution by aqueous extract of HEK293F cells	yarden.opatowsky@biu.ac.il
+46bw	46BW: Single-chain Fv antibody of 9TG	hanazono.str@tmd.ac.jp
+29oc	29OC: Cryo-EM structure of human fibrillar procollagen type I C-propeptide heterotrimer alpha1-K18A mutant complexed with PCPE-1	catherine.moali@cnrs.fr
+47np	47NP: Cryo-EM structure of Dicer in the compact apo state	tuananh@ust.hk
+9xqi	9XQI: DNA three-way junction with 2-thiothymine	j.kondo@sophia.ac.jp
+40bf	40BF: Melanocortin receptor 4 (MC4R) Gs protein complex	ccatalano@truecoursebio.com
+9xmu	9XMU: The tail structure of AbP20	caosheng@wh.iov.cn
+9xx9	9XX9: Structure of the heptameric late pre-pore state of alpha-hemolysin in the presence of RAW264.7 cells	somnath@iisc.ac.in
+9t76	9T76: cryo-EM structure of human LARP1 bound to human mTOR complex 1, focused on mLST8-TOS	timm.maier@unibas.ch
+25dc	25DC: RB43 post-contraction/intermediate state tail subunit	sokolova_o@smbu.edu.cn
+38yu	38YU: Serendipitous crystallization of cyanase from Serratia sp.	amgulick@buffalo.edu
+38bz	38BZ: Pseudomonas phage DEV gp71 vRNAP: Isolated RNAP Domain	gcingola@uab.edu
+26xa	26XA: X-ray crystal structure of Eisenia fetida endo-beta-1,4-mannanase R318A mutant	tamada.taro@qst.go.jp
+25cz	25CZ: RB43 pre-contraction tail subunit	sokolova_o@smbu.edu.cn
+9z6k	9Z6K: cA4 signal molecule bound structure of Type III CRISPR-Associated, Membrane Pore-Forming Cap1 Effector with DUF domain.	pateld@mskcc.org
+10bf	10BF: SARS-CoV-2 Spike in complex with PVI.V3-9 Fab	goran.bajic@mssm.edu
+25dk	25DK: Cryo-EM structure of the large serine recombinase Dn29 in complex with attP and attB (attP-L focused)	nisimasu@g.ecc.u-tokyo.ac.jp
+32ko	32KO: anti human Siglec 9 Fab	jereno@cicbiogune.es
+46bx	46BX: Single-chain Fv antibody of 9TG complexed with NP-glycine	hanazono.str@tmd.ac.jp
+9xp9	9XP9: Crystal structure of Acinetobacter baumannii phage AbP20 tail fiber protein gp44	fenhu@fjmu.edu.cn
+10bj	10BJ: SARS-CoV-2 Spike in complex with PVI.V6-2 Fab	goran.bajic@mssm.edu
+23ao	23AO: Structure of the Rieske Non-heme Iron Oxygenase VanA with vanillate bound	caichenggu@caas.cn
+24nu	24NU: M. smegmatis 70S ribosome in complex with RRF.	jayati.iicb@csir.res.in
+25uc	25UC: Crystal structure of SktA in complex with L-tryptophan and Fe2+	guoreyting@gmail.com
+28wa	28WA: Crystal structure of Pseudomonas Aeruginosa Lectin LecA complexed with 2-hydroxybenzoic acid-beta-D-galactoside at 1.5 A resolution	anne.imberty@cermav.cnrs.fr
+31fo	31FO: Crystal structure of carbonic anhydrase I with 3,5-dichloro-4-{[2-(hydroxyimino)-2-phenylethyl]amino}benzenesulfonamide	lena@ibt.lt
+31uk	31UK: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 10mer (+4V)	l.brunsveld@tue.nl
+31us	31US: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 14mer (+8S) and molecular glue 22	l.brunsveld@tue.nl
+31vb	31VB: 14-3-3sigma protein binding to KC1A pS218 phosphopeptide	l.brunsveld@tue.nl
+32di	32DI: RAD52 N-terminal domain in complex with fragment Z369737780	nibocquet@gmail.com
+32yo	32YO: Human inosine monophosphate dehydrogenase 1 after reconstitution by aceton extract of HEK293F cells	yarden.opatowsky@biu.ac.il
+34oe	34OE: Structure of occluded B0AT1-ACE2 complex bound to Leucine	pn@mbg.au.dk
+36wt	36WT: NVL bound to inhibitor compound 111 (YT-IV-277)	jan.erzberger@utsouthwestern.edu
+38tp	38TP: Aspartate semi-aldehdye dependent dehydrogenase from Streptococcus pneumoniae with NADPH bound	jsmcfarlane@fortlewis.edu
+47nl	47NL: Cryo-EM structure of Dicer in the expanding apo state	tuananh@ust.hk
+9ojf	9OJF: X-ray Structure of MHC-IGRP228 in Complex with FAb 3	thierry.fischmann@merck.com
+9q0k	9Q0K: Crystal structure of AF6-88 Fab in complex with MHC-I (H2-Kb)	dmargulies@niaid.nih.gov
+9t8x	9T8X: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Acinetobacter baumannii with bS21 and E-site tRNA	reynald.gillet@univ-rennes.fr
+9xkx	9XKX: Crystal structure of human PPARgamma ligand binding domain complexed with BW0923	bwhan@snu.ac.kr
+9xnq	9XNQ: Cryo-EM Structure of CqDMDS in complex with FPP/diol and Mg2+.	jianqiangmshz@163.com
+9xpa	9XPA: Crystal structure of the SARS-CoV-2 Ubl1 domain in complex with the nucleocapsid protein	leijian@scu.edu.cn
+9xvy	9XVY: Cryo-EM structure of PI3Kalpha E545K mutation in complex with RLY-2608	17862814619@163.com
+9yvj	9YVJ: human Siderocalin bound to 343HOPO-Sc	rstrong@fredhutch.org
+9z9o	9Z9O: Open-state T4825I mouse/rabbit RyR1 with activating ligands (Ca2+/ATP) and dantrolene	filip.vanpetegem@ubc.ca
+9zz8	9ZZ8: Crystal structure of HLA-B*18:01 in complex with NECLNPRIF, an 9-mer epitope from Influenza B	S.Gras@latrobe.edu.au
+30oz	30OZ: W-formate dehydrogenase Q890A from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris)	mjr@fct.unl.pt
+21fw	21FW: Structure of Cytochrome P450 CYP152-AncG2	pimchai.chaiyen@vistec.ac.th
+22ad	22AD: Structure of human sodium-dependent multivitamin transporter (SMVT) complexed with biotin in occluded conformation, state 3	liangling@bjmu.edu.cn
+46bv	46BV: Single-chain Fv antibody of C6G complexed with NP-glycine	hanazono.str@tmd.ac.jp
+39iw	39IW: Crystal structure of Human LRH-1 LBD bound to agonist 6N10CA and a fragment of Tif2 coactivator	eortlun@emory.edu
+9t78	9T78: cryo-EM structure of human Lipin1 bound to human mTOR complex 1, focused on RAPTOR	timm.maier@unibas.ch
+9xxb	9XXB: Structure of the heptameric pore state of alpha-hemolysin in the presence of RAW264.7 cells	somnath@iisc.ac.in
+9xq8	9XQ8: Crystal structure of Streptavidin-2 (Sav2) complexed with biotin from Streptomyces avidinii	dlwu@sdu.edu.cn
+9xmo	9XMO: Right-angle bent DNA with 6-thioguanine (P21 form)	j.kondo@sophia.ac.jp
+9t79	9T79: cryo-EM structure of human Lipin1 bound to human mTOR complex 1	timm.maier@unibas.ch
+9t71	9T71: Crystal structure of the deubiquitinase domain of AtDUC1.	ubaumann@uni-koeln.de
+32pg	32PG: Macroamidine-forming YcaO LmaB in complex with precursor peptide LmaA, intermediate	Jesko.koehnke@lci.uni-hannover.de
+46in	46IN: Cryo-EM structure of the apusomonad channelrhodopsin SfApuR2	nureki@bs.s.u-tokyo.ac.jp
+23kd	23KD: Cryo-EM structure of SiTnpB in complex with ptRNA	shequnxin@sdu.edu.cn
+9x9e	9X9E: Cryo-EM structure of a empty FPV particle	2016302200402@webmail.hzau.edu.cn
+24yh	24YH: 3-methyladenine DNA glycosylase mutant D223A bound to DNA/Hx	xiewei6@mail.sysu.edu.cn
+9z6g	9Z6G: Apo Structure of the Type III CRISPR-Associated, Membrane Pore-Forming Cap1 Effector	pateld@mskcc.org
+9zxy	9ZXY: Unliganded anti-HCV Fab RM1-38	wilson@scripps.edu
+11qh	11QH: Crystal structure of Serine/threonine-protein kinase 33 (STK33) Kinase Domain in complex with inhibitor CDD-3094	ckim@bcm.edu
+25dm	25DM: Cryo-EM structure of the large serine recombinase Dn29 in complex with attP and attB (attB-L focused)	nisimasu@g.ecc.u-tokyo.ac.jp
+44jz	44JZ: Cryo-EM structure of the mature CVA6 virion in complex with 1B4-Fab	shubo@wh.iov.cn
+9xqk	9XQK: DNA-silver complex with 2,4-dithiouridine	j.kondo@sophia.ac.jp
+11ip	11IP: Human MUTYH adenine glycosylase bound to DNA containing a product analog (THF) paired with d(8-oxo-G) with full Zinc coordination	ssdavid@ucdavis.edu
+24nm	24NM: P/E-tRNA bound M. smegmatis 70S ribosome in complex with RRF (RRI I)	jayati.iicb@csir.res.in
+25cx	25CX: RB43 intermediate state baseplate subunit	sokolova_o@smbu.edu.cn
+25ue	25UE: Crystal structure of SktA in complex with 7-bromo-L-tryptophan	guoreyting@gmail.com
+28kn	28KN: X-ray structure of the B. bacteriovorus Bd1152 2C2A mutant (I112C, L238C, L228A, F229A).	t.j.knowles@bham.ac.uk
+31fm	31FM: Crystal structure of carbonic anhydrase II with methyl {[4-phenyl-1-(4-sulfamoylphenyl)-1H-imidazol-2-yl]sulfanyl}acetate	lena@ibt.lt
+31ul	31UL: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 12mer (+6M) and molecular glue 22	l.brunsveld@tue.nl
+31ur	31UR: 14-3-3sigma protein binding to C-RAF phosphopeptide pS259 13mer (+7V) and molecular glue 78	l.brunsveld@tue.nl
+31uz	31UZ: 14-3-3sigma protein binding to ARHG2 phosphopeptide pS887 and molecular glue 22	l.brunsveld@tue.nl
+32mg	32MG: TREM2 extracellular domain (19-174) in complex with Fab-042596 (Parent Fab of VHB937 anitibody)	honnappa.srinivas@novartis.com
+33am	33AM: Human inosine monophosphate dehydrogenase 1 after reconstitution by acetonitrile/methanol extract of HEK293F cells	yarden.opatowsky@biu.ac.il
+34od	34OD: Structure of occluded B0AT1-ACE2 complex bound to Alanine	pn@mbg.au.dk
+36bi	36BI: CryoEM structure of allyl alcohol bound nitrogenase a-Val70Ala MoFe-protein	rebeccah.warmack@yale.edu
+38eb	38EB: Cryo-EM structure of dimeric AIFM1 with MIA40 (full-length) determined in the absence of NADH	bachovcd@mskcc.org
+46dj	46DJ: Cryo-EM structure of a stabilized HCMV pentameric complex bound to antibodies 2C12, 7I13, and 13H11 (Composite Map)	813552148@qq.com
+9onu	9ONU: Structure of a P-loop mutant PTP-like myo-inositol phosphatase from Selenomonas ruminantium in complex with myo-inositol-(1,2,4,5,6)-pentakisphosphate	steven.mosimann@uleth.ca
+9r2x	9R2X: T2R-TTL-compound 5 complex	andrea.prota@psi.ch
+9tap	9TAP: Structural characterization of hibernating ribosomes in the Gram-negative pathogen Acinetobacter baumannii with no bS21 and no E-site tRNA	reynald.gillet@univ-rennes.fr
+9xkw	9XKW: Crystal structure of human PPARgamma ligand binding domain complexed with PGC-1a peptide	bwhan@snu.ac.kr
+9xo6	9XO6: Cryo-EM structure of the ABTS-1	2528164803@qq.com
+9xp8	9XP8: Crystal structure of C36S mutant Glutathione peroxidase of Staphylococcus aureus in Ammonium Sulphate condition	sudipta@iitj.ac.in
+9yuk	9YUK: human Siderocalin bound to 343HOPO-Ho	rstrong@fredhutch.org
+9yun	9YUN: human Siderocalin bound to 343HOPO-Nd	rstrong@fredhutch.org
+9z7m	9Z7M: Human CD38 bound to ligand-ADPR adduct	rinku.jain@abbvie.com
+30ou	30OU: W-formate dehydrogenase R441K from Nitratidesulfovibrio vulgaris (Desulfovibrio vulgaris)	mjr@fct.unl.pt
+40eh	40EH: An atomic model for the capsid of the infectious flacherie virus of silkworm	liang.w.tang@gmail.com
+40cw	40CW: Structure of CYP3A4 with Hydroxychloroquine	ccatalano@truecoursebio.com
+12wn	12WN: De novo protein design, desE2D	possu@stanford.edu
+36ai	36AI: Structure of Photosystem I from Acaryochloris marina strain MU05	gisriel@wisc.edu
+47wy	47WY: Crystal structure of the de novo designed miniprotein binder against PDL1, Gpx41 at pH 5.	ravimakde@rrcat.gov.in
